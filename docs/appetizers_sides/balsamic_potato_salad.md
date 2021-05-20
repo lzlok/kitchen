@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Balsamic Glazed Potato Salad
-parent: Appetizers N Sides
+parent: Appetizers & Sides
 ---
 
 # Balsamic Glazed Potato Salad
