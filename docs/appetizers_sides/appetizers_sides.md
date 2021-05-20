@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Appetizers & Sides
+title: Appetizers N Sides
 nav_order: 3
 has_children: true
 permalink: /docs/appetizers_sides
 ---
 
-# Breakfasts
+# Appetizers & Sides
 
 These are the following breakfasts
 {: .fs-6 .fw-300 }

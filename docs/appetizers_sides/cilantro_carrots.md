@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cilantro Carrots with Cumin
-parent: Appetizers & Sides
+parent: Appetizers N Sides
 ---
 
 # Cilantro Carrots with Cumin

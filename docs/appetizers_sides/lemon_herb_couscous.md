@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lemon Herb Couscous
-parent: Appetizers & Sides
+parent: Appetizers N Sides
 ---
 
 # Lemon Herb Couscous

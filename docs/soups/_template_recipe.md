@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Crumpets
-parent: Appetizers & Sides
+parent: Soups
 ---
 
 # Crumpets
