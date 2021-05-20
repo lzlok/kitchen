@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Buttermilk Pancakes with Maple Syrup Apples
-parent: breakfasts
+parent: Breakfasts
 ---
 
 # Buttermilk Pancakes with Maple Syrup Apples

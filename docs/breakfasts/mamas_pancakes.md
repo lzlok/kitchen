@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mama’s Pancakes
-parent: breakfasts
+parent: Breakfasts
 ---
 
 # Mama’s Pancakes
