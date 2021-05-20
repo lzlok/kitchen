@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Zaalouk
-parent: Appetizers N Sides
+parent: Appetizers & Sides
 ---
 
 # Zaalouk

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stuffed Tomatoes
-parent: Appetizers N Sides
+parent: Appetizers & Sides
 ---
 
 # Stuffed Tomatoes

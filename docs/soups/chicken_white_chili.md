@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Crumpets
+title: Chicken White Chili Soup
 parent: Soups
 ---
 
-# Crumpets
+# Chicken White Chili Soup
 {: .no_toc }
 
 ---
