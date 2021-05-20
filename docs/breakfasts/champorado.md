@@ -22,4 +22,4 @@ parent: Breakfasts
 ## Instructions
 Cook rice and water in a large pot. Add the rest of the ingredients after 20 minutes. Drizzles evaporated milk on top when serving.
 
-Serves 3 full servings.
+Makes 3 full servings.

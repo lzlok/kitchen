@@ -4,12 +4,12 @@ title: Palačinke
 parent: Breakfasts
 ---
 
-# Palačinke :)
+# Palačinke
 {: .no_toc }
 
 ---
 
-## Ingredients
+## Ingredients :)
 <ul>
 	<li>2 cijela jaja</li>
 	<li>500 mililitara mlakog ili hladnog mlijeka</li>
