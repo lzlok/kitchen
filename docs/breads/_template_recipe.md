@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Crumpets
-parent: Breakfasts
+parent: Breads
 ---
 
 # Crumpets
