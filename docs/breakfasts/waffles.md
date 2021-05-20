@@ -11,12 +11,12 @@ parent: Breakfasts
 
 ## Ingredients
 <ul>
-	<li>2 c. flour</p></li>
-	<li>¼ tsp. baking soda</p></li>
-	<li>1 ⅓ tsp. baking powder</p></li>
-	<li>1 tbs. sugar</p></li>
-	<li>½ tsp. salt</p></li>
-	<li>1¾ c. buttermilk</p></li>
-	<li>3 tbs. melted butter</p></li>
+	<li>2 c. flour</li>
+	<li>¼ tsp. baking soda</li>
+	<li>1 ⅓ tsp. baking powder</li>
+	<li>1 tbs. sugar</li>
+	<li>½ tsp. salt</li>
+	<li>1¾ c. buttermilk</li>
+	<li>3 tbs. melted butter</li>
 	<li>2 eggs</li>
 </ul>

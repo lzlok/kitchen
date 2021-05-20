@@ -11,7 +11,7 @@ parent: Breakfasts
 
 ## Apple Topping
 
-### Ingredients \frac{1}{2}
+### Ingredients
 
 <ul>
 	<li>2 tbs. unsalted butter</li>
@@ -30,15 +30,15 @@ cinnamon.
 
 ### Ingredients
 <ul>
-	<li>1 c. all-purpose flour</li></li>
-	<li>2 tbs. yellow cornmeal</p></li>
-	<li>2 tbs. (packed) golden brown sugar</p></li>
-	<li>1 tsp. baking powder</p></li>
-	<li>1 tsp. baking soda</p></li>
-	<li>½ tsp. salt</p></li>
-	<li>1 c. buttermilk</p></li>
-	<li>1 c. plain whole-milk yogurt</p></li>
-	<li>1 large egg</p></li>
+	<li>1 c. all-purpose flour</li>
+	<li>2 tbs. yellow cornmeal</li>
+	<li>2 tbs. (packed) golden brown sugar</li>
+	<li>1 tsp. baking powder</li>
+	<li>1 tsp. baking soda</li>
+	<li>½ tsp. salt</li>
+	<li>1 c. buttermilk</li>
+	<li>1 c. plain whole-milk yogurt</li>
+	<li>1 large egg</li>
 	<li>1½ tbs. unsalted butter, melted</li>
 </ul>
 
