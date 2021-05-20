@@ -54,7 +54,7 @@ $ jekyll serve
 ```
 ```bash
 # .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
+$  bundle exec jekyll serve --config _config_local.yml
 ```
 4. Point your web browser to [http://localhost:4000](http://localhost:4000)
 
