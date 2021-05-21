@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cornbread
-parent: Breads
+parent: Savory Breads
 ---
 
 # Cornbread

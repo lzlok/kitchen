@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Crusty Country Loaf
-parent: Breads
+parent: Savory Breads
 ---
 
 # Crusty Country Loaf

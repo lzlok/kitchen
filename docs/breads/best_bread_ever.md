@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Best Bread Ever
-parent: Breads
+parent: Savory Breads
 ---
 
 # Best Bread Ever

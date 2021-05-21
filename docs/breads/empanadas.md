@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Empanadas
-parent: Breads
+parent: Savory Breads
 ---
 
 # Empanadas
