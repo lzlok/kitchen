@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Appetizers & Sides
+title: Desserts
 nav_order: 7
 has_children: true
 permalink: /docs/desserts
