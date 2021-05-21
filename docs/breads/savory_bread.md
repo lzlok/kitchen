@@ -4,7 +4,6 @@ title: Savory Breads
 parent: Breads
 nav_exclude: true
 has_children: true
-permalink: /docs/breads
 ---
 
 # Savory Breads
