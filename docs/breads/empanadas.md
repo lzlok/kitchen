@@ -3,7 +3,7 @@ layout: default
 title: Empanadas
 parent: Savory Breads
 grand_parent: Breads
-permalink: permalink: /docs/breads
+permalink: /docs/breads/savory_bread
 ---
 
 # Empanadas

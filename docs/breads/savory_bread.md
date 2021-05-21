@@ -2,7 +2,6 @@
 layout: default
 title: Savory Breads
 parent: Breads
-nav_exclude: false
 has_children: true
 ---
 
