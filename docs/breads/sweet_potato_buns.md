@@ -29,7 +29,7 @@ Stir every day, adding
 </ul>
 
 ## Buns
-###Ingredients
+### Ingredients
 <ul>
 	<li>1¾ c. starter</li>
 	<li>6 c. flour</li>

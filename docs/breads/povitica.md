@@ -43,19 +43,19 @@ grand_parent: Breads
 </ul>
 
 ## Instructions
-###For the dough:
+### For the dough:
 
 For the dough, tip the flour and sugar into the bowl of a freestanding mixer fitted with a dough hook. Add the salt into one side of the bowl and the yeast to the other. Add the melted butter, egg, vanilla seeds and warm milk and begin mixing on a slow speed. When the dough starts to come together, mix for a further 5-8 minutes on a medium speed until the dough is soft, smooth and stretchy.
 
 Tip the dough into a lightly oiled mixing bowl, cover with cling film and leave to rise until at least doubled in size – about one hour. Butter a 1kg (2lb) loaf tin.
 
-###For the filling:
+### For the filling:
 
 For the filling, place the butter and milk in a small pan and heat gently until the butter has melted. Remove from the heat.
 
 Place the walnuts, vanilla seeds, sugar and cocoa powder into the bowl of a food processor and blend to a sandy powder. Add the egg yolk, milk and butter mixture and pulse to combine. Set aside.
 
-###Assembly and Baking
+### Assembly and Baking
 
 To assemble, spread a clean bed sheet over a kitchen table and dust with flour. Turn the risen dough out onto the sheet and roll out the dough into a large 50x30cm (20x12in) rectangle. Brush the surface with 15g (½oz) melted butter.
 

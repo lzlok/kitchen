@@ -6,7 +6,7 @@ parent: Soups
 
 # Shrimp Bisque
 {: .no_toc }
-#### From Food Network, 2006
+#### From <i>Food Network</i>, 2006
 ---
 
 ## Ingredients

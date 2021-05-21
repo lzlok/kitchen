@@ -28,12 +28,12 @@ grand_parent: Breads
 </ul>
 
 ## Instructions
-###The Evening Before
+### The Evening Before
 
 To warm rum, add the dried fruit, almonds, and grated lemon
 peel in a bowl. Mix and cover.
 
-###Baking Day
+### Baking Day
 
 Mix yeast in a large bowl with some milk (not more than
 30˚C) and some sugar. Sprinkle with flour. Leave for 30 minutes.
@@ -57,7 +57,7 @@ better than convection. For a 500g Stollen, bake ~45 minutes. For a 1kg
 Stollen, bake ~60 minutes. Regularly check it in the oven. If it becomes brown,
 cover with foil.
 
-###After Baking
+### After Baking
 
 Immediately after baking, brush with melted butter. Let the
 Stollen cool completely. Then brush with melted butter again. Mix sugar with vanilla

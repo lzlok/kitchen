@@ -7,7 +7,7 @@ grand_parent: Breads
 
 # Panettone
 {: .no_toc }
-####“Overnight Panettone” from King Arthur Flour
+#### “Overnight Panettone” from King Arthur Flour
 ---
 
 ## Ingredients
@@ -38,7 +38,7 @@ OR 1 tsp. vanilla + ⅛ tsp. orange oil</li>
 </ul>
 
 ## Instructions
-###Starter (the night before):
+### Starter (the night before):
 
 Combine the starter ingredients in a medium-sized mixing
 bowl, cover, and allow them to rest overnight (8 to 12 hours).

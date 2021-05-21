@@ -7,11 +7,11 @@ grand_parent: Breads
 
 # Hot Cross Buns
 {: .no_toc }
-####From King Arthur Flour, modified
+#### From King Arthur Flour, modified
 ---
 
 ## Ingredients
-###Buns
+### Buns
 <ul>
 	<li>¼ c. (57g) apple juice or rum</li>
 	<li>½ c. (78g) mixed dried fruit (see Note 1)</li>
@@ -29,7 +29,7 @@ grand_parent: Breads
 	<li>4½ c. (539g) King Arthur Unbleached All-Purpose Flour</li>
 </ul>
 
-###Topping
+### Topping
 <ul>
 	<li>75 g. flour</li>
 	<li>3 tbs. apricot jam</li>
