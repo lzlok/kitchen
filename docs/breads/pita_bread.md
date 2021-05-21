@@ -3,7 +3,6 @@ layout: default
 title: Pita Bread
 parent: Savory Breads
 grand_parent: Breads
-permalink: /docs/breads/savory_bread
 ---
 
 # Pita Bread

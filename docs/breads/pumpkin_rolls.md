@@ -3,7 +3,6 @@ layout: default
 title: Chillingsworth Pumpking Rolls
 parent: Savory Breads
 grand_parent: Breads
-permalink: /docs/breads/savory_bread
 ---
 
 # Chillingsworth Pumpking Rolls

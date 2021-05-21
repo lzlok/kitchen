@@ -3,7 +3,6 @@ layout: default
 title: French-Style Country Bread
 parent: Savory Breads
 grand_parent: Breads
-permalink: /docs/breads/savory_bread
 ---
 
 # French-Style Country Bread

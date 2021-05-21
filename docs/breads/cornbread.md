@@ -3,7 +3,6 @@ layout: default
 title: Cornbread
 parent: Savory Breads
 grand_parent: Breads
-permalink: /docs/breads/savory_bread
 ---
 
 # Cornbread

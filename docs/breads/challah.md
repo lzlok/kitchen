@@ -3,7 +3,6 @@ layout: default
 title: Challah
 parent: Savory Breads
 grand_parent: Breads
-permalink: /docs/breads/savory_bread
 ---
 
 # Challah

@@ -3,7 +3,6 @@ layout: default
 title: Pizza Caccia Nanza
 parent: Savory Breads
 grand_parent: Breads
-permalink: /docs/breads/savory_bread
 ---
 
 # Pizza Caccia Nanza

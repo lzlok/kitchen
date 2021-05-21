@@ -3,7 +3,6 @@ layout: default
 title: Banana Nut Bread
 parent: Sweet Breads
 grand_parent: Breads
-permalink: /docs/breads/sweet_bread
 ---
 
 # Banana Nut Bread

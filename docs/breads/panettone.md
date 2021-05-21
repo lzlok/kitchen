@@ -3,7 +3,6 @@ layout: default
 title: Panettone
 parent: Sweet Breads
 grand_parent: Breads
-permalink: /docs/breads/sweet_bread
 ---
 
 # Panettone

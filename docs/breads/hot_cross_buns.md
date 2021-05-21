@@ -3,7 +3,6 @@ layout: default
 title: Hot Cross Buns
 parent: Sweet Breads
 grand_parent: Breads
-permalink: /docs/breads/sweet_bread
 ---
 
 # Hot Cross Buns
