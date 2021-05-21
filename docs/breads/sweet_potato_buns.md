@@ -2,6 +2,9 @@
 layout: default
 title: Margaret’s steamed sweet potato buns
 parent: Breads
+parent: Sweet Breads
+grand_parent: Breads
+permalink: /docs/breads/sweet_bread
 ---
 
 # Margaret’s steamed sweet potato buns
