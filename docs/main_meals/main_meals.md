@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Main Meals
+nav_order: 5
 has_children: true
 permalink: /docs/main_meals
 ---
