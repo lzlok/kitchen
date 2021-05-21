@@ -2,7 +2,6 @@
 layout: default
 title: Crusty Country Loaf
 parent: Savory Breads
-parent: Savory Breads
 grand_parent: Breads
 permalink: /docs/breads/savory_bread
 ---

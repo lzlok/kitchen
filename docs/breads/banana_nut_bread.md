@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Banana Nut Bread
-parent: Breads
 parent: Sweet Breads
 grand_parent: Breads
 permalink: /docs/breads/sweet_bread

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Christstollen
-parent: Breads
 parent: Sweet Breads
 grand_parent: Breads
 permalink: /docs/breads/sweet_bread

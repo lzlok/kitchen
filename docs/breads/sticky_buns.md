@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Ultimate Sticky Nuns
-parent: Breads
 parent: Sweet Breads
 grand_parent: Breads
 permalink: /docs/breads/sweet_bread
