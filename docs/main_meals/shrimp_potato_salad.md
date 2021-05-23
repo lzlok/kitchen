@@ -17,7 +17,7 @@ grand_parent: Main Meals
 	<li>6 tbs. dry white wine</li>
 	<li>1 c. red onion, thinly sliced</li>
 	<li>⅓ c. minced fresh parsley</li>
-	<li><a href="./../../sauce/sun_dred_tomato_dressing target = "blank">Sun-dried tomato dressing</a></li>
+	<li><a href="./../../sauce/sun_dried_tomato_dressing" target = "blank">Sun-dried tomato dressing</a></li>
 	<li>¾ c. dry white wine</li>
 	<li>24 mussels</li>
 	<li>2 tbs. olive oil</li>
