@@ -2,6 +2,7 @@
 layout: default
 title: Deep Dish Pizza
 parent: Main Meals
+nav_order: 1
 ---
 
 # Deep Dish Pizza

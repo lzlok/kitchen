@@ -6,7 +6,7 @@ has_children: true
 permalink: /docs/sauces
 ---
 
-# Sauces
+# Sauces & Dressings
 
-These are the following sauces
+These are the following sauces and dressings
 {: .fs-6 .fw-300 }
