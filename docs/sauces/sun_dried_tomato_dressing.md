@@ -8,7 +8,7 @@ parent: Sauces
 {: .no_toc }
 
 ---
-
+For use with <a href = "./../../main_meals/shrimp_potato_salad" target = "blank">Mediterranean Potato Salad with Shrimp</a>
 ## Ingredients
 <ul>
 	<li>4 oz sun-dried tomatoes in oil, drained, finely chopped</li>
