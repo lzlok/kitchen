@@ -11,7 +11,7 @@ grand_parent: Main Meals
 
 ## Ingredients
 <ul>
-	<li><a href="./../../sauces/spicy_garlic_sauce" target = "blank">Spicy garlic sauce</a></li>
+	<li><a href="./../../sauces/spicy_garlic_sauce" target = "_blank">Spicy garlic sauce</a></li>
 	<li>1 medium zucchini, cut in ½” cross-wise slices then quartered</li>
 	<li>2 c. red bell peppers, finely chopped</li>
 	<li>4 tsp. finely chopped fresh hot red or green pepper</li>

@@ -22,7 +22,7 @@ grand_parent: Main Meals
 	<li>1½ c. cooked rice</li>
 	<li>One 10-oz package frozen spinach, thawed, drained, and chopped</li>
 	<li>1½ tsp. dried oregano</li>
-	<li>1 recipe of <a href ="./../../sauces/bechamel" target = "blank">béchamel sauce</a></li>
+	<li>1 recipe of <a href ="./../../sauces/bechamel" target = "_blank">béchamel sauce</a></li>
 </ul>
 
 ## Instructions

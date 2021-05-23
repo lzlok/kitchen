@@ -8,7 +8,7 @@ parent: Sauces
 {: .no_toc }
 
 ---
-For use with <a href = "./../../main_meals/vegetable_paella" target = "blank">Vegetable Paella</a>
+For use with <a href = "./../../main_meals/vegetable_paella" target = "_blank">Vegetable Paella</a>
 
 ## Ingredients
 <ul>
