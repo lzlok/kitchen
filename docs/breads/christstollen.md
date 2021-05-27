@@ -64,7 +64,7 @@ Stollen cool completely. Then brush with melted butter again. Mix sugar with van
 sugar then sprinkle all around the Stollen using a sifter. Then, sprinkle the
 Stollen with powdered sugar on all sides.
 
-###Tips:
+### Tips:
 
 <ul>
 	<li>Bake and cool approximately 3 weeks before consumption.</li>

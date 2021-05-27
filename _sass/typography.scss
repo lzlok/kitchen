@@ -6,24 +6,27 @@
 h1,
 .text-alpha {
   @include fs-8;
-  font-weight: 300;
+  font-weight: 400;
   font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
 }
 
 h2,
 .text-beta {
   @include fs-6;
+  font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif
 }
 
 h3,
 .text-gamma {
   @include fs-5;
+  font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif
 }
 
 h4,
 .text-delta {
   @include fs-2;
   font-weight: 400;
+  font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }

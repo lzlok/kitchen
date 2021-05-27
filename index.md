@@ -6,7 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# <span style="font-family: 'Optima';">The Zlokapa Recipe Collection</span>
+# The Zlokapa Recipe Collection
 {: .fs-9 }
 
 <i>A Collection of Family and Well-Loved Recipes</i>
