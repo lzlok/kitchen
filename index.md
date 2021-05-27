@@ -6,7 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# The Zlokapa Recipe Collection
+# <span style="font-family: 'Candara';">The Zlokapa Recipe Collection</span>
 {: .fs-9 }
 
 A Collection of Family and Well-Loved Recipes
@@ -35,7 +35,7 @@ P.S. If you feel like eating a particular cuisine, I've added a cuisine tag to e
 so just type the cuisine in the search bar, and you will see the list of recipes corresponding to
 that cuisine.
 
-Valid cuisine searches are (please update this list if you add any) listed below. Each dish is tagged
+Valid cuisine searches are listed below (please update this list if you add any). Each dish is tagged
 with a broad indication of the cuisine (the first level of bullet points) and a more specific location
 if appropriate.
 <ul>
