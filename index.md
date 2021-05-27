@@ -14,7 +14,7 @@ permalink: /
 
 ---
 
-Welcome, and happy happy happy birthday!
+## Welcome, and happy happy happy birthday!
 
 I remember when you had to cook for yourself one summer, you made a lot of recipes from home, 
 so I've put all of Mama's recipes that I copied (as well as some of my own that I've enjoyed 
@@ -31,7 +31,9 @@ cooker recipes if you don't like them :P
 
 Happy birthday and prijatno!
 
-P.S. If you feel like eating a particular cuisine, I've added a cuisine tag to each recipe page,
+## Addendum
+
+If you feel like eating a particular cuisine, I've added a cuisine tag to each recipe page,
 so just type the cuisine in the search bar, and you will see the list of recipes corresponding to
 that cuisine.
 
