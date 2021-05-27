@@ -42,6 +42,7 @@ if appropriate.
 	<li>Western
 		<ul>
 			<li>American</li>
+			<li>Balkan</li>
 			<li>Basque</li>
 			<li>English/Irish</li>
 			<li>French</li>
@@ -49,9 +50,8 @@ if appropriate.
 			<li>Italian</li>
 			<li>Portuguese</li>
 			<li>Spanish</li>
-			<li>Balkan</li>
 		</ul>
-	</il>
+	</li>
 	<li>Middle Eastern
 		<ul>
 			<li>Moroccan</li>
