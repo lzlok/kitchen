@@ -6,91 +6,66 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation
+# The Zlokapa Recipe Collection
 {: .fs-9 }
 
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
-
 ---
 
-## Getting started
+Welcome, and happy happy happy birthday!
 
-### Dependencies
+I remember when you had to cook for yourself one summer, you made a lot of recipes from home, 
+so I've put all of Mama's recipes that I copied (as well as some of my own that I've enjoyed 
+enough to want make again) into a website for you. Obviously, you may still come over for meals, 
+but since I won't cook for you all the time, I thought you might appreciate this. In light of
+your inclination for faster, simpler recipes, I've included an experimental rice cooker
+section of one-dish recipes that you can make by mixing everything in the rice cooker then
+turning the rice cooker on. I haven't tried any of them. I hear the  dining commons food 
+gets boring after a while.
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+You should now be a collaborator of the website, so feel free to fix typos or add recipes 
+that you like and would recommend making! Feel free to also take down the experimental rice
+cooker recipes if you don't like them :P
 
-### Quick start: Use as a GitHub Pages remote theme
+Happy birthday and prijatno!
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+P.S. If you feel like eating a particular cuisine, I've added a cuisine tag to each recipe page,
+so just type the cuisine in the search bar, and you will see the list of recipes corresponding to
+that cuisine.
 
-### Local installation: Use the gem-based theme
-
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$  bundle exec jekyll serve --config _config_local.yml
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
-
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
-
-### Configure Just the Docs
-
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
-
----
-
-## About the project
-
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
-
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
-
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
-
-#### Thank you to the contributors of Just the Docs!
-
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
+Valid cuisine searches are (please update this list if you add any) listed below. Each dish is tagged
+with a broad indication of the cuisine (the first level of bullet points) and a more specific location
+if appropriate.
+<ul>
+	<li>Western
+		<ul>
+			<li>American</li>
+			<li>Basque</li>
+			<li>English/Irish</li>
+			<li>French</li>
+			<li>Greek</li>
+			<li>Italian</li>
+			<li>Portuguese</li>
+			<li>Spanish</li>
+			<li>Balkan</li>
+		</ul>
+	</il>
+	<li>Middle Eastern
+		<ul>
+			<li>Moroccan</li>
+		</ul>
+	</li>
+	<li>Mexican</li>
+	<li>Asian
+		<ul>
+			<li>Chinese</li>
+			<li>Filipino</li>
+			<li>Indonesian</li>
+			<li>Japanese</li>
+			<li>Korean</li>
+		</ul>
+	</li>
+	<li>African</li>
 </ul>
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
