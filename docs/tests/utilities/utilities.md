@@ -2,7 +2,6 @@
 layout: default
 title: Utilities
 has_children: true
-permalink: docs/utilities
 ---
 
 # Utilities

@@ -2,7 +2,6 @@
 layout: default
 title: UI Components
 has_children: true
-permalink: /docs/ui-components
 ---
 
 # UI Components
