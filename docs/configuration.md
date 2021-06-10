@@ -7,6 +7,7 @@ title: Configuration
 {: .no_toc }
 
 
+<!-- 
 Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
 {: .fs-6 .fw-300 }
 
@@ -15,11 +16,13 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 1. TOC
 {:toc}
+ -->
 
 
 ---
 
 
+<!-- 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
 
@@ -196,4 +199,4 @@ just_the_docs:
       name: Tutorials
 ```
 
-
+ -->
