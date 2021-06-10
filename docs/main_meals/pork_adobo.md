@@ -5,7 +5,7 @@ parent: Pork Recipes
 grand_parent: Main Meals
 ---
 
-# Empanadas
+# Pork Adobo
 {: .no_toc }
 ---
 
