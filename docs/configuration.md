@@ -1,24 +1,24 @@
 ---
 layout: default
 title: Configuration
-nav_exclude: True
-search_exclude: True
+
 ---
 
 # Configuration
 {: .no_toc }
 
 
-<!-- 
 Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
 {: .fs-6 .fw-300 }
 
+<!-- 
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
  -->
+
 
 
 ---
