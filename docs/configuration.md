@@ -16,13 +16,12 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 1. TOC
 {:toc}
- -->
+
 
 
 ---
 
 
-<!-- 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
 
