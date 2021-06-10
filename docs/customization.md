@@ -1,22 +1,24 @@
 ---
 layout: default
 title: Customization
+nav_exclude: True
+search_exclude: True
 ---
 
 # Customization
 {: .no_toc }
+<!-- 
 
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
-
+ -->
 
 ---
 
-<!<!-- 
--- 
+<!-- 
 ## Color schemes
 {: .d-inline-block }
 
@@ -115,5 +117,4 @@ For example, if you'd like to add your own styles for printing a page, you could
   .main-content { max-width: auto; margin: 1em;}
 }
 ```
- --
- -->>
+ -->
