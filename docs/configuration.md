@@ -10,18 +10,16 @@ title: Configuration
 Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
 {: .fs-6 .fw-300 }
 
-<!-- 
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
- -->
+
 
 ---
 
 
-<!-- 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
 
@@ -139,7 +137,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
+See [Customization]({{ site.baseurl }}{% link docs/tests/customization.md %}) for more information.
 
 ## Google Analytics
 
@@ -198,4 +196,4 @@ just_the_docs:
       name: Tutorials
 ```
 
- -->
+
