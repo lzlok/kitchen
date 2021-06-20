@@ -8,6 +8,7 @@ parent: Breakfasts
 {: .no_toc }
 #### From <i>Beard on Bread</i>
 
+#### Cuisine: Western, American
 ---
 
 ## Ingredients

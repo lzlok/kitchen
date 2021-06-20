@@ -7,6 +7,7 @@ parent: Breakfasts
 # King Arthur Scones
 {: .no_toc }
 
+#### Cuisine: Western, American
 ---
 
 ## Ingredients

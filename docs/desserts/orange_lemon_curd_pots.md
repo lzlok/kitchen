@@ -7,6 +7,8 @@ grand_parent: Desserts
 
 # Orange and Lemon Curd Pots
 {: .no_toc }
+
+#### Cuisine: Western
 ---
 
 ## Ingredients

@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Lamb Shawarma
 {: .no_toc }
+
+#### Cuisine: Middle Eastern
 ---
 
 ## Ingredients

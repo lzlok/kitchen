@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Stuffed Peppers
 {: .no_toc }
+
+#### Cuisine: Western, Balkans
 ---
 
 ## Ingredients

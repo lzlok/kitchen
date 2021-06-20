@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Joelle’s leek fritters 
 {: .no_toc }
+
+#### Cuisine: Other
 ---
 
 ## Ingredients

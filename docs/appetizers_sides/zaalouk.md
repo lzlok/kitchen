@@ -7,6 +7,7 @@ parent: Appetizers & Sides
 # Zaalouk
 {: .no_toc }
 
+#### Cuisine: Middle Eastern
 ---
 
 ## Ingredients

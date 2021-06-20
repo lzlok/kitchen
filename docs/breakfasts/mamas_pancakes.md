@@ -7,6 +7,7 @@ parent: Breakfasts
 # Mama’s Pancakes
 {: .no_toc }
 
+#### Cuisine: Western, American
 ---
 
 ## Ingredients

@@ -8,6 +8,8 @@ grand_parent: Breads
 # Panettone
 {: .no_toc }
 #### “Overnight Panettone” from King Arthur Flour
+
+#### Cuisine: Western, Italian
 ---
 
 ## Ingredients

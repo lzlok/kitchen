@@ -8,6 +8,8 @@ grand_parent: Breads
 # Ultimate Sticky Buns
 {: .no_toc }
 #### From <i>Bon Appétit</i>, April 2002
+
+#### Cuisine: Western
 ---
 
 ## Ingredients

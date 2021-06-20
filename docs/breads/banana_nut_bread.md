@@ -8,6 +8,8 @@ grand_parent: Breads
 # Banana Nut Bread
 {: .no_toc }
 #### From <i>Beard on Bread</i>
+
+#### Cuisine: Western
 ---
 
 ## Ingredients

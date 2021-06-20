@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Mediterranean Potato Salad with Shrimp
 {: .no_toc }
+
+#### Cuisine: Western, Mediterranean
 ---
 
 ## Ingredients

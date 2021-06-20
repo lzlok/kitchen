@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Julia Child’s Sautéed Veal Chops
 {: .no_toc }
+
+#### Cuisine: Western, French
 ---
 
 ## Ingredients

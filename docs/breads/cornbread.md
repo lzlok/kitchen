@@ -8,6 +8,8 @@ grand_parent: Breads
 # Cornbread
 {: .no_toc }
 #### Mama's recipe from <i>Thrill of the Grill</i>
+
+#### Cuisine: Western, American
 ---
 
 ## Ingredients

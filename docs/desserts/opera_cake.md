@@ -8,6 +8,8 @@ grand_parent: Desserts
 # Opera Cake
 {: .no_toc }
 #### From <i>Epicurious</i>, September 2004
+
+#### Cuisine: Western
 ---
 
 ## Ingredients

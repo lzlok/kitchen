@@ -8,6 +8,7 @@ grand_parent: Breads
 # Best Bread Ever
 {: .no_toc }
 
+#### Cuisine: Western
 ---
 
 ## Ingredients

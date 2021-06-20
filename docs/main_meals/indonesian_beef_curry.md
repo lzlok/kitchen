@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Indonesian beef curry
 {: .no_toc }
+
+#### Cuisine: Asian, Indonesian
 ---
 
 ## Ingredients

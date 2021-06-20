@@ -8,6 +8,7 @@ grand_parent: Breads
 # Margaret’s Steamed Sweet Potato Buns
 {: .no_toc }
 
+#### Cuisine: Western
 ---
 
 ## Starter, 7 days before baking

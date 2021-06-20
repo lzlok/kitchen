@@ -7,6 +7,8 @@ parent: Sauces
 # Filipino Barbecue
 {: .no_toc }
 
+#### Cuisine: Asian, Filipino
+
 ---
 
 ## Ingredients

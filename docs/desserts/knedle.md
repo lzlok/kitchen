@@ -7,6 +7,8 @@ grand_parent: Desserts
 
 # Baba’s Knedle
 {: .no_toc }
+
+#### Cuisine: Western, Balkan
 ---
 
 ## Ingredients

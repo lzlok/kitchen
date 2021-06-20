@@ -7,6 +7,8 @@ grand_parent: Desserts
 
 # Apple or Cherry Strudel
 {: .no_toc }
+
+#### Cuisine: Western, Austrian
 ---
 
 ## Ingredients

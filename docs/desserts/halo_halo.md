@@ -7,6 +7,8 @@ grand_parent: Desserts
 
 # Halo Halo
 {: .no_toc }
+
+#### Cuisine: Asian, Filipino
 ---
 
 ## Ingredients

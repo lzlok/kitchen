@@ -8,6 +8,8 @@ grand_parent: Main Meals
 # Kalbi (Korean Barbequed Beef Short Ribs)
 {: .no_toc }
 #### Food Network
+
+#### Cuisine: Asian, Korean
 ---
 
 ## Ingredients

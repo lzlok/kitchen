@@ -8,6 +8,8 @@ grand_parent: Desserts
 # Blackberry Walnut Torte
 {: .no_toc }
 #### From <i>Bon Appétit</i>, 1987
+
+#### Cuisine: Western, Austrian
 ---
 
 ## Ingredients

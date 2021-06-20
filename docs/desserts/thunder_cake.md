@@ -7,6 +7,8 @@ grand_parent: Desserts
 
 # Patricia Polacco’s Thunder Cake
 {: .no_toc }
+
+#### Cuisine: Western
 ---
 
 ## Ingredients

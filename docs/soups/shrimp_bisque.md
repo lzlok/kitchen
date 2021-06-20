@@ -7,6 +7,8 @@ parent: Soups
 # Shrimp Bisque
 {: .no_toc }
 #### From <i>Food Network</i>, 2006
+
+#### Cuisine: Western, French
 ---
 
 ## Ingredients

@@ -7,6 +7,7 @@ parent: Breakfasts
 # Waffles
 {: .no_toc }
 
+#### Cuisine: Western, American
 ---
 
 ## Ingredients

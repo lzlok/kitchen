@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Vegetable Paella
 {: .no_toc }
+
+#### Cuisine: Western, Spanish
 ---
 
 ## Ingredients

@@ -7,6 +7,7 @@ parent: Appetizers & Sides
 # Lemon Herb Couscous
 {: .no_toc }
 
+#### Cuisine: Middle Eastern
 ---
 
 ## Ingredients

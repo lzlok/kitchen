@@ -7,6 +7,8 @@ grand_parent: Desserts
 
 # Crepe Suzette
 {: .no_toc }
+
+#### Cuisine: Western, French
 ---
 
 ## Orange Butter (~3 c.)

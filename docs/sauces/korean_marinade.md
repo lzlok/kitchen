@@ -7,6 +7,8 @@ parent: Sauces
 # Korean Marinade
 {: .no_toc }
 
+#### Cuisine: Asian, Korean
+
 ---
 
 ## Ingredients

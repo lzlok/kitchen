@@ -8,6 +8,8 @@ parent: Appetizers & Sides
 {: .no_toc }
 #### From Leslie Gowen
 
+
+#### Cuisine: Western, American
 ---
 
 ## Ingredients

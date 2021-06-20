@@ -8,6 +8,8 @@ grand_parent: Main Meals
 # Baked Pork Chops
 {: .no_toc }
 #### From lunch club
+
+#### Cuisine: Western
 ---
 
 ## Ingredients

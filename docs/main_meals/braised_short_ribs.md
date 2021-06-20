@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Red Wine Braised Short Ribs
 {: .no_toc }
+
+#### Cuisine: Western, French?
 ---
 
 ## Ingredients
