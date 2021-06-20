@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Braised Chicken with Garlic and Thyme
 {: .no_toc }
+
+#### Cuisine: Western, French
 ---
 
 ## Ingredients

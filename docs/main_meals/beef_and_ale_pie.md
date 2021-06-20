@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Beef and Ale Pie 
 {: .no_toc }
+
+#### Cuisine: Western, British/Irish
 ---
 
 ## Ingredients

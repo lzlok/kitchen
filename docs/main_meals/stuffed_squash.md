@@ -7,6 +7,9 @@ grand_parent: Main Meals
 
 # Stuffed Squash
 {: .no_toc }
+#### From Alton Brown
+
+#### Cuisine: Western, American
 ---
 
 ## Ingredients

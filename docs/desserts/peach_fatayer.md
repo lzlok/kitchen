@@ -7,6 +7,8 @@ grand_parent: Desserts
 
 # Peach Fatayer
 {: .no_toc }
+
+#### Cuisine: Middle Eastern
 ---
 
 ## Ingredients

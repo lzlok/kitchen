@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Bean-Pebbled Paella
 {: .no_toc }
+
+#### Cuisine: Western, Spanish
 ---
 
 ## Ingredients

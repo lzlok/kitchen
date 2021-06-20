@@ -8,6 +8,8 @@ grand_parent: Breads
 # Hot Cross Buns
 {: .no_toc }
 #### From King Arthur Flour, modified
+
+#### Cuisine: Western, British?
 ---
 
 ## Ingredients

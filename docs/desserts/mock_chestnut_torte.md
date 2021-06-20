@@ -7,6 +7,8 @@ grand_parent: Desserts
 
 # Gluten-Free Mock Chestnut Torte
 {: .no_toc }
+
+#### Cuisine: Western
 ---
 <b>Note:</b> This cake is tastes like a normal chocolate cake and is therefore very good if you need to cook a gluten free dessert.
 

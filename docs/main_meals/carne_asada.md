@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Carne Asada
 {: .no_toc }
+
+#### Cuisine: Mexican
 ---
 
 ## Ingredients

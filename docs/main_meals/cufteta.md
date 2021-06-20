@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Ćufteta
 {: .no_toc }
+
+#### Cuisine: Western, Balkan
 ---
 
 ## Ingredients

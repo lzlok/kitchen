@@ -7,6 +7,8 @@ grand_parent: Desserts
 
 # Food for the Gods (Date & Walnut Cake)
 {: .no_toc }
+
+#### Cuisine: Middle Eastern
 ---
 
 ## Ingredients

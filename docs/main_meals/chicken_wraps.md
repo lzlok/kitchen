@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Shredded Chicken Wraps with Avocado
 {: .no_toc }
+
+#### Cuisine: Mexican
 ---
 
 ## Ingredients

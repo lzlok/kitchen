@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Arroz Con Pollo
 {: .no_toc }
+
+#### Cuisine: Western, Spanish
 ---
 
 ## Ingredients

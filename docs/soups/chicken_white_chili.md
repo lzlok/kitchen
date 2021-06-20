@@ -7,6 +7,7 @@ parent: Soups
 # Chicken White Chili Soup
 {: .no_toc }
 
+#### Cuisine: Mexican
 ---
 
 ## Ingredients

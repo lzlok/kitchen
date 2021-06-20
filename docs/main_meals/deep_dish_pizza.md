@@ -7,6 +7,8 @@ nav_order: 1
 
 # Deep Dish Pizza
 {: .no_toc }
+
+#### Cuisine: Western, American
 ---
 
 ## Ingredients

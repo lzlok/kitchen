@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Herb-Roasted Chicken Thighs in Creamy Sauce
 {: .no_toc }
+
+#### Cuisine: Western, French
 ---
 
 ## Ingredients

@@ -7,6 +7,7 @@ parent: Breakfasts
 # Yeast Pancakes
 {: .no_toc }
 
+#### Cuisine: Western, American
 ---
 
 ## Ingredients

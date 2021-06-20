@@ -7,6 +7,8 @@ grand_parent: Desserts
 
 # Lemon Bars
 {: .no_toc }
+
+#### Cuisine: Western
 ---
 
 ## Ingredients

@@ -7,6 +7,7 @@ parent: Appetizers & Sides
 # Cilantro Carrots with Cumin
 {: .no_toc }
 
+#### Cuisine: Other
 ---
 
 ## Ingredients

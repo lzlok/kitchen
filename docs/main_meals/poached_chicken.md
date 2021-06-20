@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Poached Chicken with Vegetables, Coriander, and Couscous
 {: .no_toc }
+
+#### Cuisine: Western
 ---
 
 ## Ingredients

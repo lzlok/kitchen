@@ -7,6 +7,8 @@ grand_parent: Desserts
 
 # Norwegian Apple Cake
 {: .no_toc }
+
+#### Cuisine: Western, Norweigian
 ---
 
 ## Ingredients

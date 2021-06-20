@@ -7,6 +7,8 @@ parent: Soups
 # Beef Sinigang
 {: .no_toc }
 
+#### Cuisine: Asian, Filipino
+
 ---
 
 ## Ingredients

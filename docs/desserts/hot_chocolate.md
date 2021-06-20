@@ -7,6 +7,8 @@ grand_parent: Desserts
 
 # Hot Chocolate
 {: .no_toc }
+
+#### Cuisine: Western
 ---
 
 ## Ingredients

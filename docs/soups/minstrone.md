@@ -7,6 +7,8 @@ parent: Soups
 # Minestrone
 {: .no_toc }
 
+#### Cuisine: Western, Italian
+
 ---
 
 ## Ingredients

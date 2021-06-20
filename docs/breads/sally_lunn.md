@@ -8,6 +8,8 @@ grand_parent: Breads
 # Sally Lunn
 {: .no_toc }
 #### From <i>Beard on Bread</i>
+
+#### Cuisine: Western
 ---
 
 ## Ingredients

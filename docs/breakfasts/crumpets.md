@@ -7,6 +7,7 @@ parent: Breakfasts
 # Crumpets
 {: .no_toc }
 
+#### Cuisine: Western, British
 ---
 
 ## Ingredients

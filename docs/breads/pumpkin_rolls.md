@@ -5,9 +5,11 @@ parent: Savory Breads
 grand_parent: Breads
 ---
 
-# Chillingsworth Pumpking Rolls
+# Chillingsworth Pumpkin Rolls
 {: .no_toc }
 #### From <i>Bon Appetit</i>, November 1990
+
+#### Cuisine: Western, American
 ---
 
 ## Ingredients

@@ -7,6 +7,8 @@ grand_parent: Main Meals
 
 # Pesto
 {: .no_toc }
+
+#### Cuisine: Western, Italian
 ---
 
 ## Ingredients

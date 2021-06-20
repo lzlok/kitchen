@@ -7,6 +7,8 @@ parent: Soups
 # Split Pea Soup
 {: .no_toc }
 
+#### Cuisine: Western
+
 ---
 
 ## Ingredients

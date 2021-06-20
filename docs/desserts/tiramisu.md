@@ -7,6 +7,8 @@ grand_parent: Desserts
 
 # Tiramisu
 {: .no_toc }
+
+#### Cuisine: Western, Italian
 ---
 
 ## Ingredients

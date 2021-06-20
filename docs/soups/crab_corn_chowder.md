@@ -7,6 +7,8 @@ parent: Soups
 # Crab and Corn Chowder with Bacon
 {: .no_toc }
 
+#### Cuisine: Western
+
 ---
 
 ## Ingredients
