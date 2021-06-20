@@ -9,8 +9,7 @@ grand_parent: Breads
 {: .no_toc }
 #### From <i>Bon Appetit</i>, November 1990
 ---
-#### Cuisine: Western, American
-
+### Cuisine: Western, American
 ## Ingredients
 <ul>
 	<li>1 tbs. plus ¾ tsp. dry yeast</li>
