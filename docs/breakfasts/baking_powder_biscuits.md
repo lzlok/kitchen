@@ -22,4 +22,6 @@ Sift flour, baking powder, and salt into a mixing bowl. Blend butter into flour 
 
 Makes approximately 12 biscuits.
 
+--- 
+
 ### Cuisine: Western, American

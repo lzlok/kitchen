@@ -31,4 +31,6 @@ grand_parent: Main Meals
 Preheat oven to 375˚F and spray 9”x13” baking pan with non-stick spray. Trim pork chops. Whisk egg white and evaporated milk in a large bowl. Place pork chops in mixture and soak for 5 minutes, flipping halfway. Separately, mix remaining dry ingredients. Remove pork chops from the egg/milk mixture and coat thoroughly with the crumb mixture. Place chops in pan and bake for 20 minutes. Turn over and bake for another 20 minutes.
 
 
+--- 
+
 ### Cuisine: Western

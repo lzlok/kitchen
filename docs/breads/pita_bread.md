@@ -27,4 +27,6 @@ Dissolve the yeast and sugar in ½ c. warm water in a large mixing bowl and allo
 
 Preheat oven to 500˚F. Put one of the baking sheets on the lowest rack of the oven for 5 minutes. Do not open the oven door until the 5 minutes are up. Transfer the sheet to a higher shelf and continue baking 3 – 5 minutes longer until the loaves are puffed like balloons and just very lightly browned. Repeat the procedure with the second baking sheet unless, of course, you have a large enough oven so that the baking sheets can go in side by side on the same shelf. Remove to prevent a crisp crust from forming and to ensure the familiar, spongy pita texture.
 
+--- 
+
 ### Cuisine: Western, Middle Eastern

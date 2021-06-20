@@ -31,4 +31,6 @@ In a large pan, heat oil and add all the ingredients (except the lemon wedge). C
 	<li>For variations, add zucchini and/or red peppers</li>
 	<li>If served as a dip, drizzle some olive oil on your zaalouk</li>
 
+--- 
+
 ### Cuisine: Middle Eastern

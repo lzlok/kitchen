@@ -26,4 +26,6 @@ Blend tomatoes, bell pepper, olives, garlic, and salt until coarse. Purée in pr
 
 Makes ~1¾ c. dressing.
 
+--- 
+
 ### Cuisine: Western

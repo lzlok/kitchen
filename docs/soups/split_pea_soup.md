@@ -28,4 +28,6 @@ Put everything in a large pot and cook for 2 – 3 hours, checking for liquid le
 
 Alternatively, you can cook everything except the split peas until the ham hocks are tender, then add the split peas and cook for about 40 more minutes until peas are tender.
 
+--- 
+
 ### Cuisine: Western

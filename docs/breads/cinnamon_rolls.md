@@ -77,4 +77,6 @@ Store in an airtight container.
 
 Serves 12.
 
+--- 
+
 ### Cuisine: Western

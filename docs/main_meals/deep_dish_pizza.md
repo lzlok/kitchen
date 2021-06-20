@@ -70,4 +70,6 @@ While the dough rises, prepare the pizza sauce. In a medium saucepan over medium
 Bake the pizza at 425˚F for about 25 minutes. Remove it from the oven, and carefully lift it out of the pan onto a rack. Allow the pizza to cool for about 15 minutes (or longer, for less oozing) before cutting and serving.
 
 
+--- 
+
 ### Cuisine: Western, American

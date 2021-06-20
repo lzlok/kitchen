@@ -42,4 +42,6 @@ Line large platter with curly endive and arugula. Mound potatoes in center. Arra
 
 Makes 6 servings.
 
+--- 
+
 ### Cuisine: Western, Mediterranean

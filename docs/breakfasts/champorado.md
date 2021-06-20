@@ -23,4 +23,6 @@ Cook rice and water in a large pot. Add the rest of the ingredients after 20 min
 
 Makes 3 full servings.
 
+--- 
+
 ### Cuisine: Asian, Filipino

@@ -35,4 +35,6 @@ For cake, mix milk and vinegar. Let stand for 5 minutes. In a large bowl, beat e
 
 Bake for 25 – 30 minutes or until a toothpick inserted in center comes out clean. Cool 10 minutes before inverting onto a serving plate. Serve with whipped cream. Makes one 9” cake.
 
+--- 
+
 ### Cuisine: Western, American

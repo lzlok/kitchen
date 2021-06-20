@@ -39,4 +39,6 @@ Bake 40 minutes or until center is set, not jiggly, lightly golden browned, and 
 
 Cool for at least 1 hour before serving and inverting. Serve with salted caramel sauce (optional). Can keep airtight at room temperature for up to 5 days.
 
+--- 
+
 ### Cuisine: Western, American

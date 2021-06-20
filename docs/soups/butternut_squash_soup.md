@@ -24,4 +24,6 @@ Melt 1 tbs. butter in a large pot over medium heat Add onion. Cover and cook unt
 
 Melt remaining butter in skillet and fry sage until crisp.
 
+--- 
+
 ### Cuisine: Western

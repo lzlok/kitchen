@@ -27,4 +27,6 @@ grand_parent: Main Meals
 In a stock pot, sauté onion and garlic in olive oil until the onion is transparent. Add prosciutto. Drain beans and add. Add water. Simmer for 10 minutes. Add pasta then simmer until tender. Add lemon juice and parsley.
 
 
+--- 
+
 ### Cuisine: Western, Italian

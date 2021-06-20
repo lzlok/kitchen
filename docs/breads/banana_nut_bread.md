@@ -32,4 +32,6 @@ mixture. Fold in the nuts.
 Butter a 12 x 4½ x 2½” loaf pan and pour in the batter. Bake
 in 350˚F for 1 hour or until toothpick inserted in center comes out clean.
 
+--- 
+
 ### Cuisine: Western

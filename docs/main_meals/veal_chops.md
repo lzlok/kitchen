@@ -29,4 +29,6 @@ Remove the chops to hot plates or a hot platter. Rapidly boil down the juices to
 NOTE: For veal chops 1½ inches thick or more, choose a frying pan that can go into the oven. Brown them first on top of the stove as described. Season them, add the tarragon and set the not pan in the upper third of a 375˚ oven. Roast 5 to 6 minutes. Then turn the chops, baste with the accumulated juices, season them and roast another 5 to 6 minutes, or until done. Remove the chops to a hot plate or platter, add the vermouth and boil down the juices to a syrup. Swish in the optional butter, spoon over the chops and serve.
 
 
+--- 
+
 ### Cuisine: Western, French

@@ -43,4 +43,6 @@ Pour reduced broth, cream, and ¼ c. brandy into now-empty skillet; increase hea
 
 Set steaks on individual dinner plates, spoon portion of sauce over steaks, serve hot.
 
+--- 
+
 ### Cuisine: Western, French

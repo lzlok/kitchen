@@ -33,4 +33,6 @@ Heat a frying pan and brown the pork in 2 tbs. of olive oil. Place meat and oil 
 
 Separately, sauté onions in remaining oil until tender but not discolored. Add clams, remaining ½ tsp. salt, and remaining ¼ tsp. of pepper. Cook on high, covered, for 5 minutes until clams open. Add to pork, heat, then serve.
 
+--- 
+
 ### Cuisine: Western, Portuguese

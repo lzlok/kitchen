@@ -24,4 +24,6 @@ Proof yeast and sugar in ¼ c. water. In a large bowl, mix flour and salt. Add y
 
 Preheat oven to 450˚F. Sash the top of the loaf several times then put in preheated oven with cover for 15 minutes. Reduce oven to 400˚F and bake until bread is crusty, golden brown, and sounds hollow when tapped (about 30 – 40 minutes more). Remove the lid for the last 5 – 10 minutes of baking.
 
+--- 
+
 ### Cuisine: Western

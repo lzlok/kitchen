@@ -34,4 +34,6 @@ Serve warm or cool completely, wrap in plastic, and store at room temperature. T
 
 Yields approximately 10 crumpets.
 
+--- 
+
 ### Cuisine: Western, British

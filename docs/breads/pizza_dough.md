@@ -39,4 +39,6 @@ golden brown at 400˚F. Remove the garlic before serving.
 
 Serves 4 to 6. Makes 1 round loaf or perhaps 2 pizzas.
 
+--- 
+
 ### Cuisine: Western, Italian, American

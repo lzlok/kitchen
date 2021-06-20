@@ -27,4 +27,6 @@ grand_parent: Main Meals
 Sauté garlic in hot oil. Add pork, stirring well. Gradually add chicken stock, soy sauce, sugar, soybean paste, and bring to boil. Thicken with dissolved cornstarch. Serve with cucumbers and bean sprouts.
 
 
+--- 
+
 ### Cuisine: Asian, Chinese

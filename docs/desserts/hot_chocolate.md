@@ -24,4 +24,6 @@ Put chocolate and water in pot over low heat. Stir occasionally until chocolate 
 
 Serves 5.
 
+--- 
+
 ### Cuisine: Western

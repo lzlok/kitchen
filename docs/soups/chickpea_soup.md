@@ -32,4 +32,6 @@ Meanwhile, toast the cumin seeds, if using, in a dry skillet over medium heat un
 
 Add cumin, harissa/cayenne, salt, and pepper to soup. Simmer for 15 minutes then discard bay leaves. Coarsely mash chickpeas in the pot. Add cilantro and lemon juice and heat through before serving.
 
+--- 
+
 ### Cuisine: Other

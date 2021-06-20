@@ -20,4 +20,6 @@ parent: Sauces
 ## Instructions
 Combine all. Marinate pork or chicken for ½ hour. Pan fry to cook (or broil).
 
+--- 
+
 ### Cuisine: Asian, Japanese

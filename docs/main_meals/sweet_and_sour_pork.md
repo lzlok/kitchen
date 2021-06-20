@@ -40,4 +40,6 @@ Heat 1 tbs. oil in a wok over medium heat. Stir in celery, green bell pepper, an
 
 In a large saucepan, mix 1 c. water, ¼ tsp. salt, ¾ c. sugar, apple cider vinegar, ketchup, and ½ tsp. soy sauce. Bring to a boil, and stir in the cooked pork, celery mixture, and the pineapple chunks with juice. Return to boil and mix in the 2 tbs. cornstarch and ¼ c. water to thicken. Cook until well-blended.
 
+--- 
+
 ### Cuisine: Asian, Chinese

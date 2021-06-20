@@ -27,4 +27,6 @@ Heat half the oil in a heavy frying pan. Brown meat and set aside.
 
 Heat remaining oil, add ginger, onions, and curry powder. Fry for a few minutes while stirring. Return meat and season to taste. Add coconut milk, water, and tomato paste, bring to boil and cover. Simmer for 10 minutes. Uncover curry and simmer for a further 10 minutes. Serve hot with rice and sliced cucumber. Sprinkle with coriander.
 
+--- 
+
 ### Cuisine: Asian, Indonesian

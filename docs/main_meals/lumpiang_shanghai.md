@@ -45,4 +45,6 @@ Sauté the onions until soft. Add the carrots and cook for 3 or so minutes, then
 When mixture has cooled, wrap in the lumpia wrappers. Deep fry until the wrappers are golden brown. Cut lumpia into 2” – 3” pieces if desired.
 
 
+--- 
+
 ### Cuisine: Asian, Filipino

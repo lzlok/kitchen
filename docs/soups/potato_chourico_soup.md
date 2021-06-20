@@ -32,4 +32,6 @@ Brown the remaining sausage in a sauté pan. Sprinkle sausage at the bottom of e
 
 Serve 6 – 8.
 
+--- 
+
 ### Cuisine: Western, Portuguese

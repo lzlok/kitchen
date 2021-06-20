@@ -31,4 +31,6 @@ Cut tomato into 1” pieces. Core and ring green peppers. Peel potatoes and cut 
 
 Makes 8 servings.
 
+--- 
+
 ### Cuisine: Western, Balkan

@@ -30,4 +30,6 @@ Drain, separate the pieces of garlic from the pork, and fry in lard (or the skim
 Achwete or annatto can also be added. Warm ⅓ c. water (part of the 1 c. needed in the recipe) and use it to soak 2 tbs. annatto seeds. Crush the seeds with your hands to loosen the color. Drain. Add another ⅓ c. water and repeat until all of the 1 c. water is used. Omit the soy sauce.
 
 
+--- 
+
 ### Cuisine: Asian, Filipino

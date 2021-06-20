@@ -27,4 +27,6 @@ Serve chicken with garlic and sauce.
 
 Serves 8.
 
+--- 
+
 ### Cuisine: Western, French

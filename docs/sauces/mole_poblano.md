@@ -56,4 +56,6 @@ In batches, puree the mixture in the blender or food processor until smooth. You
 When ready to eat, dilute a cup of mole with ½ c. chicken broth in a saucepan and simmer for 2 to 3 minutes. Serve over cooked chicken or turkey and sprinkle with toasted sesame seeds on top.
 
 
+--- 
+
 ### Cuisine: Mexican

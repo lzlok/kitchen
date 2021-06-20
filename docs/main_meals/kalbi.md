@@ -41,4 +41,6 @@ Yields 4 to 6 servings as main course.
 Korean-style short ribs can be found at most Asian markets. The cut, also known as "flanken" refers to a strip of beef cut across the bone from the chuck end of the short ribs. Unlike American and European-style short ribs, which include a thick slice of bone-in beef, Korean-style short ribs are cut lengthwise across the rib bones. The result is a thin strip of meat, about 8 to10 inches in length, lined on 1 side with ½-inch thick rib bones. The thin slices make for fast cooking on the grill.
 
 
+--- 
+
 ### Cuisine: Asian, Korean

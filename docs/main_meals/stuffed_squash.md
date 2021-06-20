@@ -35,4 +35,6 @@ Return pork to pan along with the cooked rice, spinach, pine nuts, oregano, salt
 
 Turning squash halves face up on baking sheet, put a piece of butter in the bowl of each squash. Fill with meat mixture. Bake at 375˚F for about 15 – 20 minutes, then pour béchamel sauce on top of each squash and bake at 450˚F until sauce is nicely browned.
 
+--- 
+
 ### Cuisine: Western, American

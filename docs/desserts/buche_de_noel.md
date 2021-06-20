@@ -56,4 +56,6 @@ Unroll cake. Spread with filling to 1 inch from edge. Reroll. Place, seam side d
 
 Serves 10.
 
+--- 
+
 ### Cuisine: Western, French

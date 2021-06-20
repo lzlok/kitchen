@@ -38,4 +38,6 @@ Add the bell pepper, jalapeno (option), sweet potato, and tomatoes with their ju
 
 In a medium bowl, whisk together peanut butter and 1 c. of broth until no clumps remain. Stir the mixture into the vegetables along with the remaining 3 c. of broth, chili powder, and cayenne (optional). Cover pan with lid and reduce heat to medium low. Simmer for 10 – 20 minutes or until sweet potato is fork tender.
 
+--- 
+
 ### Cuisine: African

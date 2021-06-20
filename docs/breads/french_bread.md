@@ -57,4 +57,6 @@ Slash the bread with a sharp knife or lame. Dust it with a little flour. Spritz 
 Bake the bread for about 25 to 30 minutes, or until it's a rich golden brown, and its interior temperature registers at least 190°F on a digital thermometer. The smaller loaves will bake more quickly, so keep your eye on them.
 
 
+--- 
+
 ### Cuisine: Western, French

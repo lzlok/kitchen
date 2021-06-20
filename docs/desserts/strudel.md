@@ -50,4 +50,6 @@ To freeze: butter a double thickness of foil, place the unbaked strudel on foil,
 
 Makes 1 strudel, 6-8 slices
 
+--- 
+
 ### Cuisine: Western, Austrian

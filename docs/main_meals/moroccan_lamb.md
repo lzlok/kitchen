@@ -38,4 +38,6 @@ Add onion and tomato paste to same skillet. Sauté onions on medium heat until s
 
 Serves 6 people.
 
+--- 
+
 ### Cuisine: African, Moroccan

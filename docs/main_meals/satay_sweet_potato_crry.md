@@ -29,4 +29,6 @@ Melt 1 tbs. coconut oil in a saucepan over medium heat and soften onion in pan f
 
 Stir in curry paste, peanut butter, sweet potato, coconut milk, and 200 ml water. Boil then simmer for ~25 – 30 minutes or until sweet potato is soft. Stir in spinach and lime juice. Season well. Serve with rice, and top with peanuts.
 
+--- 
+
 ### Cuisine: Asian, Indonesian

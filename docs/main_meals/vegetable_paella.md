@@ -44,4 +44,6 @@ Pour in all the hot broth and bring to a boil. Taste for salt and continue to bo
 
 Serves 8.
 
+--- 
+
 ### Cuisine: Western, Spanish

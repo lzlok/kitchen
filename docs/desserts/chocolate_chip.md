@@ -32,4 +32,6 @@ Combine flour, baking soda, salt. Beat butter, both sugars, vanilla in large mix
 
 Pan cookie variation: Preheat 350˚F. Grease 15x10-inch jelly roll pan. Pour and spread into pan. Bake for 20 – 25 minutes until golden brown. Cool and cut into squares.
 
+--- 
+
 ### Cuisine: Western, American

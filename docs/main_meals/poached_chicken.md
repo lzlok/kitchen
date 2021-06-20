@@ -35,4 +35,6 @@ In a heavy saucepan, cook the onion, garlic, and ginger in the oil over moderate
 
 Serves 2.
 
+--- 
+
 ### Cuisine: Western

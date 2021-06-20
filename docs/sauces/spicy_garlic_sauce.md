@@ -28,4 +28,6 @@ Mash to a paste in mortar or mini food processor the sweet and hot peppers, cumi
 
 Makes ¾ c. sauce.
 
+--- 
+
 ### Cuisine: Spanish

@@ -40,4 +40,6 @@ Stir in the rice and coat well with the pan mixture. Pour in the hot broth and b
 Bake uncovered 15 – 20 minutes until rice is almost al dente. Cover and let sit 5 – 10 minutes until rice is cooked to taste.
 
 
+--- 
+
 ### Cuisine: Western, Spanish

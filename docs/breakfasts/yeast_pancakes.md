@@ -29,4 +29,6 @@ Pour batter by ½ cupfuls onto a lightly greased hot griddle. Turn when bubbles 
 
 Yields 12 pancakes, serves 6.
 
+--- 
+
 ### Cuisine: Western, American

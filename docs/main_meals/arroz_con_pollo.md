@@ -43,4 +43,6 @@ Arrange browned chicken pieces over rice. Bring just to boiling, uncovered. Bake
 
 Serves 6 – 8. 
 
+--- 
+
 ### Cuisine: Western, Spanish

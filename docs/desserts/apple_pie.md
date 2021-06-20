@@ -26,4 +26,6 @@ Mix apples, cored and sliced, with everything except butter. Place in a 9” pie
 
 Bake at 425˚F for 40 – 45 minutes.
 
+--- 
+
 ### Cuisine: Western, American

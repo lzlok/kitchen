@@ -98,4 +98,6 @@ pan).</li>
 cools. This seals the surface so that the Stollen can keep for months.</li>
 </ul>
 
+--- 
+
 ### Cuisine: Western, German

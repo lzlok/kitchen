@@ -34,4 +34,6 @@ Combine egg mixture with flour mixture. Beat well. Pour into an 11x14 baking pan
 
 Serves 4.
 
+--- 
+
 ### Cuisine: Asian, Filipino

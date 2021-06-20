@@ -38,4 +38,6 @@ Cook until short ribs are tender, 2 – 2½ hours. Transfer short ribs to a plat
 
 Serves 6.
 
+--- 
+
 ### Cuisine: Western, French?

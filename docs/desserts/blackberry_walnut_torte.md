@@ -68,4 +68,6 @@ Melt chocolate in double boiler set over gently simmering water stir until smoot
 
 Cut each cake into 2 layers. Reserve best layer for top. Set 1 layer on 8- or 9-inch removable tart pan bottom or cardboard round. Spread with ⅓ of the cream. Top with second cake layer. Spread with stirred jam, then ½ of cream. Top with third cake layer. Spread with remaining cream. Top fourth cake layer. Brush off crumbs. Compress sides of cake to even layers; scrape off excluded cream and jam. Spread top with melted jam. Spread some of frosting on sides. Spoon remaining frosting into pastry bag fitted with ¼” open star tip. Pipe frosting around top and bottom edge of torte. Refrigerate up to 8 hours. Let stand at room temperature 1 hour before serving.
 
+--- 
+
 ### Cuisine: Western, Austrian

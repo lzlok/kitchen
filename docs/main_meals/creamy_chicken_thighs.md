@@ -33,4 +33,6 @@ Add 2 tbsp butter, onion and sauté until the onion is browned, 3-4 minutes. Add
 
 Return chicken thighs back into the pan with sauce.&nbsp;Put in the oven uncovered and cook at 400˚ for 35 minutes.&nbsp;Once time is up, take the pan out of the oven, check if chicken thighs are done. Sprinkle with fresh thyme and serve with roasted vegetables, mashed potatoes or rice.
 
+--- 
+
 ### Cuisine: Western, French

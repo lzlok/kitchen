@@ -28,4 +28,6 @@ Bake baguettes for 20-22 minutes.
 
 <b>Note:</b> For a fluffier baguette, process for 20 seconds, rest 10 minutes, then process 25 seconds in the food processor step.
 
+--- 
+
 ### Cuisine: Western

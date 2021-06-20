@@ -36,4 +36,6 @@ Transfer baked potatoes into a large bowl and toss with bacon, green onions, par
 
 Serves 8.
 
+--- 
+
 ### Cuisine: Western, American

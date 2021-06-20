@@ -47,4 +47,6 @@ Arrange the potato slices over the casserole. Place in a 325˚F oven for 15 minu
 While the rice is resting, place the crushed garlic in a processor or blender. Very gradually, with the motor running, pour in the oil (you may also do this with a mortar and pestle). Pass this garlic sauce separately. Serve the ice with Tomato and Egg Salad and a dry white wine like Campo Viejo.
 
 
+--- 
+
 ### Cuisine: Western, Spanish

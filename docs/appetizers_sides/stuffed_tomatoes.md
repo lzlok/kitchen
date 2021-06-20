@@ -38,4 +38,6 @@ The tomato halves can be stuffed several hours in advance and refrigerated befor
 
 Always use freshly made breadcrumbs. Start with homemade-style white bread, crusts removed, that has some texture and chew. If the bread is a day or two old, so much the better, since it is easier to make crumbs from bread that is slightly dry.
 
+--- 
+
 ### Cuisine: Western, French

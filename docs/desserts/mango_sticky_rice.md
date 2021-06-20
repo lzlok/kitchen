@@ -45,4 +45,6 @@ In a mixing bowl, mix 2 tbs. coconut milk with 1 tbs. cornstarch. In the saucepa
 
 Place mango on sticky rice and drizzle with coconut sauce. Tastes best if left to sit first for 1 – 2days. Sprinkle with coconut flakes before serving.
 
+--- 
+
 ### Cuisine: Asian, Thai

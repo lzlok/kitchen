@@ -65,4 +65,6 @@ quickly!)
 
 Remove the panettone from the oven and cool completely.
 
+--- 
+
 ### Cuisine: Western, Italian

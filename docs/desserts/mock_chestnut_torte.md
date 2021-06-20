@@ -48,4 +48,6 @@ Invert cake onto plate so the bottom faces up. Spread chocolate ganache glaze ov
 
 Makes 14 – 18 servings.
 
+--- 
+
 ### Cuisine: Western

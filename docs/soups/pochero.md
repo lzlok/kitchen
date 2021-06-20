@@ -26,4 +26,6 @@ parent: Soups
 Put beef and bones into a pot. Cover with water and boil. Skim the foam once it boils. Add black pepper, ginger, and chorizo. Cook until beef is tender. Add potatoes and cabbage. When tender, add boiled bananas. Season with patis.
 
 
+--- 
+
 ### Cuisine: Asian, Filipino

@@ -47,4 +47,6 @@ Add vegetables and cook until tender. Serve with patis and guinisang bagoong.
 Sauté the onions and sliced tomatoes. Add the shrimp bagoong and simmer for 15 minutes.
 
 
+--- 
+
 ### Cuisine: Asian, Filipino
