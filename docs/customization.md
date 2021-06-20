@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Customization
+nav_exclude: True
+search_exclude: True
 ---
 
 # Customization
