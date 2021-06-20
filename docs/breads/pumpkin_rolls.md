@@ -9,7 +9,6 @@ grand_parent: Breads
 {: .no_toc }
 #### From <i>Bon Appetit</i>, November 1990
 ---
-### Cuisine: Western, American
 ## Ingredients
 <ul>
 	<li>1 tbs. plus ¾ tsp. dry yeast</li>
@@ -48,3 +47,5 @@ butter. Bake until rolls are golden brown, about 30 minutes. Brush with
 remaining melted butter. Serve rolls warm.
 
 Makes 36 buns.
+
+### Cuisine: Western, American
