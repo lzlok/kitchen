@@ -40,18 +40,31 @@ that cuisine.
 Valid cuisine searches are listed below (please update this list if you add any). Each dish is tagged
 with a broad indication of the cuisine (the first level of bullet points) and a more specific location
 if appropriate.
+
 <ul>
 	<li>Western
 		<ul>
 			<li>American</li>
+			<li>Austrian</li>
 			<li>Balkan</li>
-			<li>Basque</li>
 			<li>English/Irish</li>
 			<li>French</li>
 			<li>Greek</li>
 			<li>Italian</li>
+			<li>Mediterranean</li>
+			<li>Norwegian</li>
 			<li>Portuguese</li>
 			<li>Spanish</li>
+		</ul>
+	</li>
+	<li>Asian
+		<ul>
+			<li>Chinese</li>
+			<li>Filipino</li>
+			<li>Indonesian</li>
+			<li>Japanese</li>
+			<li>Korean</li>
+			<li>Thai</li>
 		</ul>
 	</li>
 	<li>Middle Eastern
@@ -60,14 +73,6 @@ if appropriate.
 		</ul>
 	</li>
 	<li>Mexican</li>
-	<li>Asian
-		<ul>
-			<li>Chinese</li>
-			<li>Filipino</li>
-			<li>Indonesian</li>
-			<li>Japanese</li>
-			<li>Korean</li>
-		</ul>
-	</li>
 	<li>African</li>
+	<li>Other</li>
 </ul>
