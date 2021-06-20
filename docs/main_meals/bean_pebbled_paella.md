@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Bean-Pebbled Paella
 {: .no_toc }
-
-#### Cuisine: Western, Spanish
 ---
 
 ## Ingredients
@@ -40,3 +38,6 @@ Heat oil in a paella pan measuring 17-18” at its widest point (or in a shallow
 Stir in the rice and coat well with the pan mixture. Pour in the hot broth and bring to a boil. Add beans, taste for salt, and boil, stirring and rotating pan occasionally, until the rice is no longer soupy but sufficient liquid remains to continue cooking the rice (5 minutes).
 
 Bake uncovered 15 – 20 minutes until rice is almost al dente. Cover and let sit 5 – 10 minutes until rice is cooked to taste.
+
+
+### Cuisine: Western, Spanish

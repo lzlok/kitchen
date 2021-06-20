@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Lumpia Shanghai 
 {: .no_toc }
-
-#### Cuisine: Asian, Filipino
 ---
 
 ## Ingredients
@@ -45,3 +43,6 @@ Mix vinegar, water, sugar, salt, and ketchup together in a saucepan. When it boi
 Sauté the onions until soft. Add the carrots and cook for 3 or so minutes, then add the ground pork. Season with patis and black pepper. When the pork is cooked, add the shrimp. Turn off heat when shrimp changes color.
 
 When mixture has cooled, wrap in the lumpia wrappers. Deep fry until the wrappers are golden brown. Cut lumpia into 2” – 3” pieces if desired.
+
+
+### Cuisine: Asian, Filipino

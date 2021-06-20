@@ -8,8 +8,6 @@ grand_parent: Main Meals
 # Coq au Vin
 {: .no_toc }
 #### Based on Julia Child’s recipe
-
-#### Cuisine: Western, French
 ---
 
 ## Ingredients
@@ -47,3 +45,5 @@ Add the pearl onions to the pot with the chicken and cook for 10 minutes more.
 In a small bowl mix together the flour and butter for beurre manie. Remove the chicken from the pan then add the beurre manie. Stir it into the sauce and let it thicken. Season to taste with salt and pepper. Add the chicken back into the pan and top with the cooked bacon and mushrooms. Sprinkle with a little fresh thyme. 
 
 Makes 5 servings.
+
+### Cuisine: Western, French

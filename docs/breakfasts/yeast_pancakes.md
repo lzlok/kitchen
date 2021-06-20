@@ -6,8 +6,6 @@ parent: Breakfasts
 
 # Yeast Pancakes
 {: .no_toc }
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients
@@ -30,3 +28,5 @@ Right before cooking, add the eggs, melted butter, and baking powder.
 Pour batter by ½ cupfuls onto a lightly greased hot griddle. Turn when bubbles form on top of pancakes. Cook until second side is golden brown.
 
 Yields 12 pancakes, serves 6.
+
+### Cuisine: Western, American

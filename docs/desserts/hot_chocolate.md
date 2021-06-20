@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Hot Chocolate
 {: .no_toc }
-
-#### Cuisine: Western
 ---
 
 ## Ingredients
@@ -25,3 +23,5 @@ grand_parent: Desserts
 Put chocolate and water in pot over low heat. Stir occasionally until chocolate is completely melted. Add sugar. Add evaporated milk. Continue to cook until milk is hot, stirring so as not to burn the bottom.
 
 Serves 5.
+
+### Cuisine: Western

@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Baba’s Knedle
 {: .no_toc }
-
-#### Cuisine: Western, Balkan
 ---
 
 ## Ingredients
@@ -37,3 +35,5 @@ Cut the prune plums in half lengthwise. Put into knedle.
 Drop the knedle into the pot of boiling water. When the knedle come to the surface, cook for another 4 – 5 minutes, depending on size. If the surface starts to disintegrate, it’s being cooked too long.
 
 Remove with a slotted spoon and immediately put into the pan of breadcrumbs. Roll each knedle until well-coated with crumbs.
+
+### Cuisine: Western, Balkan

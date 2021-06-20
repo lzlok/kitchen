@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Steak au Poivre with Brandied Cream Sauce 
 {: .no_toc }
-
-#### Cuisine: Western, French
 ---
 
 ## Ingredients
@@ -44,3 +42,5 @@ Place now-empty skillet over medium heat until hot, about 4 minutes. Lay steaks 
 Pour reduced broth, cream, and ¼ c. brandy into now-empty skillet; increase heat to high and bring to boil, scraping pan bottom with wooden spoon to loosen browned bits. Simmer until deep golden brown and thick enough to heavily coat back of metal tablespoon or soup spoon, about 5 minutes. Off heat, whisk in remaining 3 tbs. butter, remaining 1 tbs. brandy, lemon juice or vinegar, and any accumulated meat juices. Adjust seasonings with salt.
 
 Set steaks on individual dinner plates, spoon portion of sauce over steaks, serve hot.
+
+### Cuisine: Western, French

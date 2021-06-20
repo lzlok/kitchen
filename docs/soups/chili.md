@@ -6,8 +6,6 @@ parent: Soups
 
 # Beef Chili with Kidney Beans
 {: .no_toc }
-
-#### Cuisine: Mexican
 ---
 
 ## Ingredients
@@ -49,3 +47,6 @@ Increase the heat to medium-high and add half the beef. Cook, breaking up the ch
 Add the beans, tomatoes, tomato purée, and ½ tsp. salt. Bring to a boil, then reduce the heat to low and simmer, covered, and stirring occasionally (if the chili begins to stick to the bottom of the pot, stir in 12 c. water and continue to simmer) until the beef is tender and the chili is dark, rich, and slightly thickened. Adjust the seasonings with salt to taste. Serve with the lime wedges and toppings.
 
 Serves 8 to 10.
+
+--- 
+ ### Cuisine: Mexican

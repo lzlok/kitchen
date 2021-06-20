@@ -7,8 +7,6 @@ parent: Soups
 # Betty How’s Pochero
 {: .no_toc }
 
-#### Cuisine: Asian, Filipino
-
 ---
 
 ## Ingredients
@@ -26,3 +24,6 @@ parent: Soups
 
 ## Instructions
 Put beef and bones into a pot. Cover with water and boil. Skim the foam once it boils. Add black pepper, ginger, and chorizo. Cook until beef is tender. Add potatoes and cabbage. When tender, add boiled bananas. Season with patis.
+
+
+### Cuisine: Asian, Filipino

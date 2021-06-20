@@ -7,8 +7,6 @@ nav_order: 1
 
 # Deep Dish Pizza
 {: .no_toc }
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients
@@ -70,3 +68,6 @@ Bake the crust for 10 minutes, until it's set and barely beginning to brown.
 While the dough rises, prepare the pizza sauce. In a medium saucepan over medium heat, combine the 1 tbs. of olive oil and 1 tbs. butter. Add the minced onion crushed red pepper, Italian seasoning, salt and pepper. Cook, stirring frequently until the onion is softened, about 5 minutes. Add the garlic and cook until fragrant, about 30 seconds. Add the tomatoes and sugar (optional) and bring to a simmer. Reduce the heat to medium-low and cook, stirring frequently, until the sauce has reduced to about 2½ c., about 30 minutes. Remove from the heat and add the fresh basil and olive oil. Check the seasoning and add salt if needed. Cover and set aside.
 
 Bake the pizza at 425˚F for about 25 minutes. Remove it from the oven, and carefully lift it out of the pan onto a rack. Allow the pizza to cool for about 15 minutes (or longer, for less oozing) before cutting and serving.
+
+
+### Cuisine: Western, American

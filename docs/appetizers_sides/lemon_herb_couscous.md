@@ -6,8 +6,6 @@ parent: Appetizers & Sides
 
 # Lemon Herb Couscous
 {: .no_toc }
-
-#### Cuisine: Middle Eastern
 ---
 
 ## Ingredients
@@ -23,3 +21,5 @@ parent: Appetizers & Sides
 
 ## Instructions
 Steam couscous with the raisins/fruit in a bowl with the boiled stock. Fluff after 10 minutes. Mix with lemon juice, parsley, salt, pepper, mint, and oil.
+
+### Cuisine: Middle Eastern

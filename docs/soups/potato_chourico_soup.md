@@ -7,8 +7,6 @@ parent: Soups
 # Potato and Chouriço Soup with Crunchy Kale
 {: .no_toc }
 
-#### Cuisine: Western, Portuguese
-
 ---
 
 ## Ingredients
@@ -33,3 +31,5 @@ Stack about 6 kale leaves on top of another. Starting along a long edge, roll th
 Brown the remaining sausage in a sauté pan. Sprinkle sausage at the bottom of each bowl and add kale on top of soup.
 
 Serve 6 – 8.
+
+### Cuisine: Western, Portuguese

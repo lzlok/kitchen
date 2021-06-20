@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Mediterranean Potato Salad with Shrimp
 {: .no_toc }
-
-#### Cuisine: Western, Mediterranean
 ---
 
 ## Ingredients
@@ -43,3 +41,5 @@ Heat 2 tbs. oil in heavy large skillet over medium-high heat. Pat shrimp dry and
 Line large platter with curly endive and arugula. Mound potatoes in center. Arrange red and yellow pepper slices round potatoes. Garnish with mussels on the half shell, shrimp, and olives. Drizzle additional dressing on top.
 
 Makes 6 servings.
+
+### Cuisine: Western, Mediterranean

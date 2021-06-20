@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Apple Pie
 {: .no_toc }
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients
@@ -27,3 +25,5 @@ grand_parent: Desserts
 Mix apples, cored and sliced, with everything except butter. Place in a 9” pie dish with bottom crust already in place. Top with butter slices then cover with crust.
 
 Bake at 425˚F for 40 – 45 minutes.
+
+### Cuisine: Western, American

@@ -7,8 +7,6 @@ grand_parent: Breads
 
 # Margaret’s Steamed Sweet Potato Buns
 {: .no_toc }
-
-#### Cuisine: Western
 ---
 
 ## Starter, 7 days before baking
@@ -51,3 +49,5 @@ On the 7th day after making the starter, mix all bun ingredients together until 
 Shape into small balls. Put each ball on a square parchment paper. Let stand 20 minutes. Snip the balls with scissors to form a cross-shaped cut.
 
 Steam until cooked, about 10 – 15 minutes depending on size.
+
+### Cuisine: Western

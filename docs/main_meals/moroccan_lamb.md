@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Moroccan Slow-Cooked Lamb
 {: .no_toc }
-
-#### Cuisine: African, Moroccan
 ---
 
 ## Ingredients
@@ -39,3 +37,5 @@ Mix first 6 ingredients in a large bowl. Add lamb, tossing to coat. Heat 2 tbs. 
 Add onion and tomato paste to same skillet. Sauté onions on medium heat until soft (5 min.). Add remaining ingredients (except cilantro) and bring to boil, scraping up browned bits. Return lamb to skillet and bring to boil, reduce heat to low, cover, and simmer until lamb is just tender (1 hour). Uncover and simmer until sauce thicken enough to coat a spoon (20 min.). Sprinkle with salt and pepper before serving.
 
 Serves 6 people.
+
+### Cuisine: African, Moroccan

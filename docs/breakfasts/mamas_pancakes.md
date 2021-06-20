@@ -6,8 +6,6 @@ parent: Breakfasts
 
 # Mama’s Pancakes
 {: .no_toc }
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients
@@ -20,3 +18,5 @@ parent: Breakfasts
 	<li>2 eggs</li>
 	<li>1 – 1¼ c. milk</li>
 </ul>
+
+### Cuisine: Western, American

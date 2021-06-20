@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Shredded Chicken Wraps with Avocado
 {: .no_toc }
-
-#### Cuisine: Mexican
 ---
 
 ## Ingredients
@@ -36,3 +34,5 @@ Halve cucumber length-wise and cross-wise and seed. Cut pieces length-wise into 
 Cut 1” off 1 edge of each tortilla. Arrange 1 tortilla with cut edge farthest from you and smear a small piece of avocado length-wise along cut edge. (This will help hold the wrap together.) Spread ¼ of the chicken mixture along the lower fourth of the tortilla ~1” from the bottom. Top chicken with ½ c. cilantro sprigs. Top cilantro with 4 – 5 avocado slices then about ¼ of the cucumber. Tightly roll tortilla from the bottom. Can be made up to 6h ahead and chilled. Cut into inch-thick diagonal slices.
 
 Makes ~32 hors d’oeuvres.
+
+### Cuisine: Mexican

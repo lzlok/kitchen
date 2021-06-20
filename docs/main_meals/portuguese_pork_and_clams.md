@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Portuguese Pork & Clams (Cataplana)
 {: .no_toc }
-
-#### Cuisine: Western, Portuguese
 ---
 
 ## Ingredients
@@ -34,3 +32,5 @@ Mix pork cubes, wine, garlic, Piri Piri, 1 tsp of the salt, ¼ tsp. of the peppe
 Heat a frying pan and brown the pork in 2 tbs. of olive oil. Place meat and oil in an 8 qt. heavy stove-top casserole and add the reserved marinade and the paprika. Simmer the meat in the juices, uncovered, until the juices almost evaporate, about 45 minutes. Skim fat and discard bay leaves.
 
 Separately, sauté onions in remaining oil until tender but not discolored. Add clams, remaining ½ tsp. salt, and remaining ¼ tsp. of pepper. Cook on high, covered, for 5 minutes until clams open. Add to pork, heat, then serve.
+
+### Cuisine: Western, Portuguese

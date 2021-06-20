@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Caramelized Banana Upside-Down Cake
 {: .no_toc }
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients
@@ -40,3 +38,5 @@ Pour batter into pan, filling no more than ¾ high. Discard remainder of batter 
 Bake 40 minutes or until center is set, not jiggly, lightly golden browned, and springy to the touch. Toothpick should come out clean.
 
 Cool for at least 1 hour before serving and inverting. Serve with salted caramel sauce (optional). Can keep airtight at room temperature for up to 5 days.
+
+### Cuisine: Western, American

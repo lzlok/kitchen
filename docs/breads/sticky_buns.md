@@ -8,8 +8,6 @@ grand_parent: Breads
 # Ultimate Sticky Buns
 {: .no_toc }
 #### From <i>Bon Appétit</i>, April 2002
-
-#### Cuisine: Western
 ---
 
 ## Ingredients
@@ -73,3 +71,5 @@ about 30 minutes. Run small knife around pan sides to loosen sticky buns. Turn
 hot buns out onto platter. Cool about 30 minutes and serve. 
 
 Makes 24 buns.
+
+### Cuisine: Western

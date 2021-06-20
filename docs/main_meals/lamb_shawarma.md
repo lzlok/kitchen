@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Lamb Shawarma
 {: .no_toc }
-
-#### Cuisine: Middle Eastern
 ---
 
 ## Ingredients
@@ -28,3 +26,6 @@ grand_parent: Main Meals
 
 ## Instructions
 Preheat oven to 350˚F (standard) or 320˚F (convection). Mix all ingredients except lamb. It should become a wet paste. Place lamb in a large roasting pan and slather with paste. Position lamb with the fat side up. Pour water around and cover lightly with foil. Roast 3 hours, basting approximately 2 to 3 times Remove foil and roast for 30 more minutes for a nice crust.
+
+
+### Cuisine: Middle Eastern

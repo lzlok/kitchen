@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Carne Asada
 {: .no_toc }
-
-#### Cuisine: Mexican
 ---
 
 ## Ingredients
@@ -37,3 +35,5 @@ Add steak to grill, and cook, flipping once, until desired doneness, about 6 min
 Thinly slice steak against the grain and serve with reserved ½ cup cilantro mixture.
 
 Serves 6.
+
+### Cuisine: Mexican

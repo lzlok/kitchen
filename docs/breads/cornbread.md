@@ -8,8 +8,6 @@ grand_parent: Breads
 # Cornbread
 {: .no_toc }
 #### Mama's recipe from <i>Thrill of the Grill</i>
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients
@@ -39,3 +37,5 @@ out clean. The cornbread should be brown on top when done.
 Leftover cornbread can be made into croutons by cutting it
 into small cubes and baking at 350˚F for 30-45 minutes, until brown and toasty.
 Use for green salads.
+
+### Cuisine: Western, American

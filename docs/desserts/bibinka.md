@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Bibinka
 {: .no_toc }
-
-#### Cuisine: Asian, Filipino
 ---
 
 ## Ingredients
@@ -35,3 +33,5 @@ In a different bowl, sift flour. Add salt and baking powder and sift again.
 Combine egg mixture with flour mixture. Beat well. Pour into an 11x14 baking pan. Bake for 15 minutes. Sprinkle with cheese and bake 20 minutes more, brushing twice with butter while baking. When done, brush again with butter and sprinkle with sugar. Serve with grated coconut.
 
 Serves 4.
+
+### Cuisine: Asian, Filipino

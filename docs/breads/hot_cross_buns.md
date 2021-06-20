@@ -8,8 +8,6 @@ grand_parent: Breads
 # Hot Cross Buns
 {: .no_toc }
 #### From King Arthur Flour, modified
-
-#### Cuisine: Western, British?
 ---
 
 ## Ingredients
@@ -87,3 +85,5 @@ mixture to a bowl, let it cool to lukewarm, then combine it with the remaining
 flour, milk, and other dough ingredients. Proceed with the recipe as directed.
 Well-wrapped and stored at room temperature, your finished hot cross buns
 should stay soft and fresh for several days.
+
+### Cuisine: Western, British?

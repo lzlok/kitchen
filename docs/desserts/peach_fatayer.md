@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Peach Fatayer
 {: .no_toc }
-
-#### Cuisine: Middle Eastern
 ---
 
 ## Ingredients
@@ -40,3 +38,5 @@ Meanwhile, mix the filling.
 After the dough has sat for 10 minutes, make small dough balls. On a lightly floured surface, roll out the balls into a circular shape and place a tablespoon or two of the filling in the middle. Fold over the edges of the circle to make an equilateral triangle. (The edges of the triangle should be inscribed in the circle.)
 
 Bake in a preheated oven of 180˚C for about 15 – 20 minutes. Serve hot.
+
+### Cuisine: Middle Eastern

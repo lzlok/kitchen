@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Patricia Polacco’s Thunder Cake
 {: .no_toc }
-
-#### Cuisine: Western
 ---
 
 ## Ingredients
@@ -56,3 +54,5 @@ Melt chocolate. Cream butter. Add chocolate to butter, beating until well-blende
 ### Chocolate Glaze
 
 Mix melted chocolate in double boiler. Mix ¼ c. water, sugar, and cocoa. Add to chocolate. Cook for 5 minutes, cool.
+
+### Cuisine: Western

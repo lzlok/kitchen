@@ -7,8 +7,6 @@ parent: Sauces
 # Spicy Garlic Sauce
 {: .no_toc }
 
-#### Cuisine: Spanish
-
 ---
 For use with <a href = "./../../main_meals/vegetable_paella" target = "_blank">Vegetable Paella</a>
 
@@ -29,3 +27,5 @@ For use with <a href = "./../../main_meals/vegetable_paella" target = "_blank">V
 Mash to a paste in mortar or mini food processor the sweet and hot peppers, cumin, salt, garlic, thyme, oregano, and 2 tbs. of the parsley. Stir in oil and remaining 2 tbs. parsley. Serve. Keeps up to 24 hours in the fridge.
 
 Makes ¾ c. sauce.
+
+### Cuisine: Spanish

@@ -6,8 +6,6 @@ parent: Breakfasts
 
 # Buttermilk Pancakes with Maple Syrup Apples
 {: .no_toc }
-
-#### Cuisine: Western, American
 ---
 
 ## Apple Topping
@@ -49,3 +47,5 @@ While the dry ingredients to blend. Add wet ingredients
 (except butter) until just blended but still lumpy. Mix in melted butter.
 
 Makes 4 servings.
+
+### Cuisine: Western, American

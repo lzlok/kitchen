@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Norwegian Apple Cake
 {: .no_toc }
-
-#### Cuisine: Western, Norweigian
 ---
 
 ## Ingredients
@@ -27,3 +25,5 @@ grand_parent: Desserts
 
 ## Instructions
 Preheat oven to 325˚F. Grease and lightly flour a 12” Bundt pan. Combine sugar and oil in a large bowl. Stir in eggs and vanilla. Add apples. Sift in flour, baking soda, cinnamon, and salt. Add walnuts. Pour into pan. Bake ~1 hour until tester inserted into center comes out clean. Cool for 30 minutes. Invert cake onto rack and cool completely.
+
+### Cuisine: Western, Norweigian

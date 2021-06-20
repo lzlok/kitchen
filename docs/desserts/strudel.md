@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Apple or Cherry Strudel
 {: .no_toc }
-
-#### Cuisine: Western, Austrian
 ---
 
 ## Ingredients
@@ -51,3 +49,5 @@ Mix filling ingredients together. Preheat oven to 350˚. Spread a slightly damp 
 To freeze: butter a double thickness of foil, place the unbaked strudel on foil, butter the strudel, and wrap it up. Freeze. Do not defrost; unwrap and bake still frozen in a 350˚ preheated oven on a cookie sheet for 35-40 minutes, or until golden brown.
 
 Makes 1 strudel, 6-8 slices
+
+### Cuisine: Western, Austrian

@@ -7,8 +7,6 @@ parent: Sauces
 # Mole Poblano
 {: .no_toc }
 #### From <a href = "https://patijinich.com/mole_poblano_de_los_angeles/">Pati Jinich</a>
-
-#### Cuisine: Mexican
 ---
 
 ## Ingredients
@@ -56,3 +54,6 @@ Incorporate the already sautéed chiles and pour in the chicken broth. Stir and 
 In batches, puree the mixture in the blender or food processor until smooth. You can store this mole, covered, in the refrigerator for up to a month, or freeze it for up to a year.
 
 When ready to eat, dilute a cup of mole with ½ c. chicken broth in a saucepan and simmer for 2 to 3 minutes. Serve over cooked chicken or turkey and sprinkle with toasted sesame seeds on top.
+
+
+### Cuisine: Mexican

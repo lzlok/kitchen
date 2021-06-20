@@ -8,8 +8,6 @@ grand_parent: Breads
 # French-Style Country Bread
 {: .no_toc }
 #### From King Arthur Flour
-
-#### Cuisine: Western, French
 ---
 
 ## Starter
@@ -57,3 +55,6 @@ Preheat your oven to 475°F.
 Slash the bread with a sharp knife or lame. Dust it with a little flour. Spritz water into the oven, and place the bread in the oven. Reduce the heat to 425°F and spritz with water every few minutes for the first 15 minutes of baking.
 
 Bake the bread for about 25 to 30 minutes, or until it's a rich golden brown, and its interior temperature registers at least 190°F on a digital thermometer. The smaller loaves will bake more quickly, so keep your eye on them.
+
+
+### Cuisine: Western, French

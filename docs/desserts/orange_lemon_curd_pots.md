@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Orange and Lemon Curd Pots
 {: .no_toc }
-
-#### Cuisine: Western
 ---
 
 ## Ingredients
@@ -32,3 +30,5 @@ Preheat oven to 350˚F and grease 6 pudding molds. In a pan, bring the orange an
 Stand molds in roasting tin and pour in batter, then pour boiling water into tin. Bake until golden brown and firm (20 minutes). Serve with liqueur shipped cream, orange peel, and mint.
 
 Serves 6.
+
+### Cuisine: Western

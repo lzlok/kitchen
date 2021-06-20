@@ -8,8 +8,6 @@ grand_parent: Breads
 # Empanadas
 {: .no_toc }
 #### From Food Network
-
-#### Cuisine: Western, Spanish, Mexican
 ---
 
 ## Ingredients
@@ -51,3 +49,6 @@ brush the tops with egg white. Bake for about 20 minutes or until pastry is
 well puffed and golden. Remove from the oven, let cool then serve.
 
 Yields 8 to 12 servings.
+
+
+### Cuisine: Western, Spanish, Mexican

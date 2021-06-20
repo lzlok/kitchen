@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Food for the Gods (Date & Walnut Cake)
 {: .no_toc }
-
-#### Cuisine: Middle Eastern
 ---
 
 ## Ingredients
@@ -39,3 +37,5 @@ Cream the butter until soft. Gradually add both sugars, mixing well after all ha
 Pour into the mock tube pan, making sure not to fill the center. Bake at 350˚F for 30 minutes.
 
 Dust with confectioner’s sugar for decoration.
+
+### Cuisine: Middle Eastern

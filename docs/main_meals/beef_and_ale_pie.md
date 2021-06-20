@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Beef and Ale Pie 
 {: .no_toc }
-
-#### Cuisine: Western, British/Irish
 ---
 
 ## Ingredients
@@ -49,3 +47,6 @@ Stir in the broth, scraping the pot bottom and edges with a wooden spoon to loos
 Add 3 or so tablespoons of flour to the sauce and return to a simmer. Mix the cornstarch in as little cold water as possible to dissolve and add to the sauce. Cook until flour is fully cooked, adding more flour as necessary until sauce is thick enough for the pie. Return meat, peas, and potatoes to pot, mix, and chill. Roll out the bottom crust. Place in an 8”x8” glass dish about 2 – 3 inches tall. Trim so the crust is even with the edges of the dish. Fill with pie weights and bake at 425˚F, removing weights halfway through baking and pricking with holes so crust does not bubble. Remove when crust is fully baked.
 
 Fill the pie with the carbonnade à la Flamande filling (must be chilled) and top with remaining rolled out crust. Bake at 425˚F until top crust is golden brown. Serve cool.
+
+
+### Cuisine: Western, British/Irish

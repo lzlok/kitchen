@@ -6,8 +6,6 @@ parent: Breakfasts
 
 # Palačinke
 {: .no_toc }
-
-#### Cuisine: Western, Balkan
 ---
 
 ## Ingredients :)
@@ -18,3 +16,5 @@ parent: Breakfasts
 	<li>1 žlica ulja ili maslaca</li>
 	<li>Prstohvat soli</li>
 </ul>
+
+### Cuisine: Western, Balkan

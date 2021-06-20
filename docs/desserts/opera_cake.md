@@ -8,8 +8,6 @@ grand_parent: Desserts
 # Opera Cake
 {: .no_toc }
 #### From <i>Epicurious</i>, September 2004
-
-#### Cuisine: Western
 ---
 
 ## Ingredients
@@ -100,3 +98,5 @@ Reheat remaining glaze over barely simmering water just until shiny and spreadab
 If you can't find almond flour, you can pulse whole almonds with the confectioners sugar in a food processor until powdery (be careful not to grind to a paste). To take the temperature of a shallow amount of syrup, put bulb in saucepan and turn thermometer facedown, resting the other end against rim of saucepan. Check temperature frequently. Opéra cake can be made 2 days ahead. Cover sides with strips of plastic wrap and top of cake loosely with plastic wrap (once glaze is set) and chill cake. Remove plastic wrap from top immediately after removing cake from refrigerator and bring cake to room temperature, 30 minutes to 1 hour.
 
 Makes 6 to 8 servings.
+
+### Cuisine: Western

@@ -6,8 +6,6 @@ parent: Breakfasts
 
 # Champorado
 {: .no_toc }
-
-#### Cuisine: Asian, Filipino
 ---
 
 ## Ingredients
@@ -24,3 +22,5 @@ parent: Breakfasts
 Cook rice and water in a large pot. Add the rest of the ingredients after 20 minutes. Drizzles evaporated milk on top when serving.
 
 Makes 3 full servings.
+
+### Cuisine: Asian, Filipino

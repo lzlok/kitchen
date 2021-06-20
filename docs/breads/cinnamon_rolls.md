@@ -7,8 +7,6 @@ grand_parent: Breads
 
 # Cinnamon Rolls
 {: .no_toc }
-
-#### Cuisine: Western
 ---
 ## Ingredients
 ### Dough
@@ -78,3 +76,5 @@ lightly golden brown and the center rolls are cooked through.
 Store in an airtight container.
 
 Serves 12.
+
+### Cuisine: Western

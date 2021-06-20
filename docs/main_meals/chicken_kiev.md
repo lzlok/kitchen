@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Chicken Kiev
 {: .no_toc }
-
-#### Cuisine: Western
 ---
 
 ## Ingredients
@@ -47,3 +45,5 @@ Roll each chicken piece in ___ flour on a sheet of waxed paper. Dip each in beat
 In a Dutch oven or a large, _____ saucepan, slowly heat salad oil or shortening (3 inches deep) to 369˚F in a deep-frying thermometer. Add chicken pieces, 3 at a time. Fry, tuning with tongs until browned — 5 minutes. Drain. (Do not pierce? coating.) Keep warm in 200˚F oven (no more than 5 minutes) in a large frying pan with paper towel.
 
 Makes 8 servings.
+
+### Cuisine: Western

@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Goulash
 {: .no_toc }
-
-#### Cuisine: Western, Balkan
 ---
 
 ## Ingredients
@@ -32,3 +30,5 @@ Chop onions into coarse pieces and sauté in lard in a large pot over low heat. 
 Cut tomato into 1” pieces. Core and ring green peppers. Peel potatoes and cut into ¾” pieces. After 1 hour, add to meat. If necessary, add water to make a soupy consistency. Simmer for 30 minutes, then add potatoes and cook until done. Cook dumplings into the stew.
 
 Makes 8 servings.
+
+### Cuisine: Western, Balkan

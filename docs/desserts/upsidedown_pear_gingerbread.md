@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Upside-Down Pear Gingerbead Cake
 {: .no_toc }
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients
@@ -36,3 +34,5 @@ Preheat oven to 350˚F. In a small saucepan, melt butter over medium heat. Stir 
 For cake, mix milk and vinegar. Let stand for 5 minutes. In a large bowl, beat egg, brown sugar, molasses, melted butter, and milk mixture until well blended. In another bowl, whisk flour, cinnamon, baking soda, ginger, salt, and cloves. Gradually beat into molasses mixture. Spoon carefully over pears.
 
 Bake for 25 – 30 minutes or until a toothpick inserted in center comes out clean. Cool 10 minutes before inverting onto a serving plate. Serve with whipped cream. Makes one 9” cake.
+
+### Cuisine: Western, American

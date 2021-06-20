@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Arroz Con Pollo
 {: .no_toc }
-
-#### Cuisine: Western, Spanish
 ---
 
 ## Ingredients
@@ -44,3 +42,5 @@ Using back of spoon, crush saffron threads on a small piece of parchment, or use
 Arrange browned chicken pieces over rice. Bring just to boiling, uncovered. Bake in oven tightly covered, 1 hour.<i> [Note: Can also cook over low heat, tightly covered, instead of baking.] </i>Remove from oven. Add ½ c. water. Do not stir. Sprinkle peas and olives over top. Arrange red pepper strips on top. Bake covered, 20 minutes longer, or until chicken is tender and rice has absorbed all liquid. <i>[Note: If cooking on stove, can just keep on low.]</i> Remove from oven. Let stand, covered, 10 minutes. Serve right from Dutch oven.
 
 Serves 6 – 8. 
+
+### Cuisine: Western, Spanish

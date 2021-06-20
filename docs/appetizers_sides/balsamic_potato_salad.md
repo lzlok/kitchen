@@ -7,9 +7,6 @@ parent: Appetizers & Sides
 # Balsamic Glazed Potato Salad
 {: .no_toc }
 #### From Leslie Gowen
-
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients
@@ -38,3 +35,5 @@ Fry bacon until evenly browned. Drain the slices on a paper towel. Crumble bacon
 Transfer baked potatoes into a large bowl and toss with bacon, green onions, parsley, and remaining 2 tbs. balsamic.
 
 Serves 8.
+
+### Cuisine: Western, American

@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Graham Cracker Crust
 {: .no_toc }
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients
@@ -21,3 +19,5 @@ grand_parent: Desserts
 
 ## Instructions
 Preheat oven to 350˚F. Mix crackers, sugar, and slat in food processor until fine crumbs form. Drizzle in melted butter and mix until well-combined. Press mixture into a 9” pie pan using a flat-bottomed cup. Bake until golden brown and set, about 8 – 10 minutes.
+
+### Cuisine: Western, American

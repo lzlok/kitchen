@@ -6,8 +6,6 @@ parent: Soups
 
 # Soul-Soothing African Peanut Stew
 {: .no_toc }
-
-#### Cuisine: African
 ---
 
 ## Ingredients
@@ -39,3 +37,5 @@ In a large saucepan, heat the oil over medium heat. Add the onion and garlic and
 Add the bell pepper, jalapeno (option), sweet potato, and tomatoes with their juices. Raise heat to medium high and cook for 5 minutes. Season with salt and pepper.
 
 In a medium bowl, whisk together peanut butter and 1 c. of broth until no clumps remain. Stir the mixture into the vegetables along with the remaining 3 c. of broth, chili powder, and cayenne (optional). Cover pan with lid and reduce heat to medium low. Simmer for 10 – 20 minutes or until sweet potato is fork tender.
+
+### Cuisine: African

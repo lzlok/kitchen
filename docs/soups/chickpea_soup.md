@@ -6,8 +6,6 @@ parent: Soups
 
 # Joelle's Chickpea Soup
 {: .no_toc }
-
-#### Cuisine: Other
 ---
 
 ## Ingredients
@@ -33,3 +31,5 @@ In a large pot, heat the oil over medium heat. Add the onion, carrot, celery, an
 Meanwhile, toast the cumin seeds, if using, in a dry skillet over medium heat until lightly browned (1-3 min.). Grind into powder.
 
 Add cumin, harissa/cayenne, salt, and pepper to soup. Simmer for 15 minutes then discard bay leaves. Coarsely mash chickpeas in the pot. Add cilantro and lemon juice and heat through before serving.
+
+### Cuisine: Other

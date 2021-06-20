@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Mango Sticky Rice
 {: .no_toc }
-
-#### Cuisine: Asian, Thai
 ---
 
 ## Ingredients
@@ -46,3 +44,5 @@ In a mixing bowl, mix 2 tbs. coconut milk with 1 tbs. cornstarch. In the saucepa
 ### Serve
 
 Place mango on sticky rice and drizzle with coconut sauce. Tastes best if left to sit first for 1 – 2days. Sprinkle with coconut flakes before serving.
+
+### Cuisine: Asian, Thai

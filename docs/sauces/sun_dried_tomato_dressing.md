@@ -7,8 +7,6 @@ parent: Sauces
 # Sun-Dried Tomato Dressing
 {: .no_toc }
 
-#### Cuisine: Western
-
 ---
 For use with <a href = "./../../main_meals/shrimp_potato_salad" target = "blank">Mediterranean Potato Salad with Shrimp</a>
 ## Ingredients
@@ -27,3 +25,5 @@ For use with <a href = "./../../main_meals/shrimp_potato_salad" target = "blank"
 Blend tomatoes, bell pepper, olives, garlic, and salt until coarse. Purée in processor, occasionally scraping down sides. With machine running, gradually add both vinegars. Add oil in thin steady stream until blended. (Can be made 1 day ahead and refrigerated. Use at room temperature.)
 
 Makes ~1¾ c. dressing.
+
+### Cuisine: Western

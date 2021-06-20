@@ -7,8 +7,6 @@ parent: Soups
 # Minestrone
 {: .no_toc }
 
-#### Cuisine: Western, Italian
-
 ---
 
 ## Ingredients
@@ -37,3 +35,5 @@ Remove meat. Discard bones and grisle, cut meat into bite-sized pieces, then ret
 If prepared in advance, let sit but don’t refrigerate.
 
 Serves 6 people.
+
+### Cuisine: Western, Italian

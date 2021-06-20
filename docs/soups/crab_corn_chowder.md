@@ -7,8 +7,6 @@ parent: Soups
 # Crab and Corn Chowder with Bacon
 {: .no_toc }
 
-#### Cuisine: Western
-
 ---
 
 ## Ingredients
@@ -29,3 +27,5 @@ Sauté bacon in heavy large saucepan over medium heat until brown and crisp, abo
 Add half and half, corn, crab, fresh thyme, and half of bacon; cook uncovered until potatoes and corn are tender, about 5 minutes. Season to taste with salt and pepper. Ladle chowder equally into 6 bowls. Garnish with remaining bacon and serve.
 
 Makes 6 main course servings.
+
+### Cuisine: Western

@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Red Wine Braised Short Ribs
 {: .no_toc }
-
-#### Cuisine: Western, French?
 ---
 
 ## Ingredients
@@ -39,3 +37,5 @@ Add onions, carrots, and celery to pot and cook over medium-high heat, stirring 
 Cook until short ribs are tender, 2 – 2½ hours. Transfer short ribs to a platter. Strain sauce from pot into a measuring cup. Spoon fat from surface. Of sauce and discard. Season with salt and pepper. Serve in shallow bowls over mashed potatoes with sauce spooned over.
 
 Serves 6.
+
+### Cuisine: Western, French?

@@ -7,8 +7,6 @@ parent: Soups
 # Greek Lentil and Spinach Soup with Lemon
 {: .no_toc }
 
-#### Cuisine: Western, Greek
-
 ---
 
 ## Ingredients
@@ -45,3 +43,5 @@ Meanwhile, in a large skillet over medium heat, heat the olive oil until shimmer
 Thinly slice one of the lemons and cut the other into wedges. Just before serving, stir the lemon juice into the soup. Serve the soup hot, with a lemon slice floating atop each bowl. Pass lemon wedges at the table.
 
 Serves 8 (1.5 cups/person).
+
+### Cuisine: Western, Greek

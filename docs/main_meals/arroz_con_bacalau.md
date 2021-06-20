@@ -8,8 +8,6 @@ grand_parent: Main Meals
 # Arroz con Bacalao
 {: .no_toc }
 #### From Mama’s Spanish cookbook
-
-#### Cuisine: Western, Spanish
 ---
 
 ## Ingredients
@@ -47,3 +45,6 @@ Soak the cod 36 hours in water to cover, changing the water several times. Drain
 Arrange the potato slices over the casserole. Place in a 325˚F oven for 15 minutes, until the liquid is absorbed but the rice is not yet done. Place under the broiler briefly to brown the potatoes. Let sit, lightly covered with foil, for about 10 minutes more.
 
 While the rice is resting, place the crushed garlic in a processor or blender. Very gradually, with the motor running, pour in the oil (you may also do this with a mortar and pestle). Pass this garlic sauce separately. Serve the ice with Tomato and Egg Salad and a dry white wine like Campo Viejo.
+
+
+### Cuisine: Western, Spanish

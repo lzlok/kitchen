@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Tiramisu
 {: .no_toc }
-
-#### Cuisine: Western, Italian
 ---
 
 ## Ingredients
@@ -38,3 +36,5 @@ Without cleaning bowl, beat cream at medium speed until frothy (1 – 1½ min.).
 Roll ladyfingers in coffee mixture and line bottom of 13” x 9” glass or ceramic baking dish. Spread half of mascarpone mixture over lady fingers. Dust 2 tbs. of cocoa over mascarpone with a fine mesh strainer. Repeat with remaining ladyfingers, mascarpone, and cocoa. Cover with plastic wrap and refrigerate 6 – 24 hours. Sprinkle with chocolate.
 
 Serves 10 – 12.
+
+### Cuisine: Western, Italian

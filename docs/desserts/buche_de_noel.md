@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Bûche de Noel
 {: .no_toc }
-
-#### Cuisine: Western, French
 ---
 
 ## Ingredients
@@ -57,3 +55,5 @@ Combine ingredients in medium bowl. Beat with electric mixer until thick and the
 Unroll cake. Spread with filling to 1 inch from edge. Reroll. Place, seam side down, on plate. Cover loosely with foil. Refrigerate 1 hour before serving.
 
 Serves 10.
+
+### Cuisine: Western, French

@@ -8,8 +8,6 @@ grand_parent: Breads
 # Sally Lunn
 {: .no_toc }
 #### From <i>Beard on Bread</i>
-
-#### Cuisine: Western
 ---
 
 ## Ingredients
@@ -35,3 +33,5 @@ Beat down with wooden spoon for about 1 minute. Scrape into
 well-buttered 9 – 10” tube pan and let rise until batter reaches top of pan.
 Bake at 375˚F for 40 – 50 minutes or until bread is dark and golden on top and
 sounds hollow when rapped with your knuckles.
+
+### Cuisine: Western

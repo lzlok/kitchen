@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Herb-Roasted Chicken Thighs in Creamy Sauce
 {: .no_toc }
-
-#### Cuisine: Western, French
 ---
 
 ## Ingredients
@@ -34,3 +32,5 @@ Preheat oven to 400˚F. Heat 1 tbs. olive oil in a large skillet over medium-hig
 Add 2 tbsp butter, onion and sauté until the onion is browned, 3-4 minutes. Add chopped garlic, thyme and 1 tsp Italian seasoning and cook for another minute. Next add 1 tbs. flour and cook it in the oil of the pan for only a minute, until it’s no longer white. Add the wine slowly to the hot pan, increasing heat from medium-high to high and cook for a few minutes. Now add chicken stock and heavy cream. Stir to combine and let everything cook until it reduces slightly, about 5 minutes.&nbsp;Make sure to taste the sauce and add salt and pepper, to taste.
 
 Return chicken thighs back into the pan with sauce.&nbsp;Put in the oven uncovered and cook at 400˚ for 35 minutes.&nbsp;Once time is up, take the pan out of the oven, check if chicken thighs are done. Sprinkle with fresh thyme and serve with roasted vegetables, mashed potatoes or rice.
+
+### Cuisine: Western, French

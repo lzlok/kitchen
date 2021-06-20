@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Maja Blanca Maiz
 {: .no_toc }
-
-#### Cuisine: Asian, Filipino
 ---
 
 ## Ingredients
@@ -28,3 +26,5 @@ Mix all ingredients except coconut cream. Cook until thick. Pour onto dish with 
 ### Latik
 
 Boil coconut cream in skillet to produce oil and latik. Use oil to grease plate for maja.
+
+### Cuisine: Asian, Filipino

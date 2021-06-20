@@ -7,8 +7,6 @@ parent: Soups
 # Shrimp Bisque
 {: .no_toc }
 #### From <i>Food Network</i>, 2006
-
-#### Cuisine: Western, French
 ---
 
 ## Ingredients
@@ -37,3 +35,5 @@ Meanwhile, heat the olive oil in a large pot or Dutch oven. Add the leeks and co
 In the same pot, melt the butter. Add the flour and cook over medium-low heat for 1 minute, stirring with a wooden spoon. Add the half-and-half and cook, stirring with a whisk, until thickened, about 3 minutes. Stir in the pureed shrimp, the stock, tomato paste, salt, and pepper and heat gently until hot but not boiling. Season, to taste, and serve hot.
 
 4 to 6 servings.
+
+### Cuisine: Western, French

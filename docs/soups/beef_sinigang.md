@@ -7,8 +7,6 @@ parent: Soups
 # Beef Sinigang
 {: .no_toc }
 
-#### Cuisine: Asian, Filipino
-
 ---
 
 ## Ingredients
@@ -26,3 +24,6 @@ parent: Soups
 
 ## Instructions
 Simmer beef in enough water to cover. In a small bowl, mix the onions, tomatoes, and some salt. Mash together with your hand until tomato is broken up. Add to beef mixture. Boil until beef is tender, adding more water if necessary. When beef is tender, add taro. When taro is almost cooked, add the beans. When the beans are almost cooked, add the kangkong/spinach. Season to taste with patis and serve with patis.
+
+
+### Cuisine: Asian, Filipino

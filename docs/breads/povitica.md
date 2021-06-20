@@ -7,9 +7,6 @@ grand_parent: Breads
 
 # Povitica
 {: .no_toc }
-
-#### Cuisine: Western, Balkan
-
 ---
 
 ## Ingredients
@@ -78,3 +75,6 @@ Brush the dough with beaten egg white and bake for 15 minutes. Reduce the oven t
 Remove from the oven and leave to cool in the tin for 30 minutes before turning out onto a wire rack to cool completely.
 
 Mix the icing sugar with a few drops of cold water to make a runny icing and drizzle it over the povitica. Slice and enjoy.
+
+
+### Cuisine: Western, Balkan

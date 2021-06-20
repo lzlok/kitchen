@@ -6,8 +6,6 @@ parent: Breakfasts
 
 # Crumpets
 {: .no_toc }
-
-#### Cuisine: Western, British
 ---
 
 ## Ingredients
@@ -35,3 +33,5 @@ Turn the crumpets over and cook for an additional 5 minutes to finish cooking th
 Serve warm or cool completely, wrap in plastic, and store at room temperature. To enjoy, warm in the toaster. Serve with butter and jam.
 
 Yields approximately 10 crumpets.
+
+### Cuisine: Western, British

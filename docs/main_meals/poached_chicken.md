@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Poached Chicken with Vegetables, Coriander, and Couscous
 {: .no_toc }
-
-#### Cuisine: Western
 ---
 
 ## Ingredients
@@ -36,3 +34,5 @@ In a shallow dish, sprinkle the chicken with the cumin, salt, and garlic. Drizzl
 In a heavy saucepan, cook the onion, garlic, and ginger in the oil over moderately low heat, stirring, until they are softened. Cook the mixture for 30 seconds. Add the broth and 2 tbs. each of the cilantro and parsley. Bring the mixture to a boil, and simmer it for 10 minutes. Add the chicken and carrots and poach the chicken, covered, for 10 minutes. Turn the chicken, add zucchini, and cook covered, for 10 minutes, or until cooked through.
 
 Serves 2.
+
+### Cuisine: Western

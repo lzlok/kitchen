@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Braised Chicken with Garlic and Thyme
 {: .no_toc }
-
-#### Cuisine: Western, French
 ---
 
 ## Ingredients
@@ -28,3 +26,5 @@ Heat 4 tbs. oil in a large pot over medium high heat. Working in 2 batches, add 
 Serve chicken with garlic and sauce.
 
 Serves 8.
+
+### Cuisine: Western, French

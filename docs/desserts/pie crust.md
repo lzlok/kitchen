@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Pie Crust
 {: .no_toc }
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients
@@ -23,3 +21,5 @@ grand_parent: Desserts
 Crumble cold butter into flour and salt. Add cold water bit by bit until crust just barely keeps together. Shape into two equal disks and refrigerate.
 
 Makes two disks for one 9” pie.
+
+### Cuisine: Western, American

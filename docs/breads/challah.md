@@ -43,3 +43,5 @@ with poppy seeds. Bake at 400˚F for 35 – 45 minutes, or until loaves sound
 hollow when tapped with the knuckles. Cool on racks.
 
 Makes 2 braided loaves.
+
+### Cuisine: Western

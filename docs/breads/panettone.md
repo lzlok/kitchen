@@ -8,8 +8,6 @@ grand_parent: Breads
 # Panettone
 {: .no_toc }
 #### “Overnight Panettone” from King Arthur Flour
-
-#### Cuisine: Western, Italian
 ---
 
 ## Ingredients
@@ -66,3 +64,5 @@ using a digital thermometer. (It's easy to underbake, since it browns so
 quickly!)
 
 Remove the panettone from the oven and cool completely.
+
+### Cuisine: Western, Italian

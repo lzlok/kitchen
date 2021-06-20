@@ -6,8 +6,6 @@ parent: Appetizers & Sides
 
 # Cilantro Carrots with Cumin
 {: .no_toc }
-
-#### Cuisine: Other
 ---
 
 ## Ingredients
@@ -23,3 +21,5 @@ parent: Appetizers & Sides
 
 ## Instructions
 Combine carrots and water in saucepan. Add salt. Cover and boil carrots until crisp and tender (7 min). Drain excess water. Transfer carrots to bowl and mix in lemon juice, oil, cumin, garlic, salt, and pepper.
+
+### Cuisine: Other

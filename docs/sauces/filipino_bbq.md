@@ -7,8 +7,6 @@ parent: Sauces
 # Filipino Barbecue
 {: .no_toc }
 
-#### Cuisine: Asian, Filipino
-
 ---
 
 ## Ingredients
@@ -25,3 +23,5 @@ parent: Sauces
 
 ## Instructions
 Mix the marinade, adding 1 – 2 tbs. water as necessary. Marinate pork strips for at least an hour, can be overnight. Skewer pork. Grill until done. Brush on marinade before flipping skewers. Can also be made in the oven.
+
+### Cuisine: Asian, Filipino

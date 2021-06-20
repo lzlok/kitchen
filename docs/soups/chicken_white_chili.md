@@ -6,8 +6,6 @@ parent: Soups
 
 # Chicken White Chili Soup
 {: .no_toc }
-
-#### Cuisine: Mexican
 ---
 
 ## Ingredients
@@ -48,3 +46,5 @@ Melt butter in clean, heavy large pot over medium heat. Add onions, sautéing un
 Gradually whisk in chicken broth and half and half. Simmer gently until thickened, about 10 minutes. Add reserved white beans and roasted chilies, shredded chicken, and next 5 ingredients. Simmer gently to blend flavors (20 minutes).
 
 Serve with toppings. Serves 10 – 12.
+
+### Cuisine: Mexican

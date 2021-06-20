@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Vegetable Paella
 {: .no_toc }
-
-#### Cuisine: Western, Spanish
 ---
 
 ## Ingredients
@@ -45,3 +43,5 @@ Heat the oil in a paella pan, measuring 27 – 28” at its widest point (or in 
 Pour in all the hot broth and bring to a boil. Taste for salt and continue to boil about 5 minutes, stirring and rotating the pan occasionally, until the rice is no longer soupy but sufficient liquid remains to cook the rice. Stir in snap peas and transfer to oven. Cook uncovered 10 – 12 minutes in a gas oven, 15 – 12 minutes electric, until the rice is almost al dente. Remove to a warm spot, cover with foil, and let wit 5 – 10 minutes, until the rice is cooked to taste. Serve with garlic sauce.
 
 Serves 8.
+
+### Cuisine: Western, Spanish

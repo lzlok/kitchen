@@ -6,8 +6,6 @@ parent: Breakfasts
 
 # Waffles
 {: .no_toc }
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients
@@ -21,3 +19,5 @@ parent: Breakfasts
 	<li>3 tbs. melted butter</li>
 	<li>2 eggs</li>
 </ul>
+
+### Cuisine: Western, American

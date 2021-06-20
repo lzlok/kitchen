@@ -8,8 +8,6 @@ grand_parent: Breads
 # Pizza Caccia Nanza
 {: .no_toc }
 #### From <i>Beard on Bread</i>
-
-#### Cuisine: Western, Italian, American
 ---
 
 ## Ingredients
@@ -40,3 +38,5 @@ and rub gently. Sprinkle with salt and pepper and bake 15 minutes or until
 golden brown at 400˚F. Remove the garlic before serving.
 
 Serves 4 to 6. Makes 1 round loaf or perhaps 2 pizzas.
+
+### Cuisine: Western, Italian, American

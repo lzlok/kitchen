@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Stuffed Peppers
 {: .no_toc }
-
-#### Cuisine: Western, Balkans
 ---
 
 ## Ingredients
@@ -23,3 +21,5 @@ grand_parent: Main Meals
 
 ## Instructions
 Mix ground beef, finely diced onion, rice, salt, and pepper in bowl. Cut off the tops of the peppers and stuff up to three-quarters full. Arrange in pot. Add tomatoes, black peppers, salt, and bay leaf and simmer for 1 – 2 hours.
+
+### Cuisine: Western, Balkans

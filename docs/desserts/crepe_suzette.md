@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Crepe Suzette
 {: .no_toc }
-
-#### Cuisine: Western, French
 ---
 
 ## Orange Butter (~3 c.)
@@ -35,3 +33,6 @@ Purée the orange zest in the processor with the sugar. Add the pieces of butter
 Warm the pan, put the orange butter. Let it cook until it boils and bubbles and finally thickens into a syrup — about 5 minutes or more.
 
 One by one rapidly, with long-handled spoon and fork, bathe the crepes on each side in the orange butter; fold in half best side out, then in half again to make a wedge. Lay each, as folded, around the edge of the pan. When all are done, sprinkle 2 tbs. of sugar over the crepes. Pour a good ⅓ c. of cognac from the bottle into the ladle, then cover the crepes — never pour from the bottle to pan. Ladle on ⅓ c. of orange liqueur and let bubble up for several seconds. Ignite and dramatically from up high, spoon the flaming liquid over the crepes for a minute or so. Serve.
+
+
+### Cuisine: Western, French

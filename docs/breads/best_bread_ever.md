@@ -7,8 +7,6 @@ grand_parent: Breads
 
 # Best Bread Ever
 {: .no_toc }
-
-#### Cuisine: Western
 ---
 
 ## Ingredients
@@ -29,3 +27,5 @@ Put pizza stone in cold oven. Preheat oven to 500˚F. Allow the stone to stay in
 Bake baguettes for 20-22 minutes.
 
 <b>Note:</b> For a fluffier baguette, process for 20 seconds, rest 10 minutes, then process 25 seconds in the food processor step.
+
+### Cuisine: Western

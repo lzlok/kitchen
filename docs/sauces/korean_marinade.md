@@ -7,8 +7,6 @@ parent: Sauces
 # Korean Marinade
 {: .no_toc }
 
-#### Cuisine: Asian, Korean
-
 ---
 
 ## Ingredients
@@ -26,3 +24,5 @@ parent: Sauces
 
 ## Instructions
 Combine all. Marinate beef (usually ribs) for 1 hour. Broil to cook.
+
+### Cuisine: Asian, Korean
