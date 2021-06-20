@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Configuration
+search_exclude: False
 ---
 
 # Configuration
