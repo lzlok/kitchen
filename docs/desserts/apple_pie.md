@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Apple Pie
 {: .no_toc }
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients

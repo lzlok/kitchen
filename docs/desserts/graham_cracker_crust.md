@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Graham Cracker Crust
 {: .no_toc }
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients

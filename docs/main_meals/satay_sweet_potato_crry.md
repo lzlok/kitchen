@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Satay Sweet Potato Curry
 {: .no_toc }
-
-#### Cuisine: Asian, Indonesian
 ---
 
 ## Ingredients

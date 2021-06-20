@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Pork Adobo
 {: .no_toc }
-
-#### Cuisine: Asian, Filipino
 ---
 
 ## Ingredients

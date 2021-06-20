@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Portuguese Pork & Clams (Cataplana)
 {: .no_toc }
-
-#### Cuisine: Western, Portuguese
 ---
 
 ## Ingredients

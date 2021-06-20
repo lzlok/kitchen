@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Caramelized Banana Upside-Down Cake
 {: .no_toc }
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients

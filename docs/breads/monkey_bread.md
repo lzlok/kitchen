@@ -9,7 +9,6 @@ grand_parent: Breads
 {: .no_toc }
 #### From <i>Beard on Bread</i>
 
-#### Cuisine: Western
 ---
 
 ## Ingredients

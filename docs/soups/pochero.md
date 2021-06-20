@@ -7,8 +7,6 @@ parent: Soups
 # Betty How’s Pochero
 {: .no_toc }
 
-#### Cuisine: Asian, Filipino
-
 ---
 
 ## Ingredients

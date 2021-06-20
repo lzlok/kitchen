@@ -7,8 +7,6 @@ parent: Soups
 # Betty’s Kare Kare
 {: .no_toc }
 
-#### Cuisine: Asian, Filipino
-
 ---
 
 ## Ingredients

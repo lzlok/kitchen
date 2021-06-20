@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Chocolate Chip Cookies
 {: .no_toc }
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients

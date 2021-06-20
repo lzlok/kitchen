@@ -7,8 +7,6 @@ parent: Sauces
 # Béchamel Sauce
 {: .no_toc }
 
-#### Cuisine: Western, French
-
 ---
 
 ## Ingredients

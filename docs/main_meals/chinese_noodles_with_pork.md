@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Noodles with Chinese Meat Sauce
 {: .no_toc }
-
-#### Cuisine: Asian, Chinese
 ---
 
 ## Ingredients

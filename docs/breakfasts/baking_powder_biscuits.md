@@ -7,7 +7,6 @@ parent: Breakfasts
 # Baking Powder Biscuits
 {: .no_toc }
 
-#### Cuisine: Western, American
 ---
 
 ## Ingredients

@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Sweet and Sour Pork
 {: .no_toc }
-
-#### Cuisine: Asian, Chinese
 ---
 
 ## Ingredients

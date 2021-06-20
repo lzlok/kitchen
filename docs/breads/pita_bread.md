@@ -10,7 +10,6 @@ grand_parent: Breads
 
 #### From <i>Beard on Bread</i>
 
-#### Cuisine: Western, Middle Eastern
 ---
 
 ## Ingredients

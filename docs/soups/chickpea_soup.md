@@ -7,7 +7,6 @@ parent: Soups
 # Joelle's Chickpea Soup
 {: .no_toc }
 
-#### Cuisine: Other
 ---
 
 ## Ingredients

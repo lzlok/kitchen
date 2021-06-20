@@ -7,7 +7,6 @@ parent: Breakfasts
 # Palačinke
 {: .no_toc }
 
-#### Cuisine: Western, Balkan
 ---
 
 ## Ingredients :)

@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Warm Lemon Soufflé
 {: .no_toc }
-
-#### Cuisine: Western
 ---
 
 ## Ingredients

@@ -7,7 +7,6 @@ parent: Soups
 # Butternut Squash Soup with Sage
 {: .no_toc }
 
-#### Cuisine: Western
 ---
 
 ## Ingredients

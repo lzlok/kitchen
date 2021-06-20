@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Maja Blanca Maiz
 {: .no_toc }
-
-#### Cuisine: Asian, Filipino
 ---
 
 ## Ingredients

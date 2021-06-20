@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Moroccan Slow-Cooked Lamb
 {: .no_toc }
-
-#### Cuisine: African, Moroccan
 ---
 
 ## Ingredients

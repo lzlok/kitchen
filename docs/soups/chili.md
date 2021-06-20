@@ -7,7 +7,6 @@ parent: Soups
 # Beef Chili with Kidney Beans
 {: .no_toc }
 
-#### Cuisine: Mexican
 ---
 
 ## Ingredients

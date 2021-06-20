@@ -8,7 +8,6 @@ grand_parent: Breads
 # Cinnamon Rolls
 {: .no_toc }
 
-#### Cuisine: Western
 ---
 ## Ingredients
 ### Dough

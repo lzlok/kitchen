@@ -8,8 +8,6 @@ grand_parent: Breads
 # Christstollen
 {: .no_toc }
 #### From <a href="https://www.chefkoch.de/rezepte/835961188374766/Christstollen-ultimativ.html" target = "blank">Chef Koch</a>
-
-#### Cuisine: Western, German
 ---
 
 ## Ingredients

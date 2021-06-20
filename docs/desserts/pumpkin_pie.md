@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Pumpkin Pie
 {: .no_toc }
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients

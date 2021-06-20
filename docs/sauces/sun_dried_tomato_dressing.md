@@ -7,8 +7,6 @@ parent: Sauces
 # Sun-Dried Tomato Dressing
 {: .no_toc }
 
-#### Cuisine: Western
-
 ---
 For use with <a href = "./../../main_meals/shrimp_potato_salad" target = "blank">Mediterranean Potato Salad with Shrimp</a>
 ## Ingredients

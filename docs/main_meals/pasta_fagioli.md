@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Pasta Fagioli
 {: .no_toc }
-
-#### Cuisine: Western, Italian
 ---
 
 ## Ingredients

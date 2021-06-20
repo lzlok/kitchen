@@ -7,8 +7,6 @@ parent: Sauces
 # Mole Poblano
 {: .no_toc }
 #### From <a href = "https://patijinich.com/mole_poblano_de_los_angeles/">Pati Jinich</a>
-
-#### Cuisine: Mexican
 ---
 
 ## Ingredients

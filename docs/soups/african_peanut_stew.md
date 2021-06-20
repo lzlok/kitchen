@@ -7,7 +7,6 @@ parent: Soups
 # Soul-Soothing African Peanut Stew
 {: .no_toc }
 
-#### Cuisine: African
 ---
 
 ## Ingredients

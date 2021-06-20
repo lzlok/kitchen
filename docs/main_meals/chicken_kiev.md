@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Chicken Kiev
 {: .no_toc }
-
-#### Cuisine: Western
 ---
 
 ## Ingredients

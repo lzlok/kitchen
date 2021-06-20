@@ -8,8 +8,6 @@ grand_parent: Main Meals
 # Coq au Vin
 {: .no_toc }
 #### Based on Julia Child’s recipe
-
-#### Cuisine: Western, French
 ---
 
 ## Ingredients

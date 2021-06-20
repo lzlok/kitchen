@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Upside-Down Pear Gingerbead Cake
 {: .no_toc }
-
-#### Cuisine: Western, American
 ---
 
 ## Ingredients

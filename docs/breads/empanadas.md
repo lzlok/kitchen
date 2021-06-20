@@ -8,8 +8,6 @@ grand_parent: Breads
 # Empanadas
 {: .no_toc }
 #### From Food Network
-
-#### Cuisine: Western, Spanish, Mexican
 ---
 
 ## Ingredients

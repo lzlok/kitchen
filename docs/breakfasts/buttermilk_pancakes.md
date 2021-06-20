@@ -7,7 +7,6 @@ parent: Breakfasts
 # Buttermilk Pancakes with Maple Syrup Apples
 {: .no_toc }
 
-#### Cuisine: Western, American
 ---
 
 ## Apple Topping

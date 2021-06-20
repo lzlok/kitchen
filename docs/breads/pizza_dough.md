@@ -8,8 +8,6 @@ grand_parent: Breads
 # Pizza Caccia Nanza
 {: .no_toc }
 #### From <i>Beard on Bread</i>
-
-#### Cuisine: Western, Italian, American
 ---
 
 ## Ingredients

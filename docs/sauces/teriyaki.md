@@ -7,8 +7,6 @@ parent: Sauces
 # Teriyaki Marinade
 {: .no_toc }
 
-#### Cuisine: Asian, Japanese
-
 ---
 
 ## Ingredients

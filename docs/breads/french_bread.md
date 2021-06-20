@@ -8,8 +8,6 @@ grand_parent: Breads
 # French-Style Country Bread
 {: .no_toc }
 #### From King Arthur Flour
-
-#### Cuisine: Western, French
 ---
 
 ## Starter

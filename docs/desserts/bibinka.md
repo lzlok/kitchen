@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Bibinka
 {: .no_toc }
-
-#### Cuisine: Asian, Filipino
 ---
 
 ## Ingredients

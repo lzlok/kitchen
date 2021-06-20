@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Goulash
 {: .no_toc }
-
-#### Cuisine: Western, Balkan
 ---
 
 ## Ingredients

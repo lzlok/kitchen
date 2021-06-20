@@ -7,8 +7,6 @@ grand_parent: Main Meals
 
 # Lumpia Shanghai 
 {: .no_toc }
-
-#### Cuisine: Asian, Filipino
 ---
 
 ## Ingredients

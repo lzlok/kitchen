@@ -7,8 +7,6 @@ parent: Soups
 # Potato and Chouriço Soup with Crunchy Kale
 {: .no_toc }
 
-#### Cuisine: Western, Portuguese
-
 ---
 
 ## Ingredients

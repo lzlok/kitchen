@@ -7,7 +7,6 @@ parent: Breakfasts
 # Champorado
 {: .no_toc }
 
-#### Cuisine: Asian, Filipino
 ---
 
 ## Ingredients

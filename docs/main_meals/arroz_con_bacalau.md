@@ -8,8 +8,6 @@ grand_parent: Main Meals
 # Arroz con Bacalao
 {: .no_toc }
 #### From Mama’s Spanish cookbook
-
-#### Cuisine: Western, Spanish
 ---
 
 ## Ingredients

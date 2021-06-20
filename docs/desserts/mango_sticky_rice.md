@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Mango Sticky Rice
 {: .no_toc }
-
-#### Cuisine: Asian, Thai
 ---
 
 ## Ingredients

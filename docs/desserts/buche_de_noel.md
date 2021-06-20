@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Bûche de Noel
 {: .no_toc }
-
-#### Cuisine: Western, French
 ---
 
 ## Ingredients

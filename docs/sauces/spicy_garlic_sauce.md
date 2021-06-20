@@ -7,8 +7,6 @@ parent: Sauces
 # Spicy Garlic Sauce
 {: .no_toc }
 
-#### Cuisine: Spanish
-
 ---
 For use with <a href = "./../../main_meals/vegetable_paella" target = "_blank">Vegetable Paella</a>
 

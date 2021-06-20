@@ -7,8 +7,6 @@ parent: Soups
 # Greek Lentil and Spinach Soup with Lemon
 {: .no_toc }
 
-#### Cuisine: Western, Greek
-
 ---
 
 ## Ingredients

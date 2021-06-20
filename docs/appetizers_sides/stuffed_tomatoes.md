@@ -7,8 +7,6 @@ parent: Appetizers & Sides
 # Stuffed Tomatoes
 {: .no_toc }
 #### From Julia Child
-
-#### Cuisine: Western, French
 ---
 
 ## Ingredients

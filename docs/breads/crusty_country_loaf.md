@@ -8,7 +8,6 @@ grand_parent: Breads
 # Crusty Country Loaf
 {: .no_toc }
 
-#### Cuisine: Western
 ---
 
 ## Ingredients

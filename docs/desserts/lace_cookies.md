@@ -7,8 +7,6 @@ grand_parent: Desserts
 
 # Irish Lace Cookies
 {: .no_toc }
-
-#### Cuisine: Western, Irish
 ---
 
 ## Ingredients
