@@ -49,4 +49,4 @@ Add the beans, tomatoes, tomato purée, and ½ tsp. salt. Bring to a boil, then 
 Serves 8 to 10.
 
 --- 
- ### Cuisine: Mexican
+### Cuisine: Mexican

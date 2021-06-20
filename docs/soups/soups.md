@@ -3,7 +3,7 @@ layout: default
 title: Soups
 nav_order: 3
 has_children: true
-permalink: /docs/appetizers_sides
+permalink: /docs/soups
 ---
 
 # Soups
