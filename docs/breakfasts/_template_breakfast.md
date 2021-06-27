@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Crumpets
-parent: Experimental Rice Cooker Recipes
+parent: Breakfasts
 ---
 
 # Crumpets
@@ -15,3 +15,7 @@ parent: Experimental Rice Cooker Recipes
 </ul>
 
 ## Instructions
+
+--- 
+
+### Cuisine: 

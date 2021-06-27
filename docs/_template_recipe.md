@@ -15,3 +15,7 @@ parent: Breakfasts
 </ul>
 
 ## Instructions
+
+--- 
+
+### Cuisine: 
