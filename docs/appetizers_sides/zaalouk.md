@@ -30,7 +30,7 @@ In a large pan, heat oil and add all the ingredients (except the lemon wedge). C
 	<li>Can be kept up to 4 days in fridge</li>
 	<li>For variations, add zucchini and/or red peppers</li>
 	<li>If served as a dip, drizzle some olive oil on your zaalouk</li>
-
+</ul>
 --- 
 
 ### Cuisine: Middle Eastern
