@@ -16,6 +16,7 @@ grand_parent: Main Meals
 	<li>1 chicken cut into pieces or whole</li>
 	<li>Cucumbers, sliced</li>
 	<li>1 bunch of green onions</li>
+	<li>Ginger</li>
 </ul>
 
 ### Sauce
