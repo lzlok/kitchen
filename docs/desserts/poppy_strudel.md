@@ -18,12 +18,12 @@ Strudel makes 4 logs. Poppy seed filling makes 2 logs. Fill the remaining 2 stru
 
 <ul>
 	<li>2.1 c. milk</li>
-	<li>3-4 yeast cubes</li>
+	<li>3-4 yeast cubes (or 7-9 tsp. yeast)</li>
 	<li>A little bit of salt</li>
 	<li>1 tbs. sugar</li>
 	<li>1 kg. flour</li>
 	<li>200 g. margarine (gradina)</li>
-	<li>200 g. sugar + 1 vanila sugar</li>
+	<li>200 g. (1 c.) sugar + 1 vanila sugar</li>
 	<li>6 egg yolks</li>
 	<li>Lemon peel</li>
 	<li>A bit of rum</li>
@@ -45,7 +45,7 @@ Strudel makes 4 logs. Poppy seed filling makes 2 logs. Fill the remaining 2 stru
 <ul>
 	<li>500 g. ground poppy seeds</li>
 	<li>100 g. butter</li>
-	<li>200 g. sugar</li>
+	<li>200 g. (1 c.) sugar</li>
 	<li>Some raisins soaked in rum</li>
 	<li>As much milk as needed to make the mixture sit</li>
 </ul>
