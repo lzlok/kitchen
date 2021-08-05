@@ -86,6 +86,7 @@ crumbs evenly over the top of the cake, then tilt and turn the cake so that they
 adhering to them as they fall. If you are using only the ganache and not the crumbs, the ganache will be thicker on both the top and sides.
 
 Serve the cake at room temperature. To store, cover tightly and keep in a cool place for up to 4 days. It is not necessary to keep this cake in the refrigerator.
+
 --- 
 
 ### Cuisine: Western
