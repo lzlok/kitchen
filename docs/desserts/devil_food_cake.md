@@ -14,33 +14,33 @@ grand_parent: Desserts
 
 ### Cake
 <ul>
-	<li>1 ¾ c. (250g) all-purpose flour<\li>
-	<li>4 ½ tbs. cornstarch<\li>
-	<li>1 tsp. baking powder<\li>
-	<li>½ tsp. baking soda<\li>
-	<li>1 ¼ c. cocoa powder<\li>
-	<li>1 tsp. salt<\li>
-	<li>1 c. unsalted butter, room temperature<\li>
-	<li>2 ⅓ c. (468g) sugar<\li>
-	<li>5 large eggs<\li>
+	<li>1 ¾ c. (250g) all-purpose flour</li>
+	<li>4 ½ tbs. cornstarch</li>
+	<li>1 tsp. baking powder</li>
+	<li>½ tsp. baking soda</li>
+	<li>1 ¼ c. cocoa powder</li>
+	<li>1 tsp. salt</li>
+	<li>1 c. unsalted butter, room temperature</li>
+	<li>2 ⅓ c. (468g) sugar</li>
+	<li>5 large eggs</li>
 	<li>1 ¼ c. whole fat buttermilk</li>
 </ul>
 
 ### Chocolate Ganache
 <ul>
-	<li>8oz bittersweet chocolate (or 16oz if no crumb topping)<\li>
+	<li>8oz bittersweet chocolate (or 16oz if no crumb topping)</li>
 	<li>1 c. heavy cream (or 2 c. if no crumbs)</li>
 </ul>
 
 ### Caramel
 <ul>
-	<li>⅕ c. (50 ml  or roughly 3 ¼ tbs.) heavy cream<\li>
-	<li>⅛ vanilla bean or ½ tsp. vanilla extract<\li>
-	<li>⅖ c. (80 g) sugar<\li>
-	<li>1 tbs. (20ml) water<\li>
-	<li>Pinch of salt<\li>
-	<li>¾ tsp. light corn syrup or honey<\li>
-	<li>¼ tsp. lemon juice<\li>
+	<li>⅕ c. (50 ml  or roughly 3 ¼ tbs.) heavy cream</li>
+	<li>⅛ vanilla bean or ½ tsp. vanilla extract</li>
+	<li>⅖ c. (80 g) sugar</li>
+	<li>1 tbs. (20ml) water</li>
+	<li>Pinch of salt</li>
+	<li>¾ tsp. light corn syrup or honey</li>
+	<li>¼ tsp. lemon juice</li>
 	<li>4 tsp. unsalted butter</li>
 </ul>
 
