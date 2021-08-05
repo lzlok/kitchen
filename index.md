@@ -18,7 +18,7 @@ permalink: /
 
 I remember when you had to cook for yourself one summer, you made a lot of recipes from home, 
 so I've put all of Mama's recipes that I copied (as well as some of my own that I've enjoyed 
-enough to want make again) into a website for you. Obviously, you may still come over for meals, 
+enough to want to make again) into a website for you. Obviously, you may still come over for meals, 
 but since I won't cook for you all the time, I thought you might appreciate this. In light of
 your inclination for faster, simpler recipes, I've included an experimental rice cooker
 section of one-dish recipes that you can make by mixing everything in the rice cooker then

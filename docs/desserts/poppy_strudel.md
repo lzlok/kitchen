@@ -32,8 +32,8 @@ Strudel makes 4 logs. Poppy seed filling makes 2 logs. Fill the remaining 2 stru
 
 ### Walnut Filling
 <ul>
-	<li>Walnuts (more is better) + 100 g.</li>
-	<li>Melted butter</li>
+	<li>Walnuts (more is better)</li>
+	<li>100 g. melted butter</li>
 	<li>Milk</li>
 	<li>Vanilla sugar</li>
 	<li>Rum</li>
