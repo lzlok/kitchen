@@ -60,4 +60,4 @@ Add chicken, 3 tbsp. fish sauce, and sugar to soup. Season with salt or more fis
 
 --- 
 
-### Cuisine: Thai inspired
+### Cuisine: Asian, Thai inspired

@@ -45,4 +45,4 @@ Put all the vegetables together in a large pan and add the udon noodles. Fry on 
 
 --- 
 
-### Cuisine: Japanese
+### Cuisine: Asian, Japanese
