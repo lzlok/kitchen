@@ -40,9 +40,9 @@ To flatten chicken, place each half, smooth side down, on sheet of waxed paper a
 
 Cut frozen butter into 12 parts. Place a part of the herb butter incenter of each piece of chicken. Bring the long sides of the chicken over the butter and fold ends over, making sure that no butter is showing. Fasten each piece with toothpicks. This is very important to keep the herb butter inside during frying.
 
-Roll each chicken piece in ___ flour on a sheet of waxed paper. Dip each in beaten egg and roll in crumbs, coating evenly. Shape each piece, using hands, into triangles. Refrigerate, covered, until chilled for about 1 hour.
+Roll each chicken piece in the flour on a sheet of waxed paper. Dip each in beaten egg and roll in crumbs, coating evenly. Shape each piece, using hands, into triangles. Refrigerate, covered, until chilled for about 1 hour.
 
-In a Dutch oven or a large, _____ saucepan, slowly heat salad oil or shortening (3 inches deep) to 369˚F in a deep-frying thermometer. Add chicken pieces, 3 at a time. Fry, tuning with tongs until browned — 5 minutes. Drain. (Do not pierce? coating.) Keep warm in 200˚F oven (no more than 5 minutes) in a large frying pan with paper towel.
+In a Dutch oven or a large, heavy saucepan, slowly heat salad oil or shortening (3 inches deep) to 369˚F in a deep-frying thermometer. Add chicken pieces, 3 at a time. Fry, tuning with tongs until browned — 5 minutes. Drain. (Do not pierce? coating.) Keep warm in 200˚F oven (no more than 5 minutes) in a large frying pan with paper towel.
 
 Makes 8 servings.
 

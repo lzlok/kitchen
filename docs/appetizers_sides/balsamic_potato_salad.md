@@ -26,7 +26,7 @@ parent: Appetizers & Sides
 </ul>
 
 ## Instructions
-Preheat oven to 400˚ F. Whist olive oil, 3 tbs. balsamic vinegar, honey, paprika, garlic, salt, and pepper together in a large bowl.
+Preheat oven to 400˚ F. Whisk olive oil, 3 tbs. balsamic vinegar, honey, paprika, garlic, salt, and pepper together in a large bowl.
 
 Stir in potatoes and sweet onion into vinegar mixture. Toss to coat. Spread potatoes and onions on a large baking sheet. Bake until potatoes are easily pierced with a fork, 30-40 minutes.
 
