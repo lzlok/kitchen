@@ -15,3 +15,7 @@ parent: Soups
 </ul>
 
 ## Instructions
+
+--- 
+
+### Cuisine: Mexican
