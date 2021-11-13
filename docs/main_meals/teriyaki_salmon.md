@@ -47,4 +47,4 @@ Drizzle ⅔ of the sauce over the salmon and veggies. Bake for 15-20 minutes unt
 
 --- 
 
-### Cuisine: Mexican
+### Cuisine: Asian, Japanese

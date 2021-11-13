@@ -34,4 +34,4 @@ Cook the ribs for 10 minutes on one side then turn over and then add remaining m
 
 --- 
 
-### Cuisine: Mexican
+### Cuisine: Western, Puerto Rican
