@@ -54,6 +54,7 @@ if appropriate.
 			<li>Mediterranean</li>
 			<li>Norwegian</li>
 			<li>Portuguese</li>
+			<li>Puerto Rican</li>
 			<li>Spanish</li>
 		</ul>
 	</li>
