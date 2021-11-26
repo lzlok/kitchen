@@ -28,4 +28,4 @@ Bake at 425˚F for 40 – 45 minutes.
 
 --- 
 
-### Cuisine: Western, American
+### Cuisine: Western, American, Thanksgiving

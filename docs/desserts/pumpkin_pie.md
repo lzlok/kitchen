@@ -59,4 +59,4 @@ Preheat oven to 325˚F. Bake filled pie for 50 – 60 minutes until the filling 
 
 --- 
 
-### Cuisine: Western, American
+### Cuisine: Western, American, Thanksgiving

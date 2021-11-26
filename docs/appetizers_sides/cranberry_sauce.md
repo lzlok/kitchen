@@ -18,6 +18,7 @@ parent: Appetizers & Sides
 
 ## Instructions
 Mix everything together in a pot and cook until berries burst.
+
 --- 
 
 ### Cuisine: Wester, American, Thanksgiving

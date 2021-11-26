@@ -27,6 +27,7 @@ parent: Appetizers & Sides
 Boil giblets with a bay leaf and salt until cooked and tender. Chop giblets into fine cubes.
 
 Brown flour over low heat. Slowly add turkey drippings stirring continuously. Add chopped giblets and cook a bit longer. Add soy sauce and lemon juice according to taste. 
+
 --- 
 
 ### Cuisine: Western, American, Thanksgiving

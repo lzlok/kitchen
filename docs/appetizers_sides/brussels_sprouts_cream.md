@@ -12,7 +12,6 @@ parent: Appetizers & Sides
 
 ## Ingredients
 <ul>
-	<li>1 c. milk</li>
 	<li>brussels sprouts</li>
 	<li>whipping cream</li>
 	<li>salt</li>

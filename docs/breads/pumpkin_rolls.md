@@ -50,4 +50,4 @@ Makes 36 buns.
 
 --- 
 
-### Cuisine: Western, American
+### Cuisine: Western, American, Thanksgiving

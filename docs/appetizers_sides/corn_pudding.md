@@ -30,6 +30,7 @@ Whisk eggs together in a small bowl. Slowly add about 2 tbs. of the warm milk mi
 Pour into oven-proof dish and bake 30-40 minutes at 350 F.
 
 One recipe makes about 3 cups of corn pudding (before baking). 
+
 --- 
 
 ### Cuisine: Western, American, Thanksgiving

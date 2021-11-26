@@ -50,6 +50,7 @@ Thanksgiving menu to accompany the Turkey:
 	<li><a href = "./../../appetizers_sides/cranberry_sauce" target = "_blank">Cranberry sauce</a></li>
 	<li>Mashed potatoes</li>
 	<li><a href = "./../../desserts/apple_pie" target = "_blank">Apple pie</a></li>
+	<li><a href = "./../../desserts/pumpkin_pie" target = "_blank">Pumpkin pie</a></li>
 	<li><a href = "./../../desserts/apple_cider" target = "_blank">Apple cider</a></li>
 </ul>
 

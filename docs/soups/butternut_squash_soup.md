@@ -26,4 +26,4 @@ Melt remaining butter in skillet and fry sage until crisp.
 
 --- 
 
-### Cuisine: Western
+### Cuisine: Western, Thanksgiving
