@@ -29,7 +29,6 @@ grand_parent: Main Meals
 	<li>2 tbs. (40g) tomato paste</li>
 	<li>1½ tsp. salt or to your liking</li>
 	<li>2 c. water or chicken stock</li>
-</li>
 </ul>
 
 ## Instructions
