@@ -12,15 +12,15 @@ grand_parent: Desserts
 
 ## Ingredients
 <ul>
-	<li>6 eggs, separated <\li>
-	<li>¾ c. (150 g) sugar <\li>
-	<li>1 c. (150 g) almonds, peeled & ground or 150 g almond flour <\li>
-	<li>85 g butter <\li>
-	<li>4 tbs. vanilla sugar with XXX powdered sugar <\li>
-	<li>1 tbs. cocoa <\li>
-	<li>⅓ c. (80 ml) milk <\li>
-	<li>2 tbs. rum <\li>
-	<li>1 c. (200 g) sugar <\li>
+	<li>6 eggs, separated </li>
+	<li>¾ c. (150 g) sugar </li>
+	<li>1 c. (150 g) almonds, peeled & ground or 150 g almond flour </li>
+	<li>85 g butter </li>
+	<li>4 tbs. vanilla sugar with XXX powdered sugar </li>
+	<li>1 tbs. cocoa </li>
+	<li>⅓ c. (80 ml) milk </li>
+	<li>2 tbs. rum </li>
+	<li>1 c. (200 g) sugar </li>
 	<li>7 oz (198 g) almonds, chopped</li>
 </ul>
 

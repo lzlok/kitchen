@@ -12,12 +12,12 @@ parent: Breakfasts
 
 ## Ingredients
 <ul>
-	<li>1½ c. fine semolina or durum flour<\li>
-	<li>¾ c. all-purpose flour<\li>
-	<li>1 tbs. dry yeast<\li>
-	<li>2 tsp. baking powder<\li>
-	<li>1 tsp. sugar<\li>
-	<li>1 tsp. salt<\li>
+	<li>1½ c. fine semolina or durum flour</li>
+	<li>¾ c. all-purpose flour</li>
+	<li>1 tbs. dry yeast</li>
+	<li>2 tsp. baking powder</li>
+	<li>1 tsp. sugar</li>
+	<li>1 tsp. salt</li>
 	<li>3 c. + 2 tbs. lukewarm water</li>
 </ul>
 
@@ -33,12 +33,12 @@ Makes 16 5" beghrir.
 
 ### Notes
 <ul>
-	<li>Serve with honey, syrup (made from butter and honey), butter, or jam<\li>
-	<li>Leftovers will keep for two days at room temperature when wrapped in plastic or frozen for up to two or three months. Be sure to separate pancakes to avoid sticking. <\li>
-	<li>If the bubbles don't form properly, the batter may be slightly thick. Thin with water and let rest before attempting another pancake.<\li>
-	<li>You can use all semolina or durum flour: replace the white flour with an equal amount of the semolina or durum<\li>
-	<li>Beghrir are usually cooked only on one side. However, in some regions the cooks will flip them over briefly; in that case they might be called khringos.<\li>
-<\ul>
+	<li>Serve with honey, syrup (made from butter and honey), butter, or jam</li>
+	<li>Leftovers will keep for two days at room temperature when wrapped in plastic or frozen for up to two or three months. Be sure to separate pancakes to avoid sticking. </li>
+	<li>If the bubbles don't form properly, the batter may be slightly thick. Thin with water and let rest before attempting another pancake.</li>
+	<li>You can use all semolina or durum flour: replace the white flour with an equal amount of the semolina or durum</li>
+	<li>Beghrir are usually cooked only on one side. However, in some regions the cooks will flip them over briefly; in that case they might be called khringos.</li>
+</ul>
 
 --- 
 
