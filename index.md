@@ -50,6 +50,7 @@ if appropriate.
 			<li>English/Irish</li>
 			<li>French</li>
 			<li>Greek</li>
+			<li>Hungarian</li>
 			<li>Italian</li>
 			<li>Mediterranean</li>
 			<li>Norwegian</li>
