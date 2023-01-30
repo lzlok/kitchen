@@ -57,6 +57,7 @@ if appropriate.
 			<li>Portuguese</li>
 			<li>Puerto Rican</li>
 			<li>Spanish</li>
+			<li>Swedish</li>
 		</ul>
 	</li>
 	<li>Asian

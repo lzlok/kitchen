@@ -7,7 +7,7 @@ grand_parent: Breads
 ---
 
 # Kardemumbullar – Swedish Cardamom Buns
-### From <i><a href="https://www.177milkstreet.com/recipes/swedish-cardamom-buns-kardemummabullar">Milk Street</a></i>
+#### From <i><a href="https://www.177milkstreet.com/recipes/swedish-cardamom-buns-kardemummabullar">Milk Street</a></i>
 {: .no_toc }
 
 ---
@@ -60,7 +60,11 @@ Line 2 trays with parchment paper. Put 8 buns per tray, widely spaced apart. Let
 Make the egg wash by beating the egg white with water. Brush each bun with egg wash and sprinkle with sugar. Bake one tray at a time in order to get a lacy edge of melted cardamom sugar. Bake 15-18 minutes, 400F oven. Cool completely or until warm. Don’t eat hot; you want to be able to lift the bun with its corresponding cardamom sugar circle. This cardamom sugar circle is characteristic of this bun.
 
 ![Stretching the strips](/cardamom_buns/swedish-cardamom-buns-kardemummabullar-step-6.jpg)
-
+![Twisting the strips](/cardamom_buns/swedish-cardamom-buns-kardemummabullar-step-7.jpg)
+![Starting the bun](/cardamom_buns/swedish-cardamom-buns-kardemummabullar-step-8.jpg)
+![Wrapping the bun](/cardamom_buns/swedish-cardamom-buns-kardemummabullar-step-9.jpg)
+![Finished bun](/cardamom_buns/swedish-cardamom-buns-kardemummabullar-step-10.jpg)
+![Final bake](/cardamom_buns/swedish-cardamom-buns-kardemummabullar-v.jpg)
 --- 
 
 ### Cuisine: Western, Swedish
