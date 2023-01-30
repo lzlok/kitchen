@@ -7,7 +7,7 @@ grand_parent: Breads
 ---
 
 # Kardemumbullar – Swedish Cardamom Buns
-#### From <i><a href="https://www.177milkstreet.com/recipes/swedish-cardamom-buns-kardemummabullar">Milk Street</a></i>
+#### From <i><a href="https://www.177milkstreet.com/recipes/swedish-cardamom-buns-kardemummabullar" target="_blank">Milk Street</a></i>
 {: .no_toc }
 
 ---
@@ -18,19 +18,19 @@ grand_parent: Breads
 	<li>390 g (3 c.) all purpose flour</li>
 	<li>103 g (¾ c.) bread flour [can just use all-purpose flour]</li>
 	<li>80 g (6 tbs.) white sugar</li>
-	<li>1 tsp. crushed whole cardamom seeds (use whole cardamom seeds from white or green pods and then crush or grind
+	<li>1 tsp. crushed whole cardamom seeds (use whole seeds from white or green pods then crush or grind
 them; don’t use ground cardamom)</li>
 	<li>¾ tsp. table salt</li>
-	<li>1 tbs. instant yeast [increase original recipe to 4 tsp. active dry yeast]</li>
-	<li>113 g (1 stick/8 tbs.) salted butter, melted</li>
+	<li>4 tsp. instant yeast [original recipe: 1 tbs. active dry yeast]</li>
+	<li>113 g (1 stick, 8 tbs.) salted butter, melted</li>
 	<li>1¼ c. warm milk</li>
 	<li>1 egg yolk (save egg white for egg wash)</li>
 </ul>
 
 ### Filling
 <ul>
-	<li>163 g (¾ c., packed) brown sugar</li>
-	<li>170 g (12 tbs..) salted butter, softened</li>
+	<li>163 g (¾ c.) brown sugar, packed</li>
+	<li>170 g (12 tbs.) salted butter, softened</li>
 	<li>2 tsp. ground cardamom seeds</li>
 </ul>
 
