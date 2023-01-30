@@ -40,7 +40,7 @@ grand_parent: Main Meals
 
 ### Sauce
 <ul>
-	<li>½ c. sugar</li>
+	<li>¼ c. sugar</li>
 	<li>2 tbs. soy sauce</li>
 	<li>½ tsp. fine salt</li>
 	<li>2 c. water</li>
