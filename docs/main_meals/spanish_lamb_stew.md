@@ -12,9 +12,10 @@ grand_parent: Main Meals
 ---
 
 ## Ingredients
+
 <ul>
 	<li>2.5 lb. lab stew (preferably shoulder)</li>
-	<lil>3 tbs. olive oil</li>
+	<li>3 tbs. olive oil</li>
 	<li>1 large onion</li>
 	<li>1 red papper</li>
 	<li>3 cloves garlic</li>
