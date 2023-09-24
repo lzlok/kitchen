@@ -33,4 +33,4 @@ Add onion and apples. Cook for 2 minutes, stirring constantly. Add chicken broth
 
 --- 
 
-### Cuisine: Mexican
+### Cuisine: Western, German

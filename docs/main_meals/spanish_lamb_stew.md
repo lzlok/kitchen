@@ -45,6 +45,7 @@ After 30 minutes, check the lamb. If it isn't yet tender, cook another 15-20 min
 Remove from oven and add broth if needed. Salt to taste.
 
 Serve with crusty bread or nothing at all.
+
 --- 
 
-### Cuisine: Mexican
+### Cuisine: Western, Spanish
