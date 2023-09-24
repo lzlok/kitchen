@@ -42,6 +42,7 @@ grand_parent: Main Meals
 </ul>
 
 ## Instructions
+
 Soak dried mushrooms in 1 c. water until it is rehydrated then slice thinly. Reserve soaking liquid.
 
 Heat oil and sauté mushrooms and hebi until fragrant. Add in seasoning ingredients, cook for 5 minutes, and set aside.

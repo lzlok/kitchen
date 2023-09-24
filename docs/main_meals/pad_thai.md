@@ -6,7 +6,7 @@ grand_parent: Main Meals
 ---
 
 # Pad Thai
-#### From <i><a href="https://tastesbetterfromscratch.com/pad-thai/">Tastes Better from Scratch</a></i>
+#### From <i><a href="https://tastesbetterfromscratch.com/pad-thai/" target="_blank">Tastes Better from Scratch</a></i>
 {: .no_toc }
 ---
 
