@@ -36,4 +36,4 @@ Serves 2.
 
 --- 
 
-### Cuisine: Mexican
+### Cuisine: Western

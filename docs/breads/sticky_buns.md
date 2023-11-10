@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ultimate Sticky Nuns
+title: Ultimate Sticky Buns
 parent: Sweet Breads
 grand_parent: Breads
 ---
