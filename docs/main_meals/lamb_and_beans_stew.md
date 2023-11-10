@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Empanadas
-parent: Spanish-Style Lamb and Bean Stew
+title: Spanish-Style Lamb and Bean Stew
+parent: Lamb Recipes
 grand_parent: Main Meals
 ---
 
