@@ -38,4 +38,4 @@ Makes 18 to 24 pieces.
 
 --- 
 
-### Cuisine: Asian Filipino
+### Cuisine: Asian, Filipino

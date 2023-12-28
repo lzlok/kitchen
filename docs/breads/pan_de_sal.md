@@ -7,6 +7,7 @@ grand_parent: Breads
 ---
 
 # Pan de Sal
+#### Grandma's Recipe
 {: .no_toc }
 
 ---

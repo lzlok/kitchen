@@ -6,7 +6,7 @@ grand_parent: Desserts
 ---
 
 # Silvanas
-#### From Grandma
+#### Grandma's Recipe
 {: .no_toc }
 ---
 

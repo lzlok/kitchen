@@ -26,4 +26,4 @@ grand_parent: Desserts
 
 --- 
 
-### Cuisine: Western
+### Cuisine: Western, Italian
