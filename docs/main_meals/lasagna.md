@@ -12,7 +12,7 @@ grand_parent: Main Meals
 ## Ingredients
 
 <ul>
-	<li><a href ="pasta_dough" target = "_blank">Pasta</a></li>
+	<li><a href ="./pasta_dough" target = "_blank">Pasta</a></li>
 	<li>1 tbs. salt</li>
 	<li>2/3 c. freshly grated parmesan cheese</li>
 	<li>2 tbs. butter</li>
