@@ -25,11 +25,11 @@ grand_parent: Main Meals
 	<li>3 ts. butter</li>
 	<li>2 tbs. chopped celery</li>
 	<li>2 tbs. chopped carrot</li>
-	<li>3/4 lb. ground lean beef, preferably chuck or the meat from the neck</li>
+	<li>¾ lb. ground lean beef, preferably chuck or the meat from the neck</li>
 	<li>Salt</li>
 	<li>1 c. dry white wine</li>
-	<li>1/2 c. milk</li>
-	<li>1/8 tsp. nutmeg</li>
+	<li>½ c. milk</li>
+	<li>⅛ tsp. nutmeg</li>
 	<li>2 c. canned Italian tomatoes, roughly chopped, with their juice</li>
 </ul>
 
