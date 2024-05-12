@@ -6,37 +6,34 @@ grand_parent: Breads
 ---
 
 # French-Style Country Bread
+#### Adapted from <a href="https://www.kingarthurbaking.com/recipes/french-style-country-bread-recipe" target="_blank">King Arthur Flour</a>
 {: .no_toc }
-#### From King Arthur Flour
 ---
 
 ## Starter
 ### Ingredients
 <ul>
-	<li>1 c. (227g) cool-ish water (90-100°F)</li>
-	<li>½ tsp. active dry or instant yeast</li>
-	<li>1¼ c. (149g) bread flour</li>
-	<li>¼ c. (28g) whole wheat flour</li>
+	<li>2 c. (454g) cool-ish water (90-100°F)</li>
+	<li>1 tsp. active dry or instant yeast</li>
+	<li>2½ c. (298g) bread flour</li>
+	<li>½ c. (56g) whole wheat flour</li>
 </ul>
 
 ### Instructions
-Stir all of the starter ingredients together to make a thick, pudding-like mixture. Cover with plastic wrap and let it rest for at least 2 hours. For best flavor, let the starter rest longer; overnight (up to 16 hours) is best. If you plan on making the dough in a bread machine, place the sponge ingredients in the bucket, and turn the machine on for just a few seconds to mix the ingredients together. Turn the machine off and close the cover, then let the starter rest as directed above.
+Stir all of the starter ingredients together to make a thick, pudding-like mixture. Cover with plastic wrap and let it rest for 8 to 16 hours or until its rise peaks.
 
 ## Bread
 ### Ingredients
 <ul>
 	<li>All of the starter (above)</li>
-	<li>1 c. (227g) lukewarm water (100-115°F)</li>
-	<li>¾ tsp. active dry or ½ tsp. instant yeast</li>
-	<li>1 tbs. (14g) sugar</li>
-	<li>80g whole wheat flour</li>
-	<li>360g to 390g bread flour</li>
+	<li>½ tsp. active dry or 1 tsp. instant yeast</li>
+	<li>50g whole wheat flour</li>
+	<li>210g to 240g bread flour</li>
 	<li>1½ to 2¼ tsp. salt, to taste</li>
 </ul>
 
 ### Instructions
-Stir down the starter with a spoon and add the water, yeast,
-sugar, whole wheat flour, 300g of the bread flour, and the salt. The dough will
+Stir down the starter with a spoon and add the water, yeast, whole wheat flour, 150g of the bread flour, and the salt. The dough will
 be a loose, messy mass. Let it rest for 12 to 15 minutes, then stir it again;
 it should become more cohesive and a bit smoother.
 
@@ -56,7 +53,15 @@ Slash the bread with a sharp knife or lame. Dust it with a little flour. Spritz 
 
 Bake the bread for about 25 to 30 minutes, or until it's a rich golden brown, and its interior temperature registers at least 190°F on a digital thermometer. The smaller loaves will bake more quickly, so keep your eye on them.
 
+### Notes
+
+<ul>
+	<li>For a more flavorful three-day long version of the bread: Mix half the starter in the evening of the first night. Put the starter in the refrigerator overnight then take it out in the morning.
+	In the second evening, mix the remaining starter ingredients and bread ingredients. Fold roughly three times and immediately after the third fold, put in the fridge.
+	At the beginning of the third evening, take out the bread from the fridge, fold, and let sit out until room temperature (roughly 2 hours). Bake as directed.</li>
+</ul>
+
 
 --- 
 
-### Cuisine: Western, French
+### Cuisine: Western
