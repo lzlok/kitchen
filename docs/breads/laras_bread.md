@@ -1,11 +1,11 @@
 ---
 layout: default
-title: French-Style Country Bread
+title: Lara's Bread
 parent: Savory Breads
 grand_parent: Breads
 ---
 
-# French-Style Country Bread
+# Lara's Bread
 #### Adapted from <a href="https://www.kingarthurbaking.com/recipes/french-style-country-bread-recipe" target="_blank">King Arthur Flour</a>
 {: .no_toc }
 ---
