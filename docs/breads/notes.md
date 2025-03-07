@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bread notes
+title: Bread Notes
 parent: Breads
 has_children: true
 ---
