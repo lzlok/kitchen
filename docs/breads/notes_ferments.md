@@ -178,16 +178,17 @@ grand_parent: Breads
         <li>Feed 6 to 12 hours before baking so that the starter will be ripe but not overripe when you mix the bread dough.</li>
         <li>Feed quantity:</li>
         <ul>
-			<li>Suppose you want _d_ grams of starter to go into your bread dough.</li>
+			<li>Suppose you want $d$ grams of starter to go into your bread dough.</li>
             <li>Assume you want to retain 50g of starter for future bakes.</li>
             <li>Assume you plan to feed the starter in a 1:1:1 ratio for your last bake.</li>
-            <li>$ Starter required for last feeding = /frac{d + 50}{3} $</li>
-            <li>If the starter required for your last feeding is more than you have, use the equation below to find the quantity of starter you need to use for your first of n feeds before you bake. After this feed, do not discard any starter and always follow a 1:1:1 feed ratio. Play with different values of _n_ until the starter required for this is less than or equal to the amount of starter you have on hand. After _n_ feeds, your starter will be enough to use for baking.</li>
+            <li>$Starter required for last feeding = /frac{d + 50}{3}$</li>
+            <li>If the starter required for your last feeding is more than you have, use the equation below to find the quantity of starter you need to use for your first of n feeds before you bake. After this feed, do not discard any starter and always follow a 1:1:1 feed ratio. Play with different values of $n$ until the starter required for this is less than or equal to the amount of starter you have on hand. After $n$ feeds, your starter will be enough to use for baking.</li>
 			<ul>
-				<li>$ starter required to ramp for baking = /frac{d + 50}{3^{n}}$</li>
+				<li>$starter required to ramp for baking = /frac{d + 50}{3^{n}}$</li>
 			</ul>
             <li>Impact of temperature on feed ratio: Use a larger amount of starter relative to flour and water in colder climates (and vice versa for warmer climates).</li>
 		</ul>
+	</ul>
     <li>The levain is ready to be mixed into the bread dough when it</li>
     <ul>
         <li>Is sweet in an overripe-fruit sort of way.</li>
@@ -224,7 +225,6 @@ grand_parent: Breads
 | . | Sponge | Poolish | Pate fermentee | Biga |
 | --- | ---| ----- | ---- | ---- |
 | Baker's Formula | High hydration with warm water, flour, high proportion or all of recipe's yeast | <ul><li>100% flour</li><li>107% water</li><li>>0.1 - 0.27% instant yeast</li></ul> | Piece of old dough OR <ul><li>>100% flour</li><li>~65% water</li><li>>1.9% salt</li><li>>0.55% instant yeast</li></ul> | <ul><li>100% flour</li><li>66.7% water</li><li>>0.15 &mdash; 0.5% instant yeast</li></ul> |
-
 
 
 ## Determining a Pre-Ferment Done-ness
