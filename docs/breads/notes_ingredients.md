@@ -149,8 +149,9 @@ grand_parent: Breads
 			<li>Proofing was often recommended to verify that the yeast is still alive and to disperse it evenly in the liquid. Modern instant yeast is reliably active and formulated to prevent clumping, rendering proofing unnecessary.</li>
 			<li>SAF gold (osmotolerant yeast): special yeast for very sweet or very acidic doughs. Avoid for all other doughs.</li>
 		</ul>
+	</ul>
 	<li>Conversion between types of yeast, by weight: <br> 1g instant yeast = 1.2 to 1.5g active yeast = 3g fresh yeast</li>
-	<li>Commercial yeast dies at temperatures as low as 114˚F.</li>
+	<li>Commercial yeast dies at temperatures as low as 114&deg;F.</li>
 </ul>
 
 ## Salt
@@ -206,15 +207,15 @@ grand_parent: Breads
 <ul>
 	<li>Dough temperature</li>
 	<ul>
-		<li>Ideal: 78˚F</li>
-		<li>Next best range of temperatures : 75˚ to 80˚F</li>
+		<li>Ideal: 78&deg;F</li>
+		<li>Next best range of temperatures : 75&deg; to 80&deg;F</li>
 	</ul>
-	<li>Tartine expects their sourdough bread to rise for 3 to 4 hours at ~80˚F.</li>
+	<li>Tartine expects their sourdough bread to rise for 3 to 4 hours at ~80&deg;F.</li>
 	<ul>
-		<li>Using cooler water that reduces the temperature of the dough by 1˚ - 2˚F results in a ~1.5h longer rise time.</li>
-		<li>Mixing a 65˚F dough and leaving the dough in a 55˚ - 65˚F room will require an 8 to 12 hour rise.</li>
+		<li>Using cooler water that reduces the temperature of the dough by 1&deg; - 2&deg;F results in a ~1.5h longer rise time.</li>
+		<li>Mixing a 65&deg;F dough and leaving the dough in a 55&deg; - 65&deg;F room will require an 8 to 12 hour rise.</li>
 	</ul>
-	<li>Machine mixers add ~25˚F to the dough.</li>
+	<li>Machine mixers add ~25&deg;F to the dough.</li>
 	<li>It's hard to regulate room temperature, so regulate water temperature to achieve the ideal dough temperature. The temperatures below should result in a 2 to 4 hour bulk rise time.</li>
 	<ul>
 		<li>Water temperature (if using a pre-ferment) = (4 x desired dough temperature) to (flour temperature + room temperature + pre-ferment temperature + friction factor)</li>
@@ -223,10 +224,10 @@ grand_parent: Breads
 	<li>Let's simplify the above equations:</li>
 	<ul>
 		<li>Assume the flour and room temperatures are the same</li>
-		<li>Assume a desired dough temperature of 76.5˚F</li>
-		<li>Assume the use of a machine mixer adding 25˚F</li>
-		<li>Water temperature (if using a pre-ferment) = 281˚F to (2 x room temperature + pre-ferment temperature)</li>
-		<li>Water temperature (if no pre-ferment) = 205˚F to (2 x room temperature)</li>
+		<li>Assume a desired dough temperature of 76.5&deg;F</li>
+		<li>Assume the use of a machine mixer adding 25&deg;F</li>
+		<li>Water temperature (if using a pre-ferment) = 281&deg;F to (2 x room temperature + pre-ferment temperature)</li>
+		<li>Water temperature (if no pre-ferment) = 205&deg;F to (2 x room temperature)</li>
 	</ul>
 </ul>
 
