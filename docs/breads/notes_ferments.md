@@ -28,6 +28,7 @@ grand_parent: Breads
         <li>Day 3: Starter should be bubbly with a leathery alcohol smell. Repeat process from Day 2. By the end of the day, the starter should have a pungent, "sour porridge" odor.</li>
         <li>Day 4: Discard all but 50g of the starter. Add 125g each of 90&deg;F water and whole wheat flour. Mix until just incorporated. Cover and let rest in a warm place.</li>
         <li>Day 5: Culture should be vigorous enough to use in breads. Switch to regular maintenance feeding schedule.</li>
+	</ul>
 </ul>
 
 
@@ -88,6 +89,7 @@ grand_parent: Breads
     <ul>
         <li>Feed more times per day.</li>
         <li>Retain a smaller percentage of starter.</li>
+	</ul>
 </ul>
 
 ### How to Tell Ripeness for Baking
@@ -125,6 +127,7 @@ grand_parent: Breads
             <li>Substitute 25% &mdash; 30% of the weight of the flour in the recipe with flour from the discard.</li>
             <li>Example: No-discard recipe includes 170g of flour and 340g of milk. Choose to use 120g of flour + 100g of discard + 310g of milk. Since the 100g of discard has 50g of flour and 50g of water in it, the original quantities of flour and liquid have been maintained.</li>
 		</ul>
+	</ul>
 </ul>
 
 ### Stiff Cultures
@@ -214,6 +217,7 @@ grand_parent: Breads
         </ul>
         <li>How ripe the levain is</li>
         <li>How much levain is used in the final dough</li>
+	</ul>
 </ul>
 
 ## Pre-Ferments
