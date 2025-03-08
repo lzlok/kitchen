@@ -225,7 +225,12 @@ grand_parent: Breads
 
 |  | Sponge | Poolish | Pate fermentee | Biga 
 | --- | ---| ----- | ---- | ---- 
-| Baker's Formula | High hydration with warm water, flour, high proportion or all of recipe's yeast | {::nomarkdown}<ul><li>100% flour</li><li>107% water</li><li>>0.1 - 0.27% instant yeast</li></ul>{:/} | Piece of old dough OR {::nomarkdown} <ul><li>>100% flour</li><li>~65% water</li><li>>1.9% salt</li><li>>0.55% instant yeast</li></ul>{:/} | {::nomarkdown}<ul><li>100% flour</li><li>66.7% water</li><li>>0.15 &mdash; 0.5% instant yeast</li></ul>{:/}
+| Baker's Formula | High hydration with warm water, flour, high proportion or all of recipe's yeast | {::nomarkdown}<ul><li>100% flour</li><li>107% water</li><li>0.1 - 0.27% instant yeast</li></ul>{:/} | Piece of old dough OR {::nomarkdown} <ul><li>100% flour</li><li>~65% water</li><li>1.9% salt</li><li>0.55% instant yeast</li></ul>{:/} | {::nomarkdown}<ul><li>100% flour</li><li>66.7% water</li><li>0.15 &mdash; 0.5% instant yeast</li></ul>{:/}
+| Consistency | - | Loose | Dough-y | Stiff
+| Fermentation Time | 15 minutes to 4 hours | ~ 15 hours at cool room temperature. Until very bubbly on top with bubbles visibly popping, has alcohol-yeast smell. | ? | 4 hours to 16 hours. Until bubbly, slightly domed on top, and smells strongly of alcohol and yeast.
+| Origin | ? | French-Polish | French | Italian
+| Resulting Bread | ? | {::nomarkdown} <ul><li>Creamy, slightly nutty</li><li>Crisp, thin crust</li><li>Used in baguettes</li></ul>{:/}  | - | {::nomarkdown}<ul><li>Earthy, musky flavor</li><li>Used in ciabatta</li></ul>{:/}
+| Note | Intended to jump start the yeast rather than build flavor and structure | Add most of the bread’s yeast in the unfermented dough. | Can store in the freezer for up to 3 months. | Knead. Not adding salt enables less yeast to be used.
 
 
 ## Determining a Pre-Ferment Done-ness
