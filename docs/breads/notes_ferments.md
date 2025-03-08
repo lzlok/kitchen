@@ -223,9 +223,9 @@ grand_parent: Breads
 
 ## Pre-Ferments
 
-| . | Sponge | Poolish | Pate fermentee | Biga 
+|  | Sponge | Poolish | Pate fermentee | Biga 
 | --- | ---| ----- | ---- | ---- 
-| Baker's Formula | High hydration with warm water, flour, high proportion or all of recipe's yeast | <ul><li>100% flour</li><li>107% water</li><li>>0.1 - 0.27% instant yeast</li></ul> | Piece of old dough OR <ul><li>>100% flour</li><li>~65% water</li><li>>1.9% salt</li><li>>0.55% instant yeast</li></ul> | <ul><li>100% flour</li><li>66.7% water</li><li>>0.15 &mdash; 0.5% instant yeast</li></ul> 
+| Baker's Formula | High hydration with warm water, flour, high proportion or all of recipe's yeast | {::nomarkdown}<ul><li>100% flour</li><li>107% water</li><li>>0.1 - 0.27% instant yeast</li></ul>{:/} | Piece of old dough OR {::nomarkdown} <ul><li>>100% flour</li><li>~65% water</li><li>>1.9% salt</li><li>>0.55% instant yeast</li></ul>{:/} | {::nomarkdown}<ul><li>100% flour</li><li>66.7% water</li><li>>0.15 &mdash; 0.5% instant yeast</li></ul>{:/}
 
 
 ## Determining a Pre-Ferment Done-ness
