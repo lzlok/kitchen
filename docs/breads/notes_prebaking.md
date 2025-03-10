@@ -151,6 +151,7 @@ grand_parent: Breads
             <li>Smaller loaf.</li>
             <li>Some portion(s) ripped open on the sides or top (i.e., the bread kept expanding after the crust set).</li>
 		</ul>
+	</ul>
     <li>Overproofed</li>
     <ul>
         <li>Sign when raw: the dough tends to collapse. Does not hold shape when shaped.</li>
