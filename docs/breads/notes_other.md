@@ -77,6 +77,7 @@ grand_parent: Breads
             <li>All other grains: use a 2:1 ratio by weight.</li>
             <li>Optional additional pre-ferment</li>
         </ul>
+    </ul>
     <li>Substitute the water for fresh whey.</li>
     <li>OR add 1 tsp of young leaven or live culture yogurt to the water.</li>
     <ul>
@@ -88,6 +89,7 @@ grand_parent: Breads
         <li>Strain off excess liquid.</li>
         <li>Soaked and drained grains can be refrigerated for up to 3 days. Bring back to room temperature before use.</li>
         <li>Incorporate into the bread after the first two series of turns, about 1 hour into the bulk rise then proceed with bread process as usual.</li>
+    </ul>
 </ul>
 
 ## Adapting Recipes

@@ -44,7 +44,7 @@ grand_parent: Breads
 4.	After 15 &mdash; 20 minutes, reduce the temperature to 450&deg;F or 475&deg;F and remove the lid of the Dutch oven, opening the lid away from you to let the steam escape without scalding your face and arms. If the loaf is steamed well, it will be pale and shiny.
 5.	Continue baking until done.
 
-### method 2: Open Bake (No Dutch Oven)
+### Method 2: Open Bake (No Dutch Oven)
 
 1.	Place an empty cast-iron pan on the bottom rack of the oven. Also preheat the baking stone if using.
 2.	Preheat the oven at 500&deg;F for at least 30 minutes before baking, or 45 minutes if using a baking stone.
