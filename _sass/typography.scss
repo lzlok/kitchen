@@ -27,9 +27,10 @@ h3,
 h4,
 .text-delta {
   @include fs-2;
-  font-weight: 400;
+  font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.1em;
+  font-style: oblique;
   font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif
 }
 

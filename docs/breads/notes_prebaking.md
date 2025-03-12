@@ -282,13 +282,13 @@ For the batard, especially if not using a banneton, be sure to create a firmer s
     </ul>
     <li>Every 17&deg;F difference in temperature effectively doubles or halves the proofing time.</li>
     <li>What to look for</li>
-	<ol>
+	<ul>
 		<li>"Doorbell test": if you push the dough lightly with a floured fingertip, it leaves an indent then springs back slowly (2 to 3 seconds) and incompletely. If it springs back quickly, it needs more time. If the indentation remains without springing back, it"s overrisen.</li>
 		<li>The dough feels marshmallow-y: light, gassy, and full of air.</li>
 		<li>It"s fluffy without being fragile.</li>
 		<li>May not be fully doubled.</li>
 		<li>A collapsing dough will yield a dense, heavy bread.</li>
-	</ol>
+	</ul>
     <li>If using the refrigerator:</li>
     <ul>
         <li>Only recommended if the estimated rise time is 2+ hours. Doughs with a shorter rise time typically have more yeast. For these doughs, if rising in the fridge overnight, reduce the yeast slightly to prevent the dough from acquiring an overly yeasty flavor.</li>
@@ -342,23 +342,25 @@ For the batard, especially if not using a banneton, be sure to create a firmer s
 
 ## Pizza Special: Shaping the Pizza
 
-1.	Lightly dust your pizza peel with the same flour you used to make your pizza dough. Don"t use cornmeal or coarse grains.
-2.	Generously flour the work surface.
-3.	Pat the chilled pizza dough down onto the flour.
-4.	Turn over and repeat, leaving about 1 inch of the outer rim un-deflated.
-5.	Again, flip the dough over and pat down, leaving about 1 inch of the outer rim un-deflated.
-6.	With two hands, grab the rim at 10 o"clock and 2 o"clock and lift so the crust hangs down vertically. Place your thumbs about an inch from the perimeter to preserve the rim. Gravity will stretch down the dough.
-7.	Run the rim between your hands, working all the way around the circumference of the dough several times.
-<ul>
+<ol>
+	<li>Lightly dust your pizza peel with the same flour you used to make your pizza dough. Don"t use cornmeal or coarse grains.</li>
+	<li>Generously flour the work surface.</li>
+	<li>Pat the chilled pizza dough down onto the flour.</li>
+	<li>Turn over and repeat, leaving about 1 inch of the outer rim un-deflated.</li>
+	<li>Again, flip the dough over and pat down, leaving about 1 inch of the outer rim un-deflated.</li>
+	<li>With two hands, grab the rim at 10 o"clock and 2 o"clock and lift so the crust hangs down vertically. Place your thumbs about an inch from the perimeter to preserve the rim. Gravity will stretch down the dough.</li>
+	<li>Run the rim between your hands, working all the way around the circumference of the dough several times.</li>
 	<ul>
-        <li>Dust with flour as necessary during this process. Easiest done by plopping the dough down on an already-dusted work surface.</li>
+		<ul>
+			<li>Dust with flour as necessary during this process. Easiest done by plopping the dough down on an already-dusted work surface.</li>
+		</ul>
 	</ul>
-</ul>
-8.	Still working in the air, make two fists and position them just inside the rim with the crust still hanging vertically over your fists. Gently stretch and turn the dough repeatedly, still letting the bottom of the dough pull down to expand the surface.
-9.	Work your way around the dough until the pizza is of even and desired thickness.
-10.	Place dough on pizza peel.
-11.	Run your hands around the perimeter of the dough to make it a circle.
-12.	Give the pizza peel a test shake to ensure the dough hasn"t stuck.
-13.	Add toppings to the pizza.
-14.	Bake immediately.
+	<li>Still working in the air, make two fists and position them just inside the rim with the crust still hanging vertically over your fists. Gently stretch and turn the dough repeatedly, still letting the bottom of the dough pull down to expand the surface.</li>
+	<li>Work your way around the dough until the pizza is of even and desired thickness.</li>
+	<li>Place dough on pizza peel.</li>
+	<li>Run your hands around the perimeter of the dough to make it a circle.</li>
+	<li>Give the pizza peel a test shake to ensure the dough hasn"t stuck.</li>
+	<li>Add toppings to the pizza.</li>
+	<li>Bake immediately.</li>
+</ol>
 
