@@ -76,11 +76,11 @@ grand_parent: Breads
 			<li>Repeat pincer method several more times until dough starts to have tension.</li>
 		</ol>
         <li>Bench scraper method</li>
-		<ul>
+		<ol>
             <li>Turn the dough out onto a lightly floured board.</li>
             <li>Using a bench scraper, cut the dough into chunks roughly the size of a large lime (or smaller if you like!).</li>
             <li>Remix and fold the dough and repeat until it starts to have tension.</li>
-		</ul>
+		</ol>
 	</ul>
     <li>Optional: later stages of kneading (before bulk rise)</li>
     <ul>
@@ -144,27 +144,27 @@ grand_parent: Breads
 ### Underproofing and Overproofing
 
 <ul>
-    <li>Underproofed</li>
-    <ul>
-        <li>Sign when baked</li>
+	<li>Underproofed</li>
+	<ul>
+		<li>Sign when baked</li>
 		<ul>
-            <li>Smaller loaf.</li>
-            <li>Some portion(s) ripped open on the sides or top (i.e., the bread kept expanding after the crust set).</li>
+			<li>Smaller loaf.</li>
+			<li>Some portion(s) ripped open on the sides or top (i.e., the bread kept expanding after the crust set).</li>
 		</ul>
 	</ul>
-    <li>Overproofed</li>
-    <ul>
-        <li>Sign when raw: the dough tends to collapse. Does not hold shape when shaped.</li>
-        <li>Sign when baked</li>
+	<li>Overproofed</li>
+	<ul>
+		<li>Sign when raw: the dough tends to collapse. Does not hold shape when shaped.</li>
+		<li>Sign when baked</li>
 		<ul>
-            <li>Flat, collapsed.</li>
-            <li>Large bubbles just beneath the top crust.</li>
-            <li>Tight, uniform crumb inside (if the bread was made from a very wet dough).</li>
-            <li>Crust became golden faster, and the loaf has a dull color when done.</li>
-            <li>Scores on loaf did not open well.</li>
+			<li>Flat, collapsed.</li>
+			<li>Large bubbles just beneath the top crust.</li>
+			<li>Tight, uniform crumb inside (if the bread was made from a very wet dough).</li>
+			<li>Crust became golden faster, and the loaf has a dull color when done.</li>
+			<li>Scores on loaf did not open well.</li>
 		</ul>
-        <li>Slightly overproofed: bake immediately.</li>
-        <li>Truly overproofed: collapse the bread, reshape it, and proof it again.</li>
+		<li>Slightly overproofed: bake immediately.</li>
+		<li>Truly overproofed: collapse the bread, reshape it, and proof it again.</li>
 	</ul>
 </ul>
 
