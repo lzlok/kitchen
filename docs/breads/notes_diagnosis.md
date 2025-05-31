@@ -12,16 +12,16 @@ grand_parent: Breads
 <ul>
     <li>If you"re generally unsatisfied with your bread but don"t know where to start improving, consider the following</li>
     <ul>
-        <li>Measurement: Any error on the scale, especially for yeast or salt? </li>
-        <li>Condition of the pre-ferment when mixed into the final dough</li>
-        <li>Flour: new type of flour, new brand</li>
-        <li>Folds: quantity, timing</li>
-        <li>Dough temperature: upon mixing, during bulk rise </li>
-        <li>Bulk fermentation: rise time relative to rise volume</li>
-        <li>Room temperature: ambient temperature warmer or cooler than usual?</li>
-        <li>Proofing: underproofed or overproofed</li>
-        <li>Dough strength and hydration: dough feel (sticky/stiff), dough volume, amount of gas in dough</li>
-        <li>Baking: oven temperature, amount of steam, baking time</li>
+        <li><i>Measurement</i>: Any error on the scale, especially for yeast or salt? </li>
+        <li><i>Condition</i> of the pre-ferment when mixed into the final dough</li>
+        <li><i>Flour</i>: new type of flour, new brand</li>
+        <li><i>Folds</i>: quantity, timing</li>
+        <li><i>Dough temperature</i>: upon mixing, during bulk rise </li>
+        <li><i>Bulk fermentation</i>: rise time relative to rise volume</li>
+        <li><i>Room temperature</i>: ambient temperature warmer or cooler than usual?</li>
+        <li><i>Proofing</i>: underproofed or overproofed</li>
+        <li><i>Dough strength and hydration</i>: dough feel (sticky/stiff), dough volume, amount of gas in dough</li>
+        <li><i>Baking</i>: oven temperature, amount of steam, baking time</li>
     </ul>
 </ul>
 
