@@ -25,10 +25,10 @@ grand_parent: Desserts
 ### Filling
 <ul>
 	<li>2-inch piece of vanilla bean or 1 tsp vanilla extract</li>
-	<li>¾ c. confectioner’s sugar</li>
+	<li>¾ c. confectioner's sugar</li>
 	<li>6 oz. unsalted butter, softened</li>
 	<li>3 tbs. prepared strong espresso coffee, or 3 level teaspoons instant coffee powder mixed with 3 tablespoons water</li>
-	<li>1 egg (optional))</li>
+	<li>1 egg (optional)</li>
 	<li>3 oz. semisweet chocolate</li>
 </ul>
 
