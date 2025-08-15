@@ -22,12 +22,12 @@ grand_parent: Desserts
 
 ### Filling
 <ul>
-	<li>4 eggs</li>
-	<li>200g sugar</li>
-	<li>1 tsp. vanilla extract</li>
-	<li>200g butter, softened</li>
-	<li>300g dark chocolate, melted</li>
-	<li>1 tbs Dutch-processed cocoa powder</li>
+	<li>5 eggs</li>
+	<li>175g sugar</li>
+	<li>1¼ tsp. vanilla extract</li>
+	<li>250g butter, softened</li>
+	<li>375g dark chocolate, melted</li>
+	<li>1¼ tbs Dutch-processed cocoa powder</li>
 </ul>
 
 ### Caramel
@@ -48,7 +48,7 @@ Mix 2 egg yolks with 16g of powdered sugar, and beat 2 egg whites with 16g of po
 
 Stir 33g of flour into the egg yolk mixture and drizzle in 12g of melted butter.
 
-Carefully fold the egg whites into the mixture. Spread the finished dough on 2 pre-marked baking sheets, grease with a spatula, and shape into a circle within the frame. Bake for about 8-10 minutes. Repeat this process twice more, resulting in 6 sponge cake bases.
+Carefully fold the egg whites into the mixture. Spread the finished dough on 2 pre-marked baking sheets, grease with a spatula, and shape into a 22cm circle within the frame. Bake for about 8-10 minutes. Repeat this process twice more, resulting in 6 sponge cake bases.
 
 ### Filling
 Beat the eggs, sugar, vanilla, and salt in a double boiler until it thickens slightly. Do not let the water come to a boil at any time; that will make the eggs curdle. Take the mixture off the heat and continue beating it until it cools slightly. Set aside and leave it to cool a bit more. Stir from time to time.
@@ -77,7 +77,8 @@ Cool the cake in the refrigerator until the filling is firm, 3 to 4 hours. Slice
 
 ## Notes
 <ul>
-	<li>If the buttercream curdles, you can fix it by beating it at high speed or gently heating it in a double boiler while mixing until smooth. Just don’t let it get too warm or melt. </li>
+	<li>If the buttercream curdles, you can fix it by beating it at high speed or gently heating it in a double boiler while mixing until smooth. Just don't let it get too warm or melt. </li>
+	<li>When I tried to make this, the 6 eggs only filled two quarter sheet pans because they collapsed so much during mixing. If concerned about this, mix all 6 eggs at once and bake the two quarter sheets of cake simultaneously. Then, cut each pan into 3 slices and stack to make a 6 layer cake. The frosting recipe above should be 25% more than the exact amount needed for a cake made with two quarter sheet pans. If following the size of cake in the main recipe, consider increasing the frosting otherwise it may be incredibly exact or slightly too little.</li>
 </ul>
 
 --- 

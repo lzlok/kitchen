@@ -23,7 +23,7 @@ grand_parent: Main Meals
 	<li>½ c. white wine</li>
 	<li>40g butter, cubed</li>
 	<li>⅔ c. cream</li>
-	<li>1 &ndash 2 tsp. lemon juice</li>
+	<li>1 – 2 tsp. lemon juice</li>
 	<li>1 tsp saffron</li>
 </ul>
 
