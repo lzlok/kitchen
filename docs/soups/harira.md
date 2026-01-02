@@ -55,6 +55,11 @@ Mix the fresh parsley and cilatro into the soup just before serving. Squeeze lem
 * Regarding the quantity of broth: There should be enough liquid in the soup that, after serving, one does not see all the solids in the bowl and must stir or *p from the bottom to see the chickpeas.
 * The eastern region of Morocco also adds caraway seeds and paprika when adding the spices.
 * Reference videos
+    * <a href="https://www.youtube.com/watch?v=4O_1F-pM2WE" target="_blank">https://www.youtube.com/watch?v=4O_1F-pM2WE</a>
+    * <a href="https://www.youtube.com/watch?v=sUSYJNFgNYY" target="_blank">https://www.youtube.com/watch?v=sUSYJNFgNYY</a>
+    * <a href="https://www.youtube.com/watch?v=Kc2_jCvNES8" target="_blank">https://www.youtube.com/watch?v=Kc2_jCvNES8</a>
+    * <a href="https://www.youtube.com/watch?v=RwEhO87a7vM" target="_blank">https://www.youtube.com/watch?v=RwEhO87a7vM</a>
+* Reference videos
     * [https://www.youtube.com/watch?v=4O_1F-pM2WE](https://www.youtube.com/watch?v=4O_1F-pM2WE)
     * [https://www.youtube.com/watch?v=sUSYJNFgNYY](https://www.youtube.com/watch?v=sUSYJNFgNYY)
     * [https://www.youtube.com/watch?v=Kc2_jCvNES8](https://www.youtube.com/watch?v=Kc2_jCvNES8)
