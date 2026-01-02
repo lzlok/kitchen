@@ -57,10 +57,10 @@ Mix the fresh parsley and cilatro into the soup just before serving. Squeeze lem
 	<li>The eastern region of Morocco also adds caraway seeds and paprika when adding the spices.</li>
 	<li>Reference videos
 	<ul>
-		<li><a href-"https://www.youtube.com/watch?v=4O_1F-pM2WE" target="_blank">https://www.youtube.com/watch?v=4O_1F-pM2WE</a></li>
-		<li><a href-"https://www.youtube.com/watch?v=sUSYJNFgNYY" target="_blank">https://www.youtube.com/watch?v=sUSYJNFgNYY</a></li>
-		<li><a href-"https://www.youtube.com/watch?v=Kc2_jCvNES8" target="_blank">https://www.youtube.com/watch?v=Kc2_jCvNES8</a></li>
-		<li><a href-"https://www.youtube.com/watch?v=RwEhO87a7vM" target="_blank">https://www.youtube.com/watch?v=RwEhO87a7vM</a></li>
+		<li>[https://www.youtube.com/watch?v=4O_1F-pM2WE](https://www.youtube.com/watch?v=4O_1F-pM2WE)</li>
+		<li>[https://www.youtube.com/watch?v=sUSYJNFgNYY](https://www.youtube.com/watch?v=sUSYJNFgNYY)</li>
+		<li>[https://www.youtube.com/watch?v=Kc2_jCvNES8](https://www.youtube.com/watch?v=Kc2_jCvNES8)</li>
+		<li>[https://www.youtube.com/watch?v=RwEhO87a7vM](https://www.youtube.com/watch?v=RwEhO87a7vM)</li>
 	</ul>
 	</li>
 </ul>
