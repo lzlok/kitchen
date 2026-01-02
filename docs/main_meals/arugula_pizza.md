@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 # Arugula Prosciutto Pizza
-#### From <i><a href-"https://thepracticalkitchen.com/arugula-and-prosciutto-pizza/#recipe" target="_blank">The Practical Kitchen</a></i>
+#### From <i><a href="https://thepracticalkitchen.com/arugula-and-prosciutto-pizza/#recipe" target="_blank">The Practical Kitchen</a></i>
 {: .no_toc }
 
 ---
