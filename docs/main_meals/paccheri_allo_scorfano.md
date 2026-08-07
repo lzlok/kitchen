@@ -9,6 +9,8 @@ permalink: /docs/main_meals/paccheri_allo_scorfano/
 # Paccheri allo scorfano
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 <img class="cookbook-photo" src="{{ '/assets/images/cookbook/scorfano2.png' | relative_url }}" alt="Paccheri allo scorfano">
 
 ## Ingredients

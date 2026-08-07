@@ -9,6 +9,8 @@ permalink: /docs/main_meals/ossobuco_alla_milanese/
 # Ossobuco alla milanese
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 <img class="cookbook-photo" src="{{ '/assets/images/cookbook/ossobuco.JPG' | relative_url }}" alt="Ossobuco alla milanese">
 
 *Ossobuco*—*òss bus* in Milanese dialect—is a quintessential Milanese dish. Although many recipes call for beef shank, veal is the right choice here: it is more tender and a perfect size for an individual portion.

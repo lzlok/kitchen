@@ -8,6 +8,8 @@ permalink: /docs/sauces/roux/
 # Roux
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 A roux is a cooked paste of flour and butter used to thicken sauces. Adjust the ratio and cooking time to change its thickening power and color.
 
 ## Ingredients

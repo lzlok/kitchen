@@ -8,6 +8,8 @@ permalink: /docs/sauces/mayonnaise/
 # Mayonnaise
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 Mayonnaise is an emulsion of egg yolks and oil. Use a neutral oil: grapeseed is ideal, with canola or avocado oil as good alternatives.
 
 ## Ingredients

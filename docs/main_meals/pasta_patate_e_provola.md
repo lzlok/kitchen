@@ -9,6 +9,8 @@ permalink: /docs/main_meals/pasta_patate_e_provola/
 # Pasta, patate e provola
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 *Pasta, patate e provola* is quintessential Neapolitan comfort food. It is creamy, cheesy, and deeply flavorful. Its unique cooking method is more like making risotto than boiling pasta.
 
 ## Ingredients

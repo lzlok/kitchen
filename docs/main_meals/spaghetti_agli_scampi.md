@@ -9,6 +9,8 @@ permalink: /docs/main_meals/spaghetti_agli_scampi/
 # Spaghetti agli scampi
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 ## Ingredients
 
 ### Per person
@@ -28,7 +30,7 @@ permalink: /docs/main_meals/spaghetti_agli_scampi/
 ### Make the scampi bisque
 
 1. Clean the scampi, separating the heads from the bodies and removing the shells. Set the meat aside.
-2. Make the [crustacean bisque]({{ '/docs/soups/seafood_stock/#crustacean-bisque' | relative_url }}) with the scampi heads and shells. Strain and set aside.
+2. Make the [crustacean bisque]({{ '/docs/soups/crustacean_bisque/' | relative_url }}) with the scampi heads and shells. Strain and set aside.
 
 ### Make the sauce
 

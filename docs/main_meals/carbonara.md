@@ -9,6 +9,8 @@ permalink: /docs/main_meals/carbonara/
 # La carbonara
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 <img class="cookbook-photo" src="{{ '/assets/images/cookbook/carbonara2.png' | relative_url }}" alt="La carbonara">
 
 ## Ingredients

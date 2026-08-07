@@ -9,6 +9,8 @@ permalink: /docs/main_meals/amatriciana/
 # L'amatriciana
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 ## Ingredients
 
 ### About 4 servings

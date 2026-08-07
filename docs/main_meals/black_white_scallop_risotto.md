@@ -11,6 +11,8 @@ permalink: /docs/main_meals/black_white_scallop_risotto/
 
 #### Created by Marco Cavallucci and Angelo Asirelli
 
+*Source: Guida Gallo.*
+
 Two contrasting risottos—creamy Carnaroli and nutty black rice—finished with saffron, grilled scallops, and hazelnut oil.
 
 ## Ingredients
@@ -22,7 +24,7 @@ Two contrasting risottos—creamy Carnaroli and nutty black rice—finished with
 - 12 scallops
 - 1 shallot, finely chopped and divided
 - Abruzzese saffron threads, as needed
-- Hot [fish stock]({{ '/docs/soups/seafood_stock/' | relative_url }}), as needed
+- Hot [fish stock]({{ '/docs/soups/fish_stock/' | relative_url }}), as needed
 - Hazelnut oil or chopped hazelnuts
 - Extra-virgin olive oil, as needed
 - White wine, as needed

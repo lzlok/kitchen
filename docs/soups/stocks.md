@@ -8,6 +8,6 @@ permalink: /docs/soups/stocks/
 
 # Stocks
 
-Stocks are the base of countless recipes. Whenever a long braise might otherwise use plain water, a stock adds depth; they are also essential for risotto. This collection covers vegetable, beef, chicken, and seafood stocks.
+Stocks are the base of countless recipes. Whenever a long braise might otherwise use plain water, a stock adds depth; they are also essential for risotto. This collection covers vegetable, beef, chicken, and fish stocks, along with crustacean bisque.
 
 {: .fs-6 .fw-300 }

@@ -9,6 +9,8 @@ permalink: /docs/main_meals/ragu_alla_bolognese/
 # Ragù alla bolognese
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 <img class="cookbook-photo" src="{{ '/assets/images/cookbook/ragu.png' | relative_url }}" alt="Tagliatelle with ragù alla bolognese">
 
 ## Ingredients

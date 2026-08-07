@@ -10,6 +10,8 @@ permalink: /docs/soups/vegetable_stock/
 # Vegetable stock
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 ## Ingredients
 
 - Onions

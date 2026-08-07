@@ -9,6 +9,8 @@ permalink: /docs/main_meals/scaloppine_al_vino_rosso/
 # Scaloppine al vino rosso
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 *Scaloppine* are a popular quick dinner of thin cutlets that are floured, seared, and deglazed with wine. Veal makes the most delicious version, but pork, beef, or chicken will also work.
 
 ## Ingredients

@@ -10,6 +10,8 @@ permalink: /docs/soups/beef_stock/
 # Beef stock
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 ## Ingredients
 
 - Onions

@@ -9,6 +9,8 @@ permalink: /docs/main_meals/brasato_al_barolo/
 # Brasato al Barolo
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 *Brasato al Barolo* is a traditional braised beef dish from Piemonte. The meat and red-wine sauce are the stars, so use the best of each that you can. Barolo is ideal; Barbaresco or another Nebbiolo-based wine such as Gattinara will maintain the character of the dish.
 
 The traditional beef cuts come from the shoulder, neck, or thigh and contain enough fat and connective tissue for a long braise. The ultimate choice is *cappello del prete*—top blade—with its distinct horizontal center vein. *Pesce* and *noce* are also excellent.

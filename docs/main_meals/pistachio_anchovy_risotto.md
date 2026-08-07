@@ -11,6 +11,8 @@ permalink: /docs/main_meals/pistachio_anchovy_risotto/
 
 #### Created by Andrea Berton
 
+*Source: Guida Gallo.*
+
 A refined seafood risotto topped with lemon-marinated anchovies, smooth pistachio cream, and slowly dried spring onions.
 
 ## Ingredients
@@ -18,7 +20,7 @@ A refined seafood risotto topped with lemon-marinated anchovies, smooth pistachi
 ### About 4 servings
 
 - 280 g Carnaroli del Pavese Gran Riserva rice
-- 2 liters hot [fish stock]({{ '/docs/soups/seafood_stock/' | relative_url }})
+- 2 liters hot [fish stock]({{ '/docs/soups/fish_stock/' | relative_url }})
 - ½ glass white wine
 - 50 g butter
 - 8 fresh anchovies

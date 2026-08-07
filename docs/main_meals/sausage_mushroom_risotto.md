@@ -9,6 +9,8 @@ permalink: /docs/main_meals/sausage_mushroom_risotto/
 # Sausage and Porcini Risotto
 {: .no_toc }
 
+*Source: Ambrogio Maestri.*
+
 A hearty saffron risotto with crumbled fresh sausage and porcini mushrooms.
 
 ## Ingredients

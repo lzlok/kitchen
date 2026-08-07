@@ -9,6 +9,8 @@ permalink: /docs/main_meals/capretto_al_vino_rosso/
 # Capretto al vino rosso di Paola
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 My mother's baby goat recipe. No additional words are needed: this is it.
 
 ## Ingredients

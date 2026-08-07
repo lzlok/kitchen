@@ -9,6 +9,8 @@ permalink: /docs/main_meals/pumpkin_risotto_amaretti/
 # Pumpkin Risotto with Amaretti
 {: .no_toc }
 
+*Source: Ambrogio Maestri.*
+
 A winter risotto that balances sweet pumpkin with savory cheese and a crisp amaretti finish.
 
 ## Ingredients

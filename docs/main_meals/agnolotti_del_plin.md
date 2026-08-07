@@ -9,6 +9,8 @@ permalink: /docs/main_meals/agnolotti_del_plin/
 # Agnolotti del plin al brasato
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 <img class="cookbook-photo" src="{{ '/assets/images/cookbook/plin.png' | relative_url }}" alt="Agnolotti del plin">
 
 *Agnolotti del plin* are small, pocket-shaped ravioli typical of Piemonte. Traditionally they contain a rich roasted-meat filling; this version uses brasato.

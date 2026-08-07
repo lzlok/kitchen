@@ -9,6 +9,8 @@ permalink: /docs/main_meals/spaghetti_allo_scoglio/
 # Spaghetti allo scoglio
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 <img class="cookbook-photo" src="{{ '/assets/images/cookbook/scoglio.jpg' | relative_url }}" alt="Spaghetti allo scoglio with clams">
 
 ## Ingredients

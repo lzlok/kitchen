@@ -10,6 +10,8 @@ permalink: /docs/soups/chicken_stock/
 # Chicken stock
 {: .no_toc }
 
+*Source: Guglielmo G.*
+
 ## Ingredients
 
 - 1 whole chicken
